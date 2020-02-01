@@ -6711,3 +6711,5 @@ Script Stack (0 frames):
 [2020.02.01-05.00.26:173][992]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
 [2020.02.01-05.00.26:418][992]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/2DSideScrollerExampleMap2C4E13524F6FC83C102035BD28305C45.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
 [2020.02.01-05.00.26:468][992]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/2DSideScrollerExampleMap_BuiltDa8F5D64B0487EB0D3326BE5B2F9B5AD46.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2020.02.01-05.09.42:187][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-05.09.44:004][907]LogSlate: FSceneViewport::OnFocusLost() reason 0
