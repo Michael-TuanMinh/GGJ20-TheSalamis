@@ -1,0 +1,1664 @@
+﻿Log file open, 01/31/20 20:59:22
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SalamisGamejam
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 71 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.823472
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithDataPrepEditor
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithGLTFImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU:       Intel(R) Xeon(R) CPU E5-2697 v2 @ 2.70GHz, GPU: AMD FirePro D700 (FireGL V)
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=Shadowdragonzz -epicuserid=5870c50e1bfc40f49754403491f9aa70 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.01-01.59.22:975][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.01-01.59.22:975][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.01-01.59.22:975][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Config/Windows/Engine.ini]
+[2020.02.01-01.59.22:975][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.01-01.59.22:975][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2020.02.01-01.59.22:975][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2020.02.01-01.59.22:975][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2020.02.01-01.59.22:975][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2020.02.01-01.59.22:975][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2020.02.01-01.59.22:975][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2020.02.01-01.59.22:975][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2020.02.01-01.59.22:975][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2020.02.01-01.59.22:975][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2020.02.01-01.59.22:975][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.02.01-01.59.22:975][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2020.02.01-01.59.22:975][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2020.02.01-01.59.22:975][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2020.02.01-01.59.22:975][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2020.02.01-01.59.22:975][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.02.01-01.59.22:975][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2020.02.01-01.59.22:975][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2020.02.01-01.59.22:975][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2020.02.01-01.59.22:975][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2020.02.01-01.59.22:975][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2020.02.01-01.59.22:975][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2020.02.01-01.59.22:975][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.02.01-01.59.22:975][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.02.01-01.59.22:975][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.02.01-01.59.22:975][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2020.02.01-01.59.22:975][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2020.02.01-01.59.22:975][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2020.02.01-01.59.22:975][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2020.02.01-01.59.22:975][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2020.02.01-01.59.22:975][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2020.02.01-01.59.22:975][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2020.02.01-01.59.22:975][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2020.02.01-01.59.22:975][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2020.02.01-01.59.22:975][  0]LogConfig: Setting CVar [[r.DOF.Algorithm:1]]
+[2020.02.01-01.59.22:975][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2020.02.01-01.59.22:975][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2020.02.01-01.59.22:975][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2020.02.01-01.59.22:975][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:1]]
+[2020.02.01-01.59.22:975][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2020.02.01-01.59.22:975][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2020.02.01-01.59.22:975][  0]LogConfig: Setting CVar [[r.UsePreExposure:0]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:1]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:2]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Config/Windows/Engine.ini]
+[2020.02.01-01.59.22:976][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Config/Windows/Engine.ini]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.01-01.59.22:976][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.01-01.59.22:977][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.01-01.59.22:977][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.01-01.59.22:977][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.01-01.59.22:977][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.01-01.59.22:977][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.01-01.59.22:977][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.01-01.59.22:977][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.01-01.59.22:977][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.01-01.59.22:977][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Config/Windows/Engine.ini]
+[2020.02.01-01.59.22:977][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.01-01.59.22:977][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.01-01.59.22:977][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.01-01.59.22:977][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.01-01.59.22:977][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.01-01.59.22:977][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.01-01.59.22:977][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.02.01-01.59.22:977][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.01-01.59.22:977][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.01-01.59.22:977][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.01-01.59.22:977][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.01-01.59.22:977][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.01-01.59.22:977][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.01-01.59.22:977][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Config/Windows/Engine.ini]
+[2020.02.01-01.59.22:977][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Config/Windows/Engine.ini]
+[2020.02.01-01.59.22:995][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-01.59.22:995][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.01-01.59.22:995][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.01-01.59.22:995][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-01.59.22:995][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.01-01.59.22:995][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-01.59.22:995][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.01-01.59.22:995][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.01-01.59.22:995][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.01-01.59.22:995][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.01-01.59.22:995][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.01-01.59.22:995][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.01-01.59.22:995][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.01-01.59.22:995][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.01-01.59.22:995][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.01-01.59.22:995][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.01-01.59.22:995][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.01-01.59.22:995][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.01-01.59.22:995][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.01-01.59.22:996][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.01-01.59.22:997][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.01-01.59.22:997][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.01-01.59.22:997][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.01-01.59.22:997][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.01-01.59.22:997][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.01-01.59.22:997][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.01-01.59.22:997][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.01-01.59.22:997][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-01.59.22:997][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.01-01.59.22:997][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.01-01.59.22:997][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.01-01.59.22:997][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.01-01.59.23:023][  0]LogHAL: Display: Platform has ~ 64 GB [68689125376 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.01-01.59.23:023][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.02.01-01.59.23:023][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.01-01.59.23:023][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-01.59.23:023][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.01-01.59.23:023][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.01-01.59.23:023][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-01.59.23:023][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.01-01.59.23:023][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-01.59.23:023][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.01-01.59.23:023][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.01-01.59.23:023][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.01-01.59.23:023][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.01-01.59.23:023][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.01-01.59.23:023][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.01-01.59.23:023][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.01-01.59.23:023][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.01-01.59.23:023][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.01-01.59.23:023][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.01-01.59.23:023][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.01-01.59.23:023][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.01-01.59.23:023][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.01-01.59.23:023][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.01-01.59.23:023][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.01-01.59.23:023][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.01-01.59.23:023][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.01-01.59.23:023][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.01-01.59.23:023][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-01.59.23:023][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.01-01.59.23:023][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.01-01.59.23:023][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.01-01.59.23:023][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.01-01.59.23:023][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.01-01.59.23:023][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.01-01.59.23:024][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.01-01.59.23:025][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.01-01.59.23:025][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.01-01.59.23:025][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Config/Windows/Engine.ini]
+[2020.02.01-01.59.23:025][  0]LogInit: Computer: WFD229-17W
+[2020.02.01-01.59.23:025][  0]LogInit: User: Graphic
+[2020.02.01-01.59.23:025][  0]LogInit: CPU Page size=4096, Cores=12
+[2020.02.01-01.59.23:025][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.01-01.59.23:025][  0]LogMemory: Memory total: Physical=64.0GB (64GB approx)
+[2020.02.01-01.59.23:025][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.01-01.59.23:025][  0]LogMemory: Process Physical Memory: 99.09 MB used, 99.10 MB peak
+[2020.02.01-01.59.23:025][  0]LogMemory: Process Virtual Memory: 96.27 MB used, 96.27 MB peak
+[2020.02.01-01.59.23:025][  0]LogMemory: Physical Memory: 8102.50 MB used,  57404.56 MB free, 65507.05 MB total
+[2020.02.01-01.59.23:025][  0]LogMemory: Virtual Memory: 4730.30 MB used,  134213000.00 MB free, 134217728.00 MB total
+[2020.02.01-01.59.23:046][  0]LogInit: Using OS detected language (en-US).
+[2020.02.01-01.59.23:046][  0]LogInit: Using OS detected locale (en-US).
+[2020.02.01-01.59.23:047][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.02.01-01.59.23:243][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.01-01.59.23:301][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.01-01.59.23:301][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.01-01.59.23:553][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.01-01.59.23:553][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.01-01.59.25:934][  0]LogD3D11RHI:    0. 'AMD FirePro D700 (FireGL V)' (Feature Level 11_0)
+[2020.02.01-01.59.25:934][  0]LogD3D11RHI:       6123/0/32753 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2020.02.01-01.59.25:939][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.01-01.59.25:940][  0]LogD3D11RHI:       0/0/32753 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.01-01.59.25:940][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.01-01.59.25:952][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.01-01.59.25:952][  0]LogD3D11RHI:     GPU DeviceId: 0x6798 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.01-01.59.25:953][  0]LogWindows: EnumDisplayDevices:
+[2020.02.01-01.59.25:953][  0]LogWindows:    0. 'AMD FirePro D700 (FireGL V)' (P:1 D:1)
+[2020.02.01-01.59.25:954][  0]LogWindows:    1. 'AMD FirePro D700 (FireGL V)' (P:0 D:1)
+[2020.02.01-01.59.25:955][  0]LogWindows:    2. 'AMD FirePro D700 (FireGL V)' (P:0 D:0)
+[2020.02.01-01.59.25:956][  0]LogWindows:    3. 'AMD FirePro D700 (FireGL V)' (P:0 D:0)
+[2020.02.01-01.59.25:958][  0]LogWindows:    4. 'AMD FirePro D700 (FireGL V)' (P:0 D:0)
+[2020.02.01-01.59.25:959][  0]LogWindows:    5. 'AMD FirePro D700 (FireGL V)' (P:0 D:0)
+[2020.02.01-01.59.25:960][  0]LogWindows:    6. 'AMD FirePro D700 (FireGL V)' (P:0 D:0)
+[2020.02.01-01.59.25:961][  0]LogWindows:    7. 'AMD FirePro D700 (FireGL V)' (P:0 D:0)
+[2020.02.01-01.59.25:963][  0]LogWindows:    8. 'AMD FirePro D700 (FireGL V)' (P:0 D:0)
+[2020.02.01-01.59.25:964][  0]LogWindows:    9. 'AMD FirePro D700 (FireGL V)' (P:0 D:0)
+[2020.02.01-01.59.25:965][  0]LogWindows:    10. 'AMD FirePro D700 (FireGL V)' (P:0 D:0)
+[2020.02.01-01.59.25:966][  0]LogWindows:    11. 'AMD FirePro D700 (FireGL V)' (P:0 D:0)
+[2020.02.01-01.59.25:967][  0]LogWindows: DebugString: FoundDriverCount:12 
+[2020.02.01-01.59.25:967][  0]LogD3D11RHI:     Adapter Name: AMD FirePro D700 (FireGL V)
+[2020.02.01-01.59.25:967][  0]LogD3D11RHI:   Driver Version: Adrenalin 18.40.20.10 (internal:25.20.14020.10001, unified:25.20.14020.10001)
+[2020.02.01-01.59.25:967][  0]LogD3D11RHI:      Driver Date: 3-15-2019
+[2020.02.01-01.59.25:967][  0]LogRHI: Texture pool is 4286 MB (70% of 6123 MB)
+[2020.02.01-01.59.26:093][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.01-01.59.26:100][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.01-01.59.26:101][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.01-01.59.26:101][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.01-01.59.26:108][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2020.02.01-01.59.26:472][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.02.01-01.59.26:492][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.02.01-01.59.26:513][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.02.01-01.59.26:533][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.02.01-01.59.26:554][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.02.01-01.59.26:574][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.02.01-01.59.26:595][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.01-01.59.26:615][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.02.01-01.59.26:624][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.02.01-01.59.26:745][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.02.01-01.59.26:745][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.02.01-01.59.26:745][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.02.01-01.59.26:745][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.02.01-01.59.26:745][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.02.01-01.59.26:745][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.02.01-01.59.26:745][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.02.01-01.59.26:745][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.02.01-01.59.26:745][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.02.01-01.59.26:745][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.01-01.59.26:745][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.02.01-01.59.26:745][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.02.01-01.59.26:746][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.01-01.59.26:746][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.01-01.59.26:746][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.01-01.59.26:746][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.01-01.59.26:746][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.02.01-01.59.26:746][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.02.01-01.59.26:748][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.02.01-01.59.26:807][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.02.01-01.59.26:807][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.02.01-01.59.26:837][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.02.01-01.59.26:837][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.02.01-01.59.26:853][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.02.01-01.59.26:868][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.01-01.59.26:884][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.02.01-01.59.26:900][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.02.01-01.59.26:955][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.02.01-01.59.26:955][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.02.01-01.59.26:955][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.01-01.59.26:965][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.01-01.59.27:019][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Intermediate/Shaders/WorkingDirectory/11120/).
+[2020.02.01-01.59.27:019][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Graphic.SJH519-000W/AppData/Local/Temp/UnrealShaderWorkingDir/EDB3A07D40E12091EA9A3FAFEEFD2A98/'.
+[2020.02.01-01.59.27:021][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.01-01.59.27:021][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.01-01.59.27:021][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.01-01.59.27:708][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.01-01.59.27:762][  0]LogDerivedDataCache: Loaded boot cache 0.05s 72MB C:/Users/Graphic.SJH519-000W/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.01-01.59.27:762][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Graphic.SJH519-000W/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.02.01-01.59.27:762][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.01-01.59.27:762][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.01-01.59.27:762][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.01-01.59.27:762][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.01-01.59.27:776][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.01-01.59.27:780][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2020.02.01-01.59.27:792][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Graphic.SJH519-000W/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.01-01.59.27:792][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.01-01.59.27:792][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.01-01.59.27:821][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.01-01.59.27:822][  0]LogSlate: Using FreeType 2.6.0
+[2020.02.01-01.59.27:823][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.01-01.59.27:920][  0]LogAssetRegistry: FAssetRegistry took 0.0375 seconds to start up
+[2020.02.01-01.59.28:352][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.01-01.59.28:531][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.01-01.59.28:531][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.01-01.59.28:531][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.01-01.59.28:531][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.01-01.59.28:531][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.01-01.59.28:543][  0]LogNetVersion: SalamisGamejam 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1410852220)
+[2020.02.01-01.59.29:108][  0]LogPackageLocalizationCache: Processed 16 localized package path(s) for 1 prioritized culture(s) in 0.066792 seconds
+[2020.02.01-01.59.29:113][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.02.01-01.59.29:113][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.02.01-01.59.29:113][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.01-01.59.30:096][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.01-01.59.30:109][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.01-01.59.30:242][  0]SourceControl: Source control is disabled
+[2020.02.01-01.59.30:242][  0]SourceControl: Source control is disabled
+[2020.02.01-01.59.30:244][  0]SourceControl: Source control is disabled
+[2020.02.01-01.59.30:245][  0]SourceControl: Source control is disabled
+[2020.02.01-01.59.30:360][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.01-01.59.30:486][  0]LogOcInput: OculusInput pre-init called
+[2020.02.01-01.59.33:080][  0]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
+[2020.02.01-01.59.33:081][  0]LogWindows: File 'libalias_api.dll' does not exist
+[2020.02.01-01.59.33:081][  0]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
+[2020.02.01-01.59.33:081][  0]LogWindows: File 'libalias_api.dll' does not exist
+[2020.02.01-01.59.33:259][  0]LogEngine: Initializing Engine...
+[2020.02.01-01.59.33:260][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.01-01.59.33:261][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.02.01-01.59.33:555][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.01-01.59.33:569][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.01-01.59.33:618][  0]LogInit: XAudio2 using '3 - DELL U2717D (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.01-01.59.33:653][  0]LogInit: FAudioDevice initialized.
+[2020.02.01-01.59.33:653][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.01-01.59.33:721][  0]LogDerivedDataCache: Saved boot cache 0.07s 72MB C:/Users/Graphic.SJH519-000W/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.01-01.59.33:733][  0]LogInit: Texture streaming: Enabled
+[2020.02.01-01.59.33:752][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.01-01.59.33:773][  0]LogInit: Transaction tracking system initialized
+[2020.02.01-01.59.33:799][  0]BlueprintLog: New page: Editor Load
+[2020.02.01-01.59.33:882][  0]LocalizationService: Localization service is disabled
+[2020.02.01-01.59.34:208][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/' took 0.01s
+[2020.02.01-01.59.34:208][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.01-01.59.34:208][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.01-01.59.35:841][  0]SourceControl: Source control is disabled
+[2020.02.01-01.59.35:841][  0]LightingResults: New page: Lighting Build
+[2020.02.01-01.59.35:844][  0]MapCheck: New page: Map Check
+[2020.02.01-01.59.35:844][  0]LightingResults: New page: Lighting Build
+[2020.02.01-01.59.35:891][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.02.01-01.59.36:031][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.02.01-01.59.36:036][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.01-01.59.36:085][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.02.01-01.59.36:085][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.01-01.59.36:085][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.153ms to complete.
+[2020.02.01-01.59.36:085][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.244
+[2020.02.01-01.59.36:210][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-01.59.36:220][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-01.59.36:229][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-01.59.36:238][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-01.59.36:246][  0]LogCollectionManager: Loaded 0 collections in 0.001964 seconds
+[2020.02.01-01.59.36:262][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Collections/' took 0.01s
+[2020.02.01-01.59.36:263][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/Developers/Graphic/Collections/' took 0.00s
+[2020.02.01-01.59.36:263][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/Collections/' took 0.00s
+[2020.02.01-01.59.36:263][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.02.01-01.59.36:275][  0]LogContentBrowser: Native class hierarchy populated in 0.0123 seconds. Added 2864 classes and 726 folders.
+[2020.02.01-01.59.36:282][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.01-01.59.36:284][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-01.59.36:285][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-01.59.36:286][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-01.59.36:286][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-01.59.36:287][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-01.59.36:288][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-01.59.36:288][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-01.59.36:289][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-01.59.36:289][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-01.59.36:290][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-01.59.36:290][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-01.59.36:291][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-01.59.36:292][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-01.59.36:292][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-01.59.36:293][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-01.59.36:294][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-01.59.36:294][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-01.59.36:295][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-01.59.36:295][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-01.59.36:296][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-01.59.36:297][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-01.59.36:297][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-01.59.36:298][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-01.59.36:299][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-01.59.36:299][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-01.59.36:300][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-01.59.36:300][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-01.59.36:301][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-01.59.36:342][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.01-01.59.36:346][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2020.02.01-01.59.36:364][  0]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.01-01.59.36:366][  0]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.01-01.59.36:373][  0]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.01-01.59.36:455][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:1).
+[2020.02.01-01.59.36:593][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.01-01.59.36:607][  0]LogSlate: Window 'Tutorials' being destroyed
+[2020.02.01-01.59.36:640][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.01-01.59.36:640][  0]LogLoad: (Engine Initialization) Total time: 17.30 seconds
+[2020.02.01-01.59.36:640][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.01-01.59.36:681][  0]LogAssetRegistry: Asset discovery search completed in 8.7832 seconds
+[2020.02.01-01.59.36:683][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.02.01-01.59.36:683][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000040 seconds (updated 0 objects)
+[2020.02.01-01.59.36:685][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.01-01.59.41:129][520]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-01.59.41:199][528]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-01.59.41:214][528]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.02.01-01.59.41:214][528]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-01.59.41:214][528]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 31, 2020, 3:59:41 PM)
+[2020.02.01-01.59.41:227][528]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.02.01-01.59.41:231][528]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003865s)
+[2020.02.01-01.59.41:231][528]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.02.01-01.59.41:232][528]LogPlayLevel: PIE: World Init took: (0.000717s)
+[2020.02.01-01.59.41:232][528]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004870s)
+[2020.02.01-01.59.41:278][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.02.01-01.59.41:327][528]LogInit: XAudio2 using '3 - DELL U2717D (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.01-01.59.41:343][528]LogInit: FAudioDevice initialized.
+[2020.02.01-01.59.41:387][528]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.01-01.59.41:390][528]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2020.01.31-20.59.41
+[2020.02.01-01.59.41:390][528]LogWorld: Bringing up level for play took: 0.001938
+[2020.02.01-01.59.41:408][528]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.02.01-01.59.41:409][528]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.505
+[2020.02.01-01.59.41:409][528]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.02.01-02.00.07:029][599]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.02.01-02.00.07:030][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-02.00.07:058][599]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-02.00.07:059][599]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.02.01-02.00.07:106][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-02.00.07:110][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.02.01-02.00.07:139][600]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.02.01-02.00.17:682][818]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-02.00.36:051][785]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.01-02.00.36:059][785]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.02.01-02.00.36:407][785]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2020.02.01-02.00.37:706][785]LogSlate: Took 0.006646 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.01-02.00.37:875][786]LogSlate: Took 0.007011 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.01-02.04.02:761][816]LogActorFactory: Actor Factory created Cube
+[2020.02.01-02.04.03:843][942]LogActorFactory: Actor Factory created Cube
+[2020.02.01-02.04.06:009][179]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-02.04.13:631][ 17]Cmd: DELETE
+[2020.02.01-02.04.13:631][ 17]Cmd: ACTOR DELETE
+[2020.02.01-02.04.13:634][ 17]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.01-02.04.13:692][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2020.02.01-02.04.13:693][ 17]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2020.02.01-02.04.15:565][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-02.04.22:612][ 14]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/Background_Sprite.Background_Sprite
+[2020.02.01-02.04.22:765][ 14]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.01-02.04.52:273][914]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/Robot.Robot
+[2020.02.01-02.05.56:207][267]LogTexture: Display: Building textures: 2DBackgroundTile (AutoDXT, 256X256)
+[2020.02.01-02.06.01:145][623]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.01-02.06.14:641][540]LogRenderer: Reallocating scene render targets to support 2040x1276 Format 10 NumSamples 1 (Frame:777).
+[2020.02.01-02.06.16:158][682]LogSlate: Window 'Robot' being destroyed
+[2020.02.01-02.06.27:997][915]LogAssetEditorManager: Opening Asset editor for Material /Game/2DSideScroller/Materials/Red.Red
+[2020.02.01-02.06.28:001][915]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.06.28:368][915]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.06.28:400][915]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.06.28:400][915]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.06.29:837][ 45]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.02.01-02.06.29:837][ 45]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.02.01-02.06.29:837][ 45]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.01-02.06.29:837][ 45]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.01-02.06.36:317][765]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.06.36:335][765]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.01-02.06.36:362][766]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.06.36:362][766]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.06.37:066][835]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.02.01-02.06.37:066][835]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.02.01-02.06.37:066][835]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.01-02.06.37:066][835]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.01-02.06.41:329][297]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.06.41:350][297]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.06.41:351][297]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.06.41:354][297]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.01-02.06.42:070][355]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.02.01-02.06.42:070][355]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.02.01-02.06.42:070][355]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.01-02.06.42:070][355]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.01-02.06.54:795][848]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.01-02.07.00:609][486]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.07.00:632][486]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.07.00:632][486]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.07.00:635][486]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.01-02.07.01:349][545]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.02.01-02.07.01:349][545]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.02.01-02.07.01:349][545]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.01-02.07.01:349][545]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.01-02.07.03:225][741]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.07.03:246][741]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.07.03:247][741]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.07.03:250][741]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.01-02.07.03:969][799]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.02.01-02.07.03:969][799]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.02.01-02.07.03:969][799]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.01-02.07.03:969][799]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.01-02.07.04:944][897]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.07.04:967][897]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.07.04:967][897]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.07.04:971][897]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.01-02.07.05:693][957]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.02.01-02.07.05:693][957]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.02.01-02.07.05:693][957]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.01-02.07.05:693][957]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.01-02.07.06:073][996]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.07.06:093][996]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.07.06:093][996]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.07.06:097][996]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.01-02.07.06:802][ 53]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.02.01-02.07.06:802][ 53]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.02.01-02.07.06:802][ 53]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.01-02.07.06:802][ 53]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.01-02.07.07:229][ 97]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.07.07:248][ 97]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.07.07:248][ 97]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.07.07:251][ 97]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.01-02.07.07:965][153]MaterialEditorStats: Base pass shader: 108 instructions
+[2020.02.01-02.07.07:965][153]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2020.02.01-02.07.07:965][153]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.01-02.07.07:965][153]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.01-02.07.08:361][195]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.07.08:381][195]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.07.08:382][195]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.07.08:386][195]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.01-02.07.08:413][195]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.01-02.07.09:088][261]MaterialEditorStats: Base pass shader: 108 instructions
+[2020.02.01-02.07.09:088][261]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2020.02.01-02.07.09:088][261]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.01-02.07.09:088][261]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.01-02.07.12:392][653]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-02.07.17:118][ 22]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2020.02.01-02.07.22:006][478]LogMaterialEditor: Saving and Compiling material Red
+[2020.02.01-02.07.22:497][478]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.07.22:557][478]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.07.22:557][478]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.07.22:568][478]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.07.22:589][478]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.07.22:655][478]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.02.01-02.07.22:666][478]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-02.07.23:107][478]TextureStreamingBuild: Display: Compiling optional shaders took 0.452 seconds.
+[2020.02.01-02.07.23:170][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.02.01-02.07.25:798][478]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Red34FBA8E54B61945F540FE7819A98A413.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScroller/Materials/Red.uasset'
+[2020.02.01-02.07.28:873][764]LogAssetEditorManager: Opening Asset editor for Material /Game/2DSideScroller/Materials/Blue.Blue
+[2020.02.01-02.07.28:877][764]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2020.02.01-02.07.28:969][764]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2020.02.01-02.07.29:004][764]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.07.29:004][764]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.07.29:678][808]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.02.01-02.07.29:679][808]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.02.01-02.07.29:679][808]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.01-02.07.29:679][808]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.01-02.07.35:565][463]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2020.02.01-02.07.35:583][463]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.01-02.07.35:605][464]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.07.35:606][464]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.07.36:304][534]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.02.01-02.07.36:304][534]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.02.01-02.07.36:304][534]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.01-02.07.36:304][534]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.01-02.07.38:672][789]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2020.02.01-02.07.38:692][789]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.07.38:692][789]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.07.38:692][789]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.01-02.07.39:407][851]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.02.01-02.07.39:407][851]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.02.01-02.07.39:407][851]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.01-02.07.39:407][851]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.01-02.07.41:125][ 33]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2020.02.01-02.07.41:144][ 33]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.07.41:145][ 33]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.07.41:148][ 33]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.01-02.07.41:844][ 90]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.02.01-02.07.41:844][ 90]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.02.01-02.07.41:844][ 90]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.01-02.07.41:844][ 90]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.01-02.07.42:287][134]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2020.02.01-02.07.42:306][134]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.07.42:306][134]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.07.42:309][134]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.01-02.07.43:013][190]MaterialEditorStats: Base pass shader: 108 instructions
+[2020.02.01-02.07.43:013][190]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2020.02.01-02.07.43:013][190]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.01-02.07.43:013][190]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.01-02.07.43:106][199]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2020.02.01-02.07.43:127][199]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.01-02.07.43:144][199]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.07.43:144][199]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.07.43:155][199]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.01-02.07.43:847][261]MaterialEditorStats: Base pass shader: 108 instructions
+[2020.02.01-02.07.43:847][261]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2020.02.01-02.07.43:847][261]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.01-02.07.43:847][261]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.01-02.07.45:662][468]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.01-02.07.49:681][891]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2020.02.01-02.07.49:703][891]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.07.49:703][891]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.07.49:703][891]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.01-02.07.50:430][952]MaterialEditorStats: Base pass shader: 108 instructions
+[2020.02.01-02.07.50:430][952]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2020.02.01-02.07.50:431][952]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.01-02.07.50:431][952]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.01-02.07.54:954][436]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2020.02.01-02.07.54:974][436]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.07.54:974][436]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.07.54:974][436]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.01-02.07.55:693][495]MaterialEditorStats: Base pass shader: 108 instructions
+[2020.02.01-02.07.55:693][495]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2020.02.01-02.07.55:693][495]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.01-02.07.55:693][495]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.01-02.07.57:381][675]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2020.02.01-02.07.57:402][675]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.07.57:402][675]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.07.57:402][675]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.01-02.07.57:429][675]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.01-02.07.58:118][743]MaterialEditorStats: Base pass shader: 108 instructions
+[2020.02.01-02.07.58:118][743]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2020.02.01-02.07.58:119][743]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.01-02.07.58:119][743]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.01-02.08.01:680][163]LogMaterialEditor: Saving and Compiling material Blue
+[2020.02.01-02.08.02:175][163]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2020.02.01-02.08.02:234][163]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.08.02:234][163]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.08.02:241][163]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2020.02.01-02.08.02:262][163]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2020.02.01-02.08.02:330][163]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.02.01-02.08.02:341][163]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-02.08.02:786][163]TextureStreamingBuild: Display: Compiling optional shaders took 0.456 seconds.
+[2020.02.01-02.08.02:839][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.02.01-02.08.05:494][163]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Blue75DAB3FE4EB8626DF7F9E5A8B08B098F.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScroller/Materials/Blue.uasset'
+[2020.02.01-02.10.02:486][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.02.01-02.10.02:710][ 21]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/2DSideScrollerExampleMap_Auto1C55A4682433C7C0E90D7B09C0C06716C.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto1.umap'
+[2020.02.01-02.10.02:713][ 21]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.274
+[2020.02.01-02.10.02:714][ 21]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.274
+[2020.02.01-02.10.02:715][ 21]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter] ([1] browsable assets)...
+[2020.02.01-02.10.02:715][ 21]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter]
+[2020.02.01-02.10.02:771][ 21]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/2DSideScrollerCharacter_Auto1021CB5DF4B66A58C398D509E690F9C11.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter_Auto1.uasset'
+[2020.02.01-02.10.02:771][ 21]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Robot] ([1] browsable assets)...
+[2020.02.01-02.10.02:783][ 21]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Sprites/Robot.Robot]
+[2020.02.01-02.10.02:783][ 21]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Robot]
+[2020.02.01-02.10.02:793][ 21]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Robot_Auto1C31190D842C11AA63081788747005C3A.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Autosaves/Game/2DSideScroller/Sprites/Robot_Auto1.uasset'
+[2020.02.01-02.10.02:794][ 21]LogFileHelpers: Auto-saving content packages took 0.080
+[2020.02.01-02.10.10:995][826]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-02.14.57:708][  6]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.02.01-02.14.57:920][  6]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/2DSideScrollerExampleMapEF699B704B6841596084E180B862B962.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2020.02.01-02.14.57:967][  6]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/2DSideScrollerExampleMap_BuiltDaFDC5B09C48A21A3C6F474C8E35D2244A.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2020.02.01-02.16.10:520][979]LogAssetEditorManager: Opening Asset editor for TextureRenderTarget2D /Game/2DSideScroller/Materials/Red2d.Red2d
+[2020.02.01-02.16.10:555][979]LogBlueprintActionDatabase: Requesting refresh due to module change: TextureEditor (loaded)
+[2020.02.01-02.16.10:555][979]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.02.01-02.16.25:510][702]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.01-02.16.30:578][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-02.17.28:565][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-02.17.31:244][559]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Red2d71304C914E0B1F7CA46860B6CED73BE2.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScroller/Materials/Red2d.uasset'
+[2020.02.01-02.17.36:775][104]LogMaterial: Display: Missing cached shader map for material PrototypingSpriteMaterial, compiling. 
+[2020.02.01-02.17.36:798][105]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.17.41:822][550]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-02.17.46:192][936]LogAssetEditorManager: Opening Asset editor for Material /Game/2DSideScroller/Materials/PrototypingSpriteMaterial.PrototypingSpriteMaterial
+[2020.02.01-02.17.46:195][936]LogMaterial: Display: Missing cached shader map for material PrototypingSpriteMaterial, compiling. 
+[2020.02.01-02.17.46:279][936]LogMaterial: Display: Missing cached shader map for material PrototypingSpriteMaterial, compiling. 
+[2020.02.01-02.17.46:315][936]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2020.02.01-02.17.46:975][992]MaterialEditorStats: Base pass shader without light map: 35 instructions
+[2020.02.01-02.17.46:976][992]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2020.02.01-02.17.46:976][992]MaterialEditorStats: Texture samplers: 1/16
+[2020.02.01-02.17.46:976][992]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.01-02.18.06:169][ 67]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.18.06:200][ 69]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.18.06:200][ 69]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.18.07:066][159]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.02.01-02.18.07:066][159]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.02.01-02.18.07:066][159]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.01-02.18.07:066][159]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.01-02.18.10:582][539]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.18.10:600][539]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSpriteTextureSampler_0, compiling. 
+[2020.02.01-02.18.10:635][540]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.18.10:636][540]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.18.11:336][598]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.02.01-02.18.11:336][598]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.02.01-02.18.11:336][598]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.01-02.18.11:336][598]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.01-02.18.13:338][812]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.18.13:360][812]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.18.13:360][812]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.18.13:360][812]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.01-02.18.13:394][812]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSpriteTextureSampler_0, compiling. 
+[2020.02.01-02.18.14:072][862]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.02.01-02.18.14:072][862]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.02.01-02.18.14:072][862]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.01-02.18.14:072][862]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.01-02.18.17:338][206]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.18.17:339][206]LogMaterial: Warning: /Engine/Transient.Red (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.02.01-02.18.17:339][206]LogMaterial: 	(Node SpriteTextureSampler) Coercion failed: MaterialFloat3(1.00000000,0.00000000,0.00000000): float3 -> float2
+[2020.02.01-02.18.17:345][206]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSpriteTextureSampler_0, compiling. 
+[2020.02.01-02.18.17:370][206]MaterialEditorStats: Error: [SM5] (Node SpriteTextureSampler) Coercion failed: MaterialFloat3(1.00000000,0.00000000,0.00000000): float3 -> float2
+[2020.02.01-02.18.22:235][677]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.18.22:547][678]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.18.22:547][678]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.18.22:982][716]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.02.01-02.18.22:982][716]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.02.01-02.18.22:982][716]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.01-02.18.22:982][716]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.01-02.18.24:055][827]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.18.24:056][827]LogMaterial: Warning: /Engine/Transient.Red (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.02.01-02.18.24:056][827]LogMaterial: 	(Node SpriteTextureSampler) Coercion failed: MaterialFloat3(1.00000000,0.00000000,0.00000000): float3 -> float2
+[2020.02.01-02.18.24:064][827]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSpriteTextureSampler_0, compiling. 
+[2020.02.01-02.18.24:088][827]MaterialEditorStats: Error: [SM5] (Node SpriteTextureSampler) Coercion failed: MaterialFloat3(1.00000000,0.00000000,0.00000000): float3 -> float2
+[2020.02.01-02.19.02:706][122]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.19.02:722][122]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.19.02:722][122]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.19.02:726][122]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSpriteTextureSampler_0, compiling. 
+[2020.02.01-02.19.03:783][209]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.02.01-02.19.03:783][209]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.02.01-02.19.03:783][209]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.01-02.19.03:783][209]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.01-02.19.03:783][209]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.01-02.19.03:783][209]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.01-02.19.04:748][321]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.19.04:789][322]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.19.04:789][322]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.19.05:475][383]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.02.01-02.19.05:475][383]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.02.01-02.19.05:475][383]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.01-02.19.05:475][383]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.01-02.19.05:475][383]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.01-02.19.05:475][383]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.01-02.21.31:382][ 31]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.21.31:417][ 32]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.21.31:417][ 32]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.21.32:398][124]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.02.01-02.21.32:398][124]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.02.01-02.21.32:398][124]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.01-02.21.32:398][124]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.01-02.21.32:398][124]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.01-02.21.32:398][124]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.01-02.22.09:700][152]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.22.09:725][152]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.22.09:725][152]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.22.09:725][152]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSpriteTextureSampler_0, compiling. 
+[2020.02.01-02.22.10:731][236]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.02.01-02.22.10:731][236]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.02.01-02.22.10:731][236]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.01-02.22.10:731][236]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.01-02.22.10:731][236]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.01-02.22.10:731][236]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.01-02.24.34:390][447]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4208 (AB 120))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-02.24.34:596][448]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{3570ff7a-b4a0-4ab5-910d-b302b86cf1ee} was removed. Shutting down audio device.
+[2020.02.01-02.24.34:596][448]LogInit: XAudio2 using '3 - DELL U2717D (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.01-02.24.34:928][449]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4208 (AB 120))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-02.25.09:153][551]LogUObjectHash: Compacting FUObjectHashTables data took   8.41ms
+[2020.02.01-02.25.09:153][551]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.096
+[2020.02.01-02.25.09:154][551]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Robot] ([1] browsable assets)...
+[2020.02.01-02.25.09:167][551]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScroller/Sprites/Robot.Robot]
+[2020.02.01-02.25.09:167][551]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Robot]
+[2020.02.01-02.25.09:181][551]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Robot_Auto2526DA8FA41D7DD37DE38E6A03C601C05.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Autosaves/Game/2DSideScroller/Sprites/Robot_Auto2.uasset'
+[2020.02.01-02.25.09:183][551]LogFileHelpers: Auto-saving content packages took 0.028
+[2020.02.01-02.25.19:592][499]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.25.19:623][499]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.25.19:623][499]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.25.19:636][499]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSpriteTextureSampler_0, compiling. 
+[2020.02.01-02.25.20:702][591]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.02.01-02.25.20:702][591]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.02.01-02.25.20:702][591]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.01-02.25.20:702][591]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.01-02.25.20:702][591]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.01-02.25.20:702][591]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.01-02.25.27:105][273]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.25.27:138][274]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.25.27:138][274]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.25.27:839][341]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.02.01-02.25.27:839][341]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.02.01-02.25.27:839][341]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.01-02.25.27:839][341]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.01-02.25.27:839][341]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.01-02.25.27:839][341]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.01-02.25.39:479][648]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.25.39:521][649]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.25.39:521][649]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.25.40:215][707]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.02.01-02.25.40:215][707]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.02.01-02.25.40:215][707]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.01-02.25.40:215][707]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.01-02.25.40:215][707]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.01-02.25.40:215][707]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.01-02.25.43:999][108]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.25.44:017][108]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.25.44:017][108]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.25.44:017][108]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.02.01-02.25.44:751][175]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.02.01-02.25.44:751][175]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.02.01-02.25.44:751][175]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.01-02.25.44:751][175]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.01-02.25.44:751][175]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.01-02.25.44:751][175]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.01-02.25.46:619][361]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.25.46:637][361]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.25.46:637][361]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.25.46:641][361]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.02.01-02.25.47:366][415]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.02.01-02.25.47:366][415]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.02.01-02.25.47:366][415]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.01-02.25.47:366][415]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.01-02.25.47:366][415]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.01-02.25.47:366][415]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.01-02.25.48:269][505]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.25.48:289][505]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.02.01-02.25.48:306][505]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.25.48:306][505]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.25.49:036][562]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.25.49:057][562]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.02.01-02.25.49:074][562]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.25.49:074][562]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.25.49:086][562]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.01-02.25.49:796][624]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.02.01-02.25.49:796][624]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.02.01-02.25.49:796][624]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.01-02.25.49:796][624]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.01-02.25.49:796][624]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.01-02.25.49:796][624]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.01-02.25.57:499][445]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.25.57:517][445]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.25.57:545][445]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.25.57:545][445]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.25.57:559][445]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSpriteTextureSampler_0, compiling. 
+[2020.02.01-02.25.58:277][508]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.02.01-02.25.58:277][508]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.02.01-02.25.58:277][508]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.01-02.25.58:277][508]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.01-02.25.58:277][508]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.01-02.25.58:277][508]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.01-02.26.00:031][692]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.26.00:053][692]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.02.01-02.26.00:070][692]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.26.00:070][692]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.26.00:788][752]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.02.01-02.26.00:788][752]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.02.01-02.26.00:789][752]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.01-02.26.00:789][752]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.01-02.26.00:789][752]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.01-02.26.00:789][752]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.01-02.26.03:795][ 73]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.26.03:820][ 74]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.26.03:820][ 74]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.26.04:529][133]MaterialEditorStats: Base pass shader: 114 instructions
+[2020.02.01-02.26.04:529][133]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 188 instructions
+[2020.02.01-02.26.04:529][133]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.01-02.26.04:529][133]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.01-02.26.04:529][133]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.01-02.26.04:529][133]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.01-02.26.08:025][434]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.26.08:051][435]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.26.08:051][435]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.26.08:774][494]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.02.01-02.26.08:774][494]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.02.01-02.26.08:775][494]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.01-02.26.08:775][494]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.01-02.26.08:775][494]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.01-02.26.08:775][494]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.01-02.26.09:909][611]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.26.09:933][612]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.26.09:933][612]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.26.10:644][672]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.02.01-02.26.10:644][672]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.02.01-02.26.10:644][672]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.01-02.26.10:644][672]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.01-02.26.10:644][672]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.01-02.26.10:644][672]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.01-02.26.27:746][506]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.01-02.26.29:852][755]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Red2d480C0A194A202425EBFA3BB959E7577B.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScroller/Materials/Red2d.uasset'
+[2020.02.01-02.27.47:001][ 90]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.27.47:023][ 90]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.27.47:023][ 90]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.27.47:023][ 90]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSpriteTextureSampler_0, compiling. 
+[2020.02.01-02.27.47:055][ 90]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.27.47:661][139]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.27.47:989][156]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.27.48:602][206]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.02.01-02.27.48:602][206]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.02.01-02.27.48:602][206]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.01-02.27.48:602][206]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.01-02.27.48:602][206]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.01-02.27.48:602][206]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.01-02.27.51:478][542]LogMaterialEditor: Saving and Compiling material Red
+[2020.02.01-02.27.51:973][542]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.27.52:032][542]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.27.52:032][542]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.27.52:039][542]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.27.52:060][542]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.27.52:131][542]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2020.02.01-02.27.52:144][542]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-02.27.52:590][542]TextureStreamingBuild: Display: Compiling optional shaders took 0.458 seconds.
+[2020.02.01-02.27.52:660][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.02.01-02.27.55:436][542]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Red7141C6AD443B50B1130C40BA3B2DD683.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScroller/Materials/Red.uasset'
+[2020.02.01-02.28.06:369][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-02.28.25:996][226]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.02.01-02.28.28:555][226]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.01-02.28.29:162][226]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/2DSideScroller/Materials/Red2d.Red2d
+[2020.02.01-02.28.30:074][226]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
+[2020.02.01-02.28.30:152][226]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.02.01-02.28.30:196][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.02.01-02.28.32:808][450]LogAssetEditorManager: Opening Asset editor for Material /Game/2DSideScroller/Materials/Red.Red
+[2020.02.01-02.28.32:812][450]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.28.32:909][450]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.28.32:927][450]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.28.32:947][450]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.28.32:947][450]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.28.32:973][450]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSpriteTextureSampler_0, compiling. 
+[2020.02.01-02.28.32:981][450]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.02.01-02.28.34:028][499]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.02.01-02.28.34:028][499]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.02.01-02.28.34:028][499]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.01-02.28.34:028][499]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.01-02.28.34:028][499]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.01-02.28.34:028][499]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.01-02.28.57:801][493]LogAssetEditorManager: Opening Asset editor for Material /Game/2DSideScroller/Materials/Blue.Blue
+[2020.02.01-02.28.57:806][493]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2020.02.01-02.28.57:913][493]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2020.02.01-02.28.57:934][493]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2020.02.01-02.28.57:968][493]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.28.57:968][493]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.28.57:982][493]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.01-02.29.00:134][619]MaterialEditorStats: Base pass shader: 108 instructions
+[2020.02.01-02.29.00:134][619]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2020.02.01-02.29.00:134][619]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.01-02.29.00:134][619]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.01-02.29.34:327][800]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2020.02.01-02.29.34:346][800]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.29.34:346][800]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.29.34:349][800]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.01-02.29.34:381][800]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2020.02.01-02.29.34:405][800]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.01-02.29.34:432][800]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.01-02.29.34:954][829]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.29.35:219][839]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.29.35:845][872]MaterialEditorStats: Base pass shader: 108 instructions
+[2020.02.01-02.29.35:845][872]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2020.02.01-02.29.35:845][872]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.01-02.29.35:845][872]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.01-02.29.36:952][942]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2020.02.01-02.29.36:978][943]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.29.36:978][943]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.29.37:688][982]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.02.01-02.29.37:688][982]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.02.01-02.29.37:688][982]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.01-02.29.37:688][982]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.01-02.29.58:167][261]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2020.02.01-02.29.58:184][261]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSpriteTextureSampler_0, compiling. 
+[2020.02.01-02.29.58:221][262]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.29.58:221][262]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.29.59:259][317]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.02.01-02.29.59:259][317]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.02.01-02.29.59:260][317]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.01-02.29.59:260][317]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.01-02.30.06:759][786]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2020.02.01-02.30.06:776][786]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSpriteTextureSampler_1, compiling. 
+[2020.02.01-02.30.06:815][787]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.30.06:815][787]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.30.07:505][820]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.02.01-02.30.07:505][820]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.02.01-02.30.07:505][820]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.01-02.30.07:505][820]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.01-02.30.11:830][101]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2020.02.01-02.30.11:871][102]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.30.11:871][102]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.30.12:570][140]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.02.01-02.30.12:570][140]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.02.01-02.30.12:570][140]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.01-02.30.12:570][140]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.01-02.30.43:195][885]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2020.02.01-02.30.43:213][885]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2020.02.01-02.30.43:243][885]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.30.43:243][885]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.30.43:256][885]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSpriteTextureSampler_0, compiling. 
+[2020.02.01-02.30.44:289][938]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.02.01-02.30.44:289][938]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.02.01-02.30.44:289][938]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.01-02.30.44:289][938]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.01-02.30.48:643][198]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2020.02.01-02.30.48:668][198]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.30.48:669][198]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.30.48:669][198]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSpriteTextureSampler_0, compiling. 
+[2020.02.01-02.30.48:700][198]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2020.02.01-02.30.48:955][207]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.30.49:295][217]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.30.49:914][245]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.02.01-02.30.49:914][245]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.02.01-02.30.49:914][245]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.01-02.30.49:914][245]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.01-02.30.50:630][288]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2020.02.01-02.30.50:653][288]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.01-02.30.50:670][288]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.30.50:670][288]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.30.51:387][321]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.02.01-02.30.51:387][321]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.02.01-02.30.51:387][321]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.01-02.30.51:388][321]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.01-02.30.52:206][370]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2020.02.01-02.30.52:237][371]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.30.52:237][371]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.30.52:958][405]MaterialEditorStats: Base pass shader: 110 instructions
+[2020.02.01-02.30.52:958][405]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2020.02.01-02.30.52:958][405]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.01-02.30.52:958][405]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.01-02.30.52:958][405]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.01-02.30.52:958][405]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.01-02.30.56:822][648]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.30.56:851][649]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.30.56:851][649]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.30.57:568][687]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.02.01-02.30.57:568][687]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.02.01-02.30.57:569][687]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.01-02.30.57:569][687]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.01-02.31.20:172][149]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.31.20:202][150]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.31.20:202][150]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.31.21:214][196]MaterialEditorStats: Base pass shader: 110 instructions
+[2020.02.01-02.31.21:214][196]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2020.02.01-02.31.21:214][196]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.01-02.31.21:214][196]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.01-02.31.21:214][196]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.01-02.31.21:214][196]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.01-02.31.21:590][220]LogMaterialEditor: Saving and Compiling material Red
+[2020.02.01-02.31.22:086][220]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.31.22:145][220]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.31.22:145][220]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.31.22:154][220]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.31.22:174][220]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.31.22:232][220]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.02.01-02.31.22:248][220]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-02.31.22:709][220]TextureStreamingBuild: Display: Compiling optional shaders took 0.478 seconds.
+[2020.02.01-02.31.22:763][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.02.01-02.31.25:544][220]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/RedBA7ACD1C43EF744FC583B991FAF83741.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScroller/Materials/Red.uasset'
+[2020.02.01-02.31.53:838][ 27]LogMaterialEditor: Saving and Compiling material Blue
+[2020.02.01-02.31.54:321][ 27]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2020.02.01-02.31.54:380][ 27]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.31.54:380][ 27]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.31.54:388][ 27]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2020.02.01-02.31.54:407][ 27]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2020.02.01-02.31.54:471][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.02.01-02.31.54:482][ 27]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-02.31.55:242][ 27]TextureStreamingBuild: Display: Compiling optional shaders took 0.771 seconds.
+[2020.02.01-02.31.55:299][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.02.01-02.31.58:074][ 27]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/BlueF7347D084F39E03BC2243C8C4FF54535.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScroller/Materials/Blue.uasset'
+[2020.02.01-02.32.07:234][538]LogMaterialEditor: Saving and Compiling material Blue
+[2020.02.01-02.32.07:270][538]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/BlueC5C3AFFE4F0EED6FAF43C68FF7A5467A.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScroller/Materials/Blue.uasset'
+[2020.02.01-02.32.08:264][595]LogMaterialEditor: Saving and Compiling material Red
+[2020.02.01-02.32.08:301][595]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Red9D456B6E4762065C41A01D9002D249A7.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScroller/Materials/Red.uasset'
+[2020.02.01-02.33.32:441][186]LogSlate: Window 'Blue' being destroyed
+[2020.02.01-02.33.33:654][275]LogSlate: Window 'Blue' being destroyed
+[2020.02.01-02.33.45:914][528]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/Robot.Robot
+[2020.02.01-02.33.55:463][156]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-02.33.55:545][162]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Robot6F48159D4D1133D2890E279ADCEBA880.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScroller/Sprites/Robot.uasset'
+[2020.02.01-02.34.05:430][204]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-02.34.14:799][185]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_13)
+[2020.02.01-02.34.19:706][741]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Robot)
+[2020.02.01-02.34.22:148][986]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_13)
+[2020.02.01-02.34.28:029][481]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_12)
+[2020.02.01-02.34.33:060][903]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Robot)
+[2020.02.01-02.34.39:508][579]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Robot)
+[2020.02.01-02.34.39:933][624]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_13)
+[2020.02.01-02.34.42:112][873]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2020.02.01-02.34.43:113][980]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2020.02.01-02.34.46:411][304]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Robot)
+[2020.02.01-02.34.47:586][371]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-02.34.54:792][953]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (Background_Sprite)
+[2020.02.01-02.34.54:850][953]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.01-02.34.55:714][ 14]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Robot)
+[2020.02.01-02.35.05:097][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-02.35.35:889][911]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-02.35.39:548][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-02.35.39:612][296]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-02.35.39:629][296]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.02.01-02.35.39:629][296]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-02.35.39:629][296]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 31, 2020, 4:35:39 PM)
+[2020.02.01-02.35.39:631][296]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.02.01-02.35.39:635][296]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004082s)
+[2020.02.01-02.35.39:635][296]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.02.01-02.35.39:636][296]LogPlayLevel: PIE: World Init took: (0.000708s)
+[2020.02.01-02.35.39:636][296]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004963s)
+[2020.02.01-02.35.39:688][296]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.02.01-02.35.39:751][296]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4208 (AB 120))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-02.35.39:767][296]LogInit: FAudioDevice initialized.
+[2020.02.01-02.35.39:801][296]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.01-02.35.39:806][296]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2020.01.31-21.35.39
+[2020.02.01-02.35.39:807][296]LogWorld: Bringing up level for play took: 0.003843
+[2020.02.01-02.35.39:823][296]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.918
+[2020.02.01-02.35.39:823][296]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.02.01-02.35.41:963][549]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.02.01-02.35.41:964][549]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-02.35.41:990][549]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-02.35.41:990][549]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.02.01-02.35.42:037][549]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-02.35.42:042][549]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.02.01-02.35.42:077][550]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.02.01-02.35.44:257][774]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2020.02.01-02.35.49:143][267]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2020.02.01-02.35.49:691][324]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Robot)
+[2020.02.01-02.35.51:107][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-02.35.54:626][850]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.35.54:654][852]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.35.54:654][852]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.35.55:676][942]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.02.01-02.35.55:676][942]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.02.01-02.35.55:676][942]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.01-02.35.55:676][942]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.01-02.35.56:876][ 66]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.35.56:899][ 67]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.35.56:899][ 67]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.35.57:625][131]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.02.01-02.35.57:625][131]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.02.01-02.35.57:625][131]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.01-02.35.57:625][131]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.01-02.35.57:625][131]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.01-02.35.57:625][131]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.01-02.35.59:244][313]LogMaterialEditor: Saving and Compiling material Red
+[2020.02.01-02.35.59:739][313]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.35.59:791][313]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.35.59:791][313]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.35.59:805][313]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.35.59:826][313]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2020.02.01-02.35.59:893][313]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.02.01-02.35.59:904][313]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-02.36.00:357][313]TextureStreamingBuild: Display: Compiling optional shaders took 0.464 seconds.
+[2020.02.01-02.36.00:401][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.02.01-02.36.03:205][313]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Red4DAEB53A407D7E2A52E79099FA86D81C.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScroller/Materials/Red.uasset'
+[2020.02.01-02.36.06:132][653]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2020.02.01-02.36.06:153][654]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.36.06:153][654]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.36.06:848][712]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.02.01-02.36.06:848][712]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.02.01-02.36.06:848][712]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.01-02.36.06:848][712]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.01-02.36.07:855][817]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2020.02.01-02.36.07:880][818]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.36.07:881][818]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.36.08:569][872]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.02.01-02.36.08:569][872]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.02.01-02.36.08:569][872]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.01-02.36.08:569][872]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.01-02.36.08:569][872]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.01-02.36.08:569][872]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.01-02.36.08:893][907]LogMaterialEditor: Saving and Compiling material Blue
+[2020.02.01-02.36.09:386][907]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2020.02.01-02.36.09:439][907]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.36.09:439][907]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.36.09:452][907]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2020.02.01-02.36.09:472][907]LogMaterial: Display: Missing cached shader map for material Blue, compiling. 
+[2020.02.01-02.36.09:532][907]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.02.01-02.36.09:544][907]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-02.36.10:021][907]TextureStreamingBuild: Display: Compiling optional shaders took 0.488 seconds.
+[2020.02.01-02.36.10:065][907]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.02.01-02.36.12:844][907]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/BlueEFE3E39E48740F35F459D4A625101EA8.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScroller/Materials/Blue.uasset'
+[2020.02.01-02.36.52:868][313]LogMaterial: Display: Missing cached shader map for material Grey, compiling. 
+[2020.02.01-02.36.53:958][360]LogAssetEditorManager: Opening Asset editor for Material /Game/2DSideScroller/Materials/Grey.Grey
+[2020.02.01-02.36.53:962][360]LogMaterial: Display: Missing cached shader map for material Grey, compiling. 
+[2020.02.01-02.36.53:978][360]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.36.53:978][360]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.36.54:057][360]LogMaterial: Display: Missing cached shader map for material Grey, compiling. 
+[2020.02.01-02.36.54:077][360]LogMaterial: Display: Missing cached shader map for material Grey, compiling. 
+[2020.02.01-02.36.54:126][360]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSpriteTextureSampler_0, compiling. 
+[2020.02.01-02.36.54:134][360]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.02.01-02.36.54:596][379]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.36.54:859][394]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.36.55:501][444]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.02.01-02.36.55:501][444]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.02.01-02.36.55:501][444]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.01-02.36.55:501][444]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.01-02.36.55:502][444]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.01-02.36.55:502][444]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.01-02.36.59:849][890]LogMaterial: Display: Missing cached shader map for material Grey, compiling. 
+[2020.02.01-02.36.59:869][890]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.02.01-02.36.59:886][890]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.36.59:886][890]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.37.00:588][945]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.02.01-02.37.00:589][945]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.02.01-02.37.00:589][945]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.01-02.37.00:589][945]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.01-02.37.00:589][945]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.01-02.37.00:589][945]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.01-02.37.02:748][167]LogMaterial: Display: Missing cached shader map for material Grey, compiling. 
+[2020.02.01-02.37.02:772][167]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.37.02:772][167]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.37.02:774][167]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.02.01-02.37.03:493][223]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.02.01-02.37.03:493][223]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.02.01-02.37.03:493][223]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.01-02.37.03:493][223]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.01-02.37.03:493][223]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.01-02.37.03:493][223]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.01-02.37.04:367][311]LogMaterial: Display: Missing cached shader map for material Grey, compiling. 
+[2020.02.01-02.37.04:390][311]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.37.04:390][311]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.37.04:390][311]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.02.01-02.37.05:136][370]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.02.01-02.37.05:136][370]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.02.01-02.37.05:136][370]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.01-02.37.05:137][370]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.01-02.37.05:137][370]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.01-02.37.05:137][370]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.01-02.37.06:878][547]LogMaterial: Display: Missing cached shader map for material Grey, compiling. 
+[2020.02.01-02.37.06:901][547]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.37.06:901][547]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.37.06:901][547]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.02.01-02.37.07:636][603]LogMaterial: Display: Missing cached shader map for material Grey, compiling. 
+[2020.02.01-02.37.07:660][603]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.37.07:661][603]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.37.07:661][603]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.02.01-02.37.08:397][659]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.02.01-02.37.08:397][659]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.02.01-02.37.08:398][659]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.01-02.37.08:398][659]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.01-02.37.08:398][659]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.01-02.37.08:398][659]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.01-02.37.08:992][717]LogMaterial: Display: Missing cached shader map for material Grey, compiling. 
+[2020.02.01-02.37.09:017][717]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.37.09:017][717]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.37.09:017][717]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.02.01-02.37.09:742][772]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.02.01-02.37.09:742][772]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.02.01-02.37.09:742][772]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.01-02.37.09:742][772]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.01-02.37.09:742][772]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.01-02.37.09:742][772]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.01-02.37.10:168][812]LogMaterial: Display: Missing cached shader map for material Grey, compiling. 
+[2020.02.01-02.37.10:191][812]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.02.01-02.37.10:208][812]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.37.10:208][812]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.37.10:803][857]LogMaterial: Display: Missing cached shader map for material Grey, compiling. 
+[2020.02.01-02.37.10:819][857]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.37.10:819][857]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.37.10:827][857]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.02.01-02.37.10:930][864]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.37.11:560][914]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.02.01-02.37.11:560][914]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.02.01-02.37.11:560][914]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.01-02.37.11:560][914]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.01-02.37.11:560][914]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.01-02.37.11:560][914]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.01-02.37.12:423][  3]LogMaterial: Display: Missing cached shader map for material Grey, compiling. 
+[2020.02.01-02.37.12:446][  3]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.37.12:446][  3]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.37.12:446][  3]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.02.01-02.37.13:176][ 60]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.02.01-02.37.13:176][ 60]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.02.01-02.37.13:176][ 60]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.01-02.37.13:176][ 60]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.01-02.37.13:176][ 60]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.01-02.37.13:176][ 60]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.01-02.37.15:547][299]LogMaterial: Display: Missing cached shader map for material Grey, compiling. 
+[2020.02.01-02.37.15:570][299]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.37.15:570][299]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.37.15:573][299]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.02.01-02.37.16:304][354]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.02.01-02.37.16:304][354]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.02.01-02.37.16:304][354]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.01-02.37.16:304][354]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.01-02.37.16:304][354]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.01-02.37.16:304][354]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.01-02.37.18:704][601]LogMaterial: Display: Missing cached shader map for material Grey, compiling. 
+[2020.02.01-02.37.18:725][601]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.37.18:726][601]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.37.18:729][601]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.02.01-02.37.19:451][657]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.02.01-02.37.19:451][657]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.02.01-02.37.19:451][657]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.01-02.37.19:451][657]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.01-02.37.19:451][657]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.01-02.37.19:451][657]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.01-02.37.21:020][814]LogMaterial: Display: Missing cached shader map for material Grey, compiling. 
+[2020.02.01-02.37.21:041][814]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.37.21:041][814]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.37.21:044][814]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.02.01-02.37.21:764][868]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.02.01-02.37.21:764][868]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.02.01-02.37.21:764][868]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.01-02.37.21:764][868]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.01-02.37.21:764][868]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.01-02.37.21:764][868]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.01-02.37.25:201][207]LogMaterial: Display: Missing cached shader map for material Grey, compiling. 
+[2020.02.01-02.37.25:223][207]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.02.01-02.37.25:240][207]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.37.25:240][207]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.37.25:960][265]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.02.01-02.37.25:960][265]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.02.01-02.37.25:960][265]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.01-02.37.25:960][265]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.01-02.37.25:960][265]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.01-02.37.25:960][265]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.01-02.37.26:380][307]LogMaterial: Display: Missing cached shader map for material Grey, compiling. 
+[2020.02.01-02.37.26:401][307]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.37.26:401][307]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.37.26:401][307]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.02.01-02.37.27:147][367]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.02.01-02.37.27:147][367]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.02.01-02.37.27:147][367]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.01-02.37.27:147][367]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.01-02.37.27:147][367]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.01-02.37.27:147][367]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.01-02.37.27:339][386]LogMaterial: Display: Missing cached shader map for material Grey, compiling. 
+[2020.02.01-02.37.27:360][386]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.37.27:360][386]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.37.27:360][386]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.02.01-02.37.28:101][446]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.02.01-02.37.28:101][446]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.02.01-02.37.28:101][446]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.01-02.37.28:101][446]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.01-02.37.28:101][446]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.01-02.37.28:101][446]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.01-02.37.29:237][564]LogMaterial: Display: Missing cached shader map for material Grey, compiling. 
+[2020.02.01-02.37.29:261][564]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.37.29:261][564]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.37.29:261][564]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.02.01-02.37.29:996][621]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.02.01-02.37.29:996][621]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.02.01-02.37.29:996][621]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.01-02.37.29:996][621]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.01-02.37.29:996][621]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.01-02.37.29:996][621]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.01-02.37.30:190][640]LogMaterial: Display: Missing cached shader map for material Grey, compiling. 
+[2020.02.01-02.37.30:208][640]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.37.30:209][640]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.37.30:212][640]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.02.01-02.37.30:241][640]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.01-02.37.30:933][704]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.02.01-02.37.30:933][704]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.02.01-02.37.30:933][704]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.01-02.37.30:933][704]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.01-02.37.30:933][704]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.01-02.37.30:933][704]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.01-02.37.33:965][ 64]LogMaterialEditor: Saving and Compiling material Grey
+[2020.02.01-02.37.34:462][ 64]LogMaterial: Display: Missing cached shader map for material Grey, compiling. 
+[2020.02.01-02.37.34:520][ 64]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.01-02.37.34:520][ 64]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.01-02.37.34:529][ 64]LogMaterial: Display: Missing cached shader map for material Grey, compiling. 
+[2020.02.01-02.37.34:550][ 64]LogMaterial: Display: Missing cached shader map for material Grey, compiling. 
+[2020.02.01-02.37.34:611][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.02.01-02.37.34:622][ 64]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.01-02.37.35:085][ 64]TextureStreamingBuild: Display: Compiling optional shaders took 0.474 seconds.
+[2020.02.01-02.37.35:135][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.02.01-02.37.37:970][ 64]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/GreyCBD7D46843DBE1CCB1F8568570349C2B.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScroller/Materials/Grey.uasset'
+[2020.02.01-02.38.20:896][874]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.02.01-02.38.37:578][680]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-02.39.43:475][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.02.01-02.39.43:696][ 73]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/2DSideScrollerExampleMap758E6F814168AB3FC5B5BA9E9FFB4750.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2020.02.01-02.39.43:739][ 73]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/2DSideScrollerExampleMap_BuiltDaE6AB454C45CD5F218C87EB9F30B32FD4.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2020.02.01-02.39.47:098][330]LogBlueprintActionDatabase: Requesting refresh due to module change: ExternalImagePicker (loaded)
+[2020.02.01-02.39.48:219][330]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.02.01-02.41.08:288][713]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-02.41.17:214][865]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.02.01-02.41.20:939][280]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/Robot.Robot
+[2020.02.01-02.42.14:442][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-02.43.55:830][687]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Robot25C3045A43624ABA4D33DA92486FA24F.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScroller/Sprites/Robot.uasset'
+[2020.02.01-02.49.56:210][805]LogUObjectHash: Compacting FUObjectHashTables data took   8.30ms
+[2020.02.01-02.49.59:825][ 76]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter_test.2DSideScrollerCharacter_test
+[2020.02.01-02.50.55:689][843]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.02.01-02.50.56:811][843]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.121 s
+[2020.02.01-02.50.56:811][843]LogOutputDevice: Error: === Handled ensure: ===
+[2020.02.01-02.50.56:811][843]LogOutputDevice: Error: 
+[2020.02.01-02.50.56:811][843]LogOutputDevice: Error: Ensure condition failed: idx != INDEX_NONE [File:D:\Build\++UE4\Sync\Engine\Source\Editor\GraphEditor\Private\SGraphEditorImpl.cpp] [Line: 730]
+[2020.02.01-02.50.56:811][843]LogOutputDevice: Error: Attempted to unlock graphs that were not locked together: GraphEditorModule.cpp(68) SBlueprintDiff.cpp(1138)
+[2020.02.01-02.50.56:811][843]LogOutputDevice: Error: Stack: 
+[2020.02.01-02.50.56:812][843]LogOutputDevice: Error: [Callstack] 0x00007ffff6f2c2b8 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.02.01-02.50.56:812][843]LogOutputDevice: Error: [Callstack] 0x00007ffff6e8eee2 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.02.01-02.50.56:812][843]LogOutputDevice: Error: [Callstack] 0x00007ffff6549609 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.02.01-02.50.56:812][843]LogOutputDevice: Error: [Callstack] 0x00007ffff676c2e8 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.02.01-02.50.56:812][843]LogOutputDevice: Error: [Callstack] 0x00007ffff670e1e0 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.02.01-02.50.56:812][843]LogOutputDevice: Error: [Callstack] 0x00007ffff6749d50 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.02.01-02.50.56:812][843]LogOutputDevice: Error: [Callstack] 0x00007ffff670552c UE4Editor-Kismet.dll!UnknownFunction []
+[2020.02.01-02.50.56:812][843]LogOutputDevice: Error: [Callstack] 0x00007ffff654c61e UE4Editor-Kismet.dll!UnknownFunction []
+[2020.02.01-02.50.56:812][843]LogOutputDevice: Error: [Callstack] 0x00007ffff65ee495 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.02.01-02.50.56:812][843]LogOutputDevice: Error: [Callstack] 0x00007ffff664d12a UE4Editor-Kismet.dll!UnknownFunction []
+[2020.02.01-02.50.56:812][843]LogOutputDevice: Error: [Callstack] 0x00007ffff663a53e UE4Editor-Kismet.dll!UnknownFunction []
+[2020.02.01-02.50.56:812][843]LogOutputDevice: Error: [Callstack] 0x00007ffffae84021 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.01-02.50.56:812][843]LogOutputDevice: Error: [Callstack] 0x00007ffffaf00301 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.01-02.50.56:812][843]LogOutputDevice: Error: [Callstack] 0x00007ffffaeeaaca UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.01-02.50.56:812][843]LogOutputDevice: Error: [Callstack] 0x00007ffffaee0414 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.01-02.50.56:812][843]LogOutputDevice: Error: [Callstack] 0x00007ff82db2b8e0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.01-02.50.56:812][843]LogOutputDevice: Error: [Callstack] 0x00007ff82db1ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.01-02.50.56:812][843]LogOutputDevice: Error: [Callstack] 0x00007ff82db2d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.01-02.50.56:812][843]LogOutputDevice: Error: [Callstack] 0x00007ff82db1c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.01-02.50.56:812][843]LogOutputDevice: Error: [Callstack] 0x00007ff84a66ca66 USER32.dll!UnknownFunction []
+[2020.02.01-02.50.56:812][843]LogOutputDevice: Error: [Callstack] 0x00007ff84a66c582 USER32.dll!UnknownFunction []
+[2020.02.01-02.50.56:812][843]LogOutputDevice: Error: [Callstack] 0x00007ff82db2e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.01-02.50.56:812][843]LogOutputDevice: Error: [Callstack] 0x00007ff7d4b65d3e UE4Editor.exe!UnknownFunction []
+[2020.02.01-02.50.56:812][843]LogOutputDevice: Error: [Callstack] 0x00007ff7d4b7554c UE4Editor.exe!UnknownFunction []
+[2020.02.01-02.50.56:812][843]LogOutputDevice: Error: [Callstack] 0x00007ff7d4b755ca UE4Editor.exe!UnknownFunction []
+[2020.02.01-02.50.56:812][843]LogOutputDevice: Error: [Callstack] 0x00007ff7d4b8316c UE4Editor.exe!UnknownFunction []
+[2020.02.01-02.50.56:812][843]LogOutputDevice: Error: [Callstack] 0x00007ff7d4b85b8e UE4Editor.exe!UnknownFunction []
+[2020.02.01-02.50.56:812][843]LogOutputDevice: Error: [Callstack] 0x00007ff84b027974 KERNEL32.DLL!UnknownFunction []
+[2020.02.01-02.50.56:812][843]LogOutputDevice: Error: [Callstack] 0x00007ff84cbea271 ntdll.dll!UnknownFunction []
+[2020.02.01-02.50.56:812][843]LogOutputDevice: Error: 
+[2020.02.01-02.50.56:822][843]LogStats:                SubmitErrorReport -  0.000 s
