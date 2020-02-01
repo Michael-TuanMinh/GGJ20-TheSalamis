@@ -3280,3 +3280,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.01-20.38.59:607][653]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
 [2020.02.01-20.38.59:863][653]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/level1_PT3F4AA18694D6F5AEDF715EFAA669671AE.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/level1/level1_PT3.umap'
 [2020.02.01-20.39.02:528][841]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-20.40.06:487][157]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BG_0000s_0001s_0002_treadmil-L_Sprite)
+[2020.02.01-20.40.14:257][758]Cmd: TRANSACTION UNDO
+[2020.02.01-20.40.14:257][758]LogEditorTransaction: Undo Move Actors
+[2020.02.01-20.40.15:809][849]LogEditorViewport: Clicking Background
