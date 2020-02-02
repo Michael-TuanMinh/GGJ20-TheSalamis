@@ -1873,3 +1873,52 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.02-19.48.27:848][751]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2020.02.02-19.48.28:005][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
 [2020.02.02-19.48.28:416][756]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/level1_PT376C2DE84475014A741F2BB848F08E523.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/level1/level1_PT3.umap'
+[2020.02.02-19.49.46:552][920]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Graphic.SJH519-000W/Desktop/Bad_Credits.png)
+[2020.02.02-19.49.46:565][920]LogTexture: Display: Building textures: Bad_Credits (BGRA8, 642X362)
+[2020.02.02-19.49.50:671][ 52]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Graphic.SJH519-000W/Desktop/Good_Credits.png)
+[2020.02.02-19.49.50:684][ 52]LogTexture: Display: Building textures: Good_Credits (BGRA8, 642X362)
+[2020.02.02-19.50.36:784][604]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/BP_Robot.BP_Robot
+[2020.02.02-19.51.03:809][294]BlueprintLog: New page: Compile level1_PT3
+[2020.02.02-19.51.04:114][294]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2020.02.02-19.51.05:766][476]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2020.02.02-19.51.06:177][476]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/level1_PT313190170425E67860F12149FCE6BB22E.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/level1/level1_PT3.umap'
+[2020.02.02-19.51.06:235][476]LogFileHelpers: Saving map 'level1_PT3' took 0.529
+[2020.02.02-19.52.13:988][242]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/2DSideScrollerBP/Blueprints/TestWidget.TestWidget
+[2020.02.02-19.52.14:382][242]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2020.02.02-19.52.44:212][663]BlueprintLog: New page: Compile TestWidget
+[2020.02.02-19.52.44:317][663]LogUObjectHash: Compacting FUObjectHashTables data took   8.96ms
+[2020.02.02-19.52.45:001][723]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/TestWidget20F375BC44C4C7D261D4088583D42D23.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Blueprints/TestWidget.uasset'
+[2020.02.02-19.52.57:222][861]LogUObjectHash: Compacting FUObjectHashTables data took   6.79ms
+[2020.02.02-19.52.57:274][861]LogMetaData: Removing '/Game/2DSideScrollerBP/Blueprints/BadCredits.BadCredits_C' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/TestWidget.PackageMetaData'
+[2020.02.02-19.52.57:274][861]LogMetaData: Removing '/Game/2DSideScrollerBP/Blueprints/BadCredits.BadCredits:EventGraph.K2Node_Event_0' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/TestWidget.PackageMetaData'
+[2020.02.02-19.52.57:274][861]LogMetaData: Removing '/Game/2DSideScrollerBP/Blueprints/BadCredits.BadCredits:EventGraph.K2Node_Event_1' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/TestWidget.PackageMetaData'
+[2020.02.02-19.52.57:274][861]LogMetaData: Removing '/Game/2DSideScrollerBP/Blueprints/BadCredits.BadCredits:EventGraph.K2Node_Event_2' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/TestWidget.PackageMetaData'
+[2020.02.02-19.52.57:274][861]LogMetaData: Removing '/Game/2DSideScrollerBP/Blueprints/BadCredits.SKEL_BadCredits_C' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/TestWidget.PackageMetaData'
+[2020.02.02-19.52.57:324][861]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/BadCredits0922D81C437D95228A2766ADA722FB24.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Blueprints/BadCredits.uasset'
+[2020.02.02-19.52.57:774][861]LogUObjectHash: Compacting FUObjectHashTables data took   5.85ms
+[2020.02.02-19.52.57:846][861]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2020.02.02-19.52.57:909][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.02.02-19.54.37:604][270]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/MyGameInstance.MyGameInstance
+[2020.02.02-19.58.54:392][724]LogSlate: Window 'Message Log' being destroyed
+[2020.02.02-19.58.54:399][724]LogSlate: Window 'Message Log' being destroyed
+[2020.02.02-19.59.32:565][966]LogUObjectHash: Compacting FUObjectHashTables data took   6.91ms
+[2020.02.02-19.59.36:316][237]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2020.02.02-19.59.44:580][893]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2020.02.02-19.59.44:581][893]LogMetaData: Removing '/Game/2DSideScrollerBP/Blueprints/GoodCredits.SKEL_GoodCredits_C' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/BadCredits1.PackageMetaData'
+[2020.02.02-19.59.44:581][893]LogMetaData: Removing '/Game/2DSideScrollerBP/Blueprints/GoodCredits.GoodCredits_C' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/BadCredits1.PackageMetaData'
+[2020.02.02-19.59.44:630][893]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/GoodCreditsFCD3A0D6403756C20F7F2AA03425C5E9.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Blueprints/GoodCredits.uasset'
+[2020.02.02-19.59.44:935][893]LogUObjectHash: Compacting FUObjectHashTables data took   6.43ms
+[2020.02.02-19.59.45:010][893]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2020.02.02-19.59.45:075][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.02.02-19.59.51:262][424]LogUObjectHash: Compacting FUObjectHashTables data took   6.83ms
+[2020.02.02-19.59.51:263][424]LogMetaData: Removing '/Game/2DSideScrollerBP/Blueprints/NeutralCredits.SKEL_NeutralCredits_C' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/BadCredits2.PackageMetaData'
+[2020.02.02-19.59.51:263][424]LogMetaData: Removing '/Game/2DSideScrollerBP/Blueprints/NeutralCredits.NeutralCredits_C' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/BadCredits2.PackageMetaData'
+[2020.02.02-19.59.51:312][424]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/NeutralCredits149ADCCC47445A6344FA609A5B93DD28.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Blueprints/NeutralCredits.uasset'
+[2020.02.02-19.59.51:614][424]LogUObjectHash: Compacting FUObjectHashTables data took   6.09ms
+[2020.02.02-19.59.51:690][424]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2020.02.02-19.59.51:758][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.02.02-20.00.00:175][201]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/2DSideScrollerBP/Blueprints/GoodCredits.GoodCredits
+[2020.02.02-20.00.19:167][190]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/2DSideScrollerBP/Blueprints/NeutralCredits.NeutralCredits
+[2020.02.02-20.00.52:984][303]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Graphic.SJH519-000W/Desktop/Neutral.png)
+[2020.02.02-20.00.53:029][303]LogTexture: Display: Building textures: Neutral (BGRA8, 1479X832)
+[2020.02.02-20.01.31:763][738]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
