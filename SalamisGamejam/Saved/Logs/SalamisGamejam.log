@@ -1699,3 +1699,761 @@ Script Stack (0 frames):
 [2020.02.02-20.54.45:425][936]BlueprintLog: New page: Compile 2DSideScrollerGameMode
 [2020.02.02-20.54.45:737][936]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
 [2020.02.02-20.54.46:216][975]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/2DSideScrollerGameModeD0D614FA4F4E9DF19C7EB2858BFC983B.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset'
+[2020.02.02-20.55.01:712][707]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2020.02.02-20.55.02:144][707]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/level1_PT3DB484D6946EDB1F99BFCE48BFE0226D5.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/level1/level1_PT3.umap'
+[2020.02.02-20.55.26:038][278]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-20.55.26:076][278]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-20.55.26:076][278]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-20.55.26:076][278]PIE: New page: PIE session: level1_PT3 (Feb 2, 2020, 10:55:26 AM)
+[2020.02.02-20.55.26:077][278]LogPlayLevel: Creating play world package: /Game/level1/UEDPIE_0_level1_PT3
+[2020.02.02-20.55.26:090][278]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013528s)
+[2020.02.02-20.55.26:091][278]LogAIModule: Creating AISystem for world level1_PT3
+[2020.02.02-20.55.26:091][278]LogPlayLevel: PIE: World Init took: (0.000698s)
+[2020.02.02-20.55.26:091][278]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1/level1_PT3.level1_PT3 to /Game/level1/UEDPIE_0_level1_PT3.level1_PT3 (0.014385s)
+[2020.02.02-20.55.26:153][278]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2020.02.02-20.55.26:203][278]LogInit: XAudio2 using '2 - DELL U2717D (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.02-20.55.26:222][278]LogInit: FAudioDevice initialized.
+[2020.02.02-20.55.26:254][278]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.02-20.55.26:262][278]LogWorld: Bringing World /Game/level1/UEDPIE_0_level1_PT3.level1_PT3 up for play (max tick rate 0) at 2020.02.02-15.55.26
+[2020.02.02-20.55.26:264][278]LogWorld: Bringing up level for play took: 0.008376
+[2020.02.02-20.55.26:279][278]LogBlueprintUserMessages: [BP_Robot_2] false
+[2020.02.02-20.55.26:279][278]LogBlueprintUserMessages: [BP_Robot2] false
+[2020.02.02-20.55.26:283][278]PIE: Play in editor start time for /Game/level1/UEDPIE_0_level1_PT3 1.179
+[2020.02.02-20.55.26:283][278]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-20.55.36:258][ 87]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-20.55.36:258][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-20.55.36:312][ 87]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-20.55.36:312][ 87]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-20.55.36:380][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-20.55.36:387][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2020.02.02-20.55.36:432][ 88]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2020.02.02-20.55.43:204][195]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BG_0000s_0009_machine_Sprite5)
+[2020.02.02-20.55.44:084][239]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BG_0000s_0009_machine_Sprite2)
+[2020.02.02-20.55.44:851][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-20.55.44:915][285]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-20.55.44:953][285]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-20.55.44:953][285]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-20.55.44:953][285]PIE: New page: PIE session: level1_PT3 (Feb 2, 2020, 10:55:44 AM)
+[2020.02.02-20.55.44:953][285]LogPlayLevel: Creating play world package: /Game/level1/UEDPIE_0_level1_PT3
+[2020.02.02-20.55.44:967][285]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013494s)
+[2020.02.02-20.55.44:967][285]LogAIModule: Creating AISystem for world level1_PT3
+[2020.02.02-20.55.44:968][285]LogPlayLevel: PIE: World Init took: (0.000660s)
+[2020.02.02-20.55.44:968][285]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1/level1_PT3.level1_PT3 to /Game/level1/UEDPIE_0_level1_PT3.level1_PT3 (0.014311s)
+[2020.02.02-20.55.45:030][285]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2020.02.02-20.55.45:080][285]LogInit: XAudio2 using '2 - DELL U2717D (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.02-20.55.45:097][285]LogInit: FAudioDevice initialized.
+[2020.02.02-20.55.45:124][285]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.02-20.55.45:128][285]LogWorld: Bringing World /Game/level1/UEDPIE_0_level1_PT3.level1_PT3 up for play (max tick rate 0) at 2020.02.02-15.55.45
+[2020.02.02-20.55.45:129][285]LogWorld: Bringing up level for play took: 0.003729
+[2020.02.02-20.55.45:142][285]LogBlueprintUserMessages: [BP_Robot_2] false
+[2020.02.02-20.55.45:142][285]LogBlueprintUserMessages: [BP_Robot2] false
+[2020.02.02-20.55.45:144][285]PIE: Play in editor start time for /Game/level1/UEDPIE_0_level1_PT3 0.04
+[2020.02.02-20.55.45:144][285]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-20.55.59:237][363]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-20.57.10:770][657]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/BP_Robot.BP_Robot
+[2020.02.02-20.57.29:996][192]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4208 (AB 120))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.02-20.57.30:134][192]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4208 (AB 120))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.02-20.57.30:246][201]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{3570ff7a-b4a0-4ab5-910d-b302b86cf1ee} was removed. Shutting down audio device.
+[2020.02.02-20.57.30:246][201]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{3570ff7a-b4a0-4ab5-910d-b302b86cf1ee} was removed. Shutting down audio device.
+[2020.02.02-20.57.30:347][201]LogInit: XAudio2 using '2 - DELL U2717D (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.02-20.57.30:459][201]LogInit: XAudio2 using '2 - DELL U2717D (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.02-20.57.30:632][204]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4208 (AB 120))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.02-20.57.30:744][204]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4208 (AB 120))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.02-20.57.31:237][244]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-20.57.31:238][244]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-20.57.31:294][244]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-20.57.31:294][244]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-20.57.31:359][244]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-20.57.31:366][244]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2020.02.02-20.57.31:403][245]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2020.02.02-20.59.41:432][486]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.02-21.01.29:086][879]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.02.02-21.01.29:180][879]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/BP_Robot9F9669C343B82BE37E6AE2BE264EDA45.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Blueprints/BP_Robot.uasset'
+[2020.02.02-21.01.31:638][ 37]LogAIModule: Creating AISystem for world level1_PT1
+[2020.02.02-21.01.31:647][ 37]LogAssetEditorManager: Opening Asset editor for World /Game/level1/level1_PT1.level1_PT1
+[2020.02.02-21.01.31:714][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2020.02.02-21.01.31:716][ 37]Cmd: MAP LOAD FILE="../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/level1/level1_PT1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.02-21.01.31:716][ 37]LightingResults: New page: Lighting Build
+[2020.02.02-21.01.31:717][ 37]LoadErrors: New page: Loading map: level1_PT1.umap
+[2020.02.02-21.01.31:719][ 37]MapCheck: New page: Map Check
+[2020.02.02-21.01.31:719][ 37]LightingResults: New page: Lighting Build
+[2020.02.02-21.01.31:788][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2020.02.02-21.01.31:795][ 37]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.02-21.01.31:865][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2020.02.02-21.01.31:921][ 37]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.02-21.01.31:921][ 37]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.122ms to complete.
+[2020.02.02-21.01.31:921][ 37]LogFileHelpers: Loading map 'level1_PT1' took 0.207
+[2020.02.02-21.01.36:338][381]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (MainTheme_Cue)
+[2020.02.02-21.01.47:976][214]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-21.01.48:236][231]LogAIModule: Creating AISystem for world level1_PT2
+[2020.02.02-21.01.48:250][231]LogAssetEditorManager: Opening Asset editor for World /Game/level1/level1_PT2.level1_PT2
+[2020.02.02-21.01.48:316][231]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2020.02.02-21.01.48:317][231]Cmd: MAP LOAD FILE="../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/level1/level1_PT2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.02-21.01.48:317][231]LightingResults: New page: Lighting Build
+[2020.02.02-21.01.48:318][231]LoadErrors: New page: Loading map: level1_PT2.umap
+[2020.02.02-21.01.48:320][231]MapCheck: New page: Map Check
+[2020.02.02-21.01.48:320][231]LightingResults: New page: Lighting Build
+[2020.02.02-21.01.48:388][231]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2020.02.02-21.01.48:403][231]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.02-21.01.48:474][231]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.02.02-21.01.48:529][231]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.02-21.01.48:529][231]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.118ms to complete.
+[2020.02.02-21.01.48:529][231]LogFileHelpers: Loading map 'level1_PT2' took 0.213
+[2020.02.02-21.01.51:945][454]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (MainTheme_Cue)
+[2020.02.02-21.01.53:729][565]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (RepairTheme_Cue)
+[2020.02.02-21.01.57:271][794]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (Evil_Theme_Song_Cue)
+[2020.02.02-21.02.01:784][ 79]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (MainTheme_Cue)
+[2020.02.02-21.02.26:229][602]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-21.02.26:452][613]LogAIModule: Creating AISystem for world level1_PT3
+[2020.02.02-21.02.26:467][613]LogAssetEditorManager: Opening Asset editor for World /Game/level1/level1_PT3.level1_PT3
+[2020.02.02-21.02.26:530][613]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2020.02.02-21.02.26:532][613]Cmd: MAP LOAD FILE="../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/level1/level1_PT3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.02-21.02.26:532][613]LightingResults: New page: Lighting Build
+[2020.02.02-21.02.26:533][613]LoadErrors: New page: Loading map: level1_PT3.umap
+[2020.02.02-21.02.26:535][613]MapCheck: New page: Map Check
+[2020.02.02-21.02.26:535][613]LightingResults: New page: Lighting Build
+[2020.02.02-21.02.26:599][613]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2020.02.02-21.02.26:618][613]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.02-21.02.26:686][613]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2020.02.02-21.02.26:742][613]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.02-21.02.26:742][613]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.134ms to complete.
+[2020.02.02-21.02.26:743][613]LogFileHelpers: Loading map 'level1_PT3' took 0.212
+[2020.02.02-21.02.31:552][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-21.02.50:158][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-21.02.53:666][296]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-21.03.05:795][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-21.03.15:178][672]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3
+[2020.02.02-21.11.03:116][369]BlueprintLog: New page: Compile level1_PT3
+[2020.02.02-21.11.03:125][369]LogBlueprint: Error: [Compiler PersistentLevel.level1_PT3] This blueprint (self) is not a AudioComponent, therefore ' Target ' must have a connection.
+[2020.02.02-21.11.03:470][369]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2020.02.02-21.11.03:493][369]LogBlueprint: Warning: [Compiler PersistentLevel.level1_PT3] [4068.76] Compile of PersistentLevel.level1_PT3 failed. 1 Fatal Issue(s) 0 Warning(s) [in 377 ms] (/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3)
+[2020.02.02-21.11.09:098][633]BlueprintLog: New page: Compile level1_PT3
+[2020.02.02-21.11.09:433][633]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2020.02.02-21.11.10:110][656]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.02.02-21.11.10:617][656]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/level1_PT36626D6AB4195F7B61DC676B4CF4F7B7F.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/level1/level1_PT3.umap'
+[2020.02.02-21.11.10:677][656]LogFileHelpers: Saving map 'level1_PT3' took 0.632
+[2020.02.02-21.11.14:236][839]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-21.11.14:272][839]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.11.14:273][839]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.02-21.11.14:278][839]LogPlayLevel: [PlayLevel] Compiling BP_Robot before play...
+[2020.02.02-21.11.14:636][839]LogUObjectHash: Compacting FUObjectHashTables data took   6.43ms
+[2020.02.02-21.11.14:636][839]LogPlayLevel: PlayLevel: Blueprint regeneration took 364 ms (1 blueprints)
+[2020.02.02-21.11.14:637][839]PIE: New page: PIE session: level1_PT3 (Feb 2, 2020, 11:11:14 AM)
+[2020.02.02-21.11.14:637][839]LogPlayLevel: Creating play world package: /Game/level1/UEDPIE_0_level1_PT3
+[2020.02.02-21.11.14:652][839]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014868s)
+[2020.02.02-21.11.14:653][839]LogAIModule: Creating AISystem for world level1_PT3
+[2020.02.02-21.11.14:653][839]LogPlayLevel: PIE: World Init took: (0.000714s)
+[2020.02.02-21.11.14:653][839]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1/level1_PT3.level1_PT3 to /Game/level1/UEDPIE_0_level1_PT3.level1_PT3 (0.015735s)
+[2020.02.02-21.11.14:717][839]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2020.02.02-21.11.14:780][839]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4208 (AB 120))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.02-21.11.14:797][839]LogInit: FAudioDevice initialized.
+[2020.02.02-21.11.14:830][839]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.02-21.11.14:834][839]LogWorld: Bringing World /Game/level1/UEDPIE_0_level1_PT3.level1_PT3 up for play (max tick rate 0) at 2020.02.02-16.11.14
+[2020.02.02-21.11.14:834][839]LogWorld: Bringing up level for play took: 0.003807
+[2020.02.02-21.11.14:847][839]LogBlueprintUserMessages: [BP_Robot_2] false
+[2020.02.02-21.11.14:848][839]LogBlueprintUserMessages: [BP_Robot2] false
+[2020.02.02-21.11.14:849][839]PIE: Play in editor start time for /Game/level1/UEDPIE_0_level1_PT3 -0.255
+[2020.02.02-21.11.14:850][839]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.11.20:041][247]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.11.20:041][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-21.11.20:112][247]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-21.11.20:112][247]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.11.20:179][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-21.11.20:187][247]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.02.02-21.11.20:232][248]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2020.02.02-21.11.25:939][343]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-21.11.27:464][425]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-21.11.27:505][425]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.11.27:505][425]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-21.11.27:505][425]PIE: New page: PIE session: level1_PT3 (Feb 2, 2020, 11:11:27 AM)
+[2020.02.02-21.11.27:506][425]LogPlayLevel: Creating play world package: /Game/level1/UEDPIE_0_level1_PT3
+[2020.02.02-21.11.27:520][425]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014711s)
+[2020.02.02-21.11.27:521][425]LogAIModule: Creating AISystem for world level1_PT3
+[2020.02.02-21.11.27:521][425]LogPlayLevel: PIE: World Init took: (0.000710s)
+[2020.02.02-21.11.27:521][425]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1/level1_PT3.level1_PT3 to /Game/level1/UEDPIE_0_level1_PT3.level1_PT3 (0.015595s)
+[2020.02.02-21.11.27:585][425]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2020.02.02-21.11.27:649][425]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4208 (AB 120))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.02-21.11.27:665][425]LogInit: FAudioDevice initialized.
+[2020.02.02-21.11.27:698][425]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.02-21.11.27:701][425]LogWorld: Bringing World /Game/level1/UEDPIE_0_level1_PT3.level1_PT3 up for play (max tick rate 0) at 2020.02.02-16.11.27
+[2020.02.02-21.11.27:702][425]LogWorld: Bringing up level for play took: 0.003716
+[2020.02.02-21.11.27:715][425]LogBlueprintUserMessages: [BP_Robot_2] false
+[2020.02.02-21.11.27:715][425]LogBlueprintUserMessages: [BP_Robot2] false
+[2020.02.02-21.11.27:717][425]PIE: Play in editor start time for /Game/level1/UEDPIE_0_level1_PT3 0.613
+[2020.02.02-21.11.27:717][425]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.11.53:439][504]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.11.53:439][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-21.11.53:491][504]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-21.11.53:491][504]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.11.53:564][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-21.11.53:571][504]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.02.02-21.11.53:614][505]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2020.02.02-21.11.54:824][582]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-21.11.58:290][811]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-21.11.58:328][811]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.11.58:328][811]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-21.11.58:328][811]PIE: New page: PIE session: level1_PT3 (Feb 2, 2020, 11:11:58 AM)
+[2020.02.02-21.11.58:329][811]LogPlayLevel: Creating play world package: /Game/level1/UEDPIE_0_level1_PT3
+[2020.02.02-21.11.58:344][811]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015301s)
+[2020.02.02-21.11.58:345][811]LogAIModule: Creating AISystem for world level1_PT3
+[2020.02.02-21.11.58:345][811]LogPlayLevel: PIE: World Init took: (0.000665s)
+[2020.02.02-21.11.58:345][811]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1/level1_PT3.level1_PT3 to /Game/level1/UEDPIE_0_level1_PT3.level1_PT3 (0.016140s)
+[2020.02.02-21.11.58:413][811]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2020.02.02-21.11.58:475][811]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4208 (AB 120))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.02-21.11.58:490][811]LogInit: FAudioDevice initialized.
+[2020.02.02-21.11.58:523][811]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.02-21.11.58:527][811]LogWorld: Bringing World /Game/level1/UEDPIE_0_level1_PT3.level1_PT3 up for play (max tick rate 0) at 2020.02.02-16.11.58
+[2020.02.02-21.11.58:527][811]LogWorld: Bringing up level for play took: 0.003852
+[2020.02.02-21.11.58:540][811]LogBlueprintUserMessages: [BP_Robot_2] false
+[2020.02.02-21.11.58:540][811]LogBlueprintUserMessages: [BP_Robot2] false
+[2020.02.02-21.11.58:542][811]PIE: Play in editor start time for /Game/level1/UEDPIE_0_level1_PT3 -0.562
+[2020.02.02-21.11.58:542][811]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.12.15:506][161]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.12.15:507][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-21.12.15:559][161]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-21.12.15:560][161]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.12.15:632][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-21.12.15:638][161]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.02.02-21.12.15:682][162]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2020.02.02-21.12.17:136][254]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-21.12.17:247][261]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-21.12.17:287][261]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.12.17:287][261]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-21.12.17:287][261]PIE: New page: PIE session: level1_PT3 (Feb 2, 2020, 11:12:17 AM)
+[2020.02.02-21.12.17:287][261]LogPlayLevel: Creating play world package: /Game/level1/UEDPIE_0_level1_PT3
+[2020.02.02-21.12.17:303][261]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015132s)
+[2020.02.02-21.12.17:303][261]LogAIModule: Creating AISystem for world level1_PT3
+[2020.02.02-21.12.17:303][261]LogPlayLevel: PIE: World Init took: (0.000720s)
+[2020.02.02-21.12.17:303][261]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1/level1_PT3.level1_PT3 to /Game/level1/UEDPIE_0_level1_PT3.level1_PT3 (0.016021s)
+[2020.02.02-21.12.17:371][261]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2020.02.02-21.12.17:436][261]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4208 (AB 120))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.02-21.12.17:451][261]LogInit: FAudioDevice initialized.
+[2020.02.02-21.12.17:479][261]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.02-21.12.17:483][261]LogWorld: Bringing World /Game/level1/UEDPIE_0_level1_PT3.level1_PT3 up for play (max tick rate 0) at 2020.02.02-16.12.17
+[2020.02.02-21.12.17:483][261]LogWorld: Bringing up level for play took: 0.003866
+[2020.02.02-21.12.17:496][261]LogBlueprintUserMessages: [BP_Robot_2] false
+[2020.02.02-21.12.17:496][261]LogBlueprintUserMessages: [BP_Robot2] false
+[2020.02.02-21.12.17:498][261]PIE: Play in editor start time for /Game/level1/UEDPIE_0_level1_PT3 0.394
+[2020.02.02-21.12.17:498][261]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.12.34:331][632]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.12.34:332][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-21.12.34:388][632]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-21.12.34:388][632]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.12.34:456][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-21.12.34:463][632]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.02.02-21.12.34:509][633]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2020.02.02-21.12.37:284][810]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-21.14.43:576][494]LogWindows: LaunchFileInExternalEditor C:/Program Files/Epic Games/UE_4.22/Engine/Source/Runtime/Engine/Classes/Sound/AmbientSound.h 
+[2020.02.02-21.14.43:765][494]LogWindows: Launch application code for C:/Program Files/Epic Games/UE_4.22/Engine/Source/Runtime/Engine/Classes/Sound/AmbientSound.h : 42
+[2020.02.02-21.14.43:765][494]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2020.02.02-21.14.43:771][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:771][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:771][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:771][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:772][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:772][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:772][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:772][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:772][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:772][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:772][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:772][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:773][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:773][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:773][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:773][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:773][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:773][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:773][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:773][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:774][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:774][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:774][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:774][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:774][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:774][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:774][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:774][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:775][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:775][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:775][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:775][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:775][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:775][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:775][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:775][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:776][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:776][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:776][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:776][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:776][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:776][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:776][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:776][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:777][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:777][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:777][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:777][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:777][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:777][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:777][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:777][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:777][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:778][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:778][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:778][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:778][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:778][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:778][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:778][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:778][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:778][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:779][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:779][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:779][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:779][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:779][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:779][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:779][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:779][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:780][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:780][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:780][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:780][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:780][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:780][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:780][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:780][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:781][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:781][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:781][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:781][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:781][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:781][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:781][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:781][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:782][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:782][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:782][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:782][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:782][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:782][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:782][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:782][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:782][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:783][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:783][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:783][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:783][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:783][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:783][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:783][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:784][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:784][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:784][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:818][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:823][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:823][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:824][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:825][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:825][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:827][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:845][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:845][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:846][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:890][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:890][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:890][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:890][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:891][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:899][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:945][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:949][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:949][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:949][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:949][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:949][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:950][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:950][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:950][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:950][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:950][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:950][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:950][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:950][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:951][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:951][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:951][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:951][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:951][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:951][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:951][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:951][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:952][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:952][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:952][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:952][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:952][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:952][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:952][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:952][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:953][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:953][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:953][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:953][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:953][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:953][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:953][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:953][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:954][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:954][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:954][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:954][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:954][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:954][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:954][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:954][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:955][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:955][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:955][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:955][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:955][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:955][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:955][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:955][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:956][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:956][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:956][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:956][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:956][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:956][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:956][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:956][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:957][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:957][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:957][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:957][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:957][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:957][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:957][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:957][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:958][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:958][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:958][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:958][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:958][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:958][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:958][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:959][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:959][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:959][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:959][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:959][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:960][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:960][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:960][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:960][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:960][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:961][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:961][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:961][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:961][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:961][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:962][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:962][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:962][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:962][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:962][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:963][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:963][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:963][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:963][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:963][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:964][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:964][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:964][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:964][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.43:997][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.44:001][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.44:002][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.44:003][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.44:004][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.44:004][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.44:005][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.44:022][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.44:023][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.44:024][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.44:067][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.44:067][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.44:067][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.44:067][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.44:068][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.44:076][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.14.44:123][494]LogVSAccessor: Warning: Couldn't access module table
+[2020.02.02-21.16.02:300][712]BlueprintLog: New page: Compile level1_PT3
+[2020.02.02-21.16.02:643][712]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2020.02.02-21.16.03:769][763]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2020.02.02-21.16.04:257][763]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/level1_PT34151EC2642F5C316293453A89A2B0DC2.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/level1/level1_PT3.umap'
+[2020.02.02-21.16.04:319][763]LogFileHelpers: Saving map 'level1_PT3' took 0.623
+[2020.02.02-21.16.08:750][ 23]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-21.16.08:794][ 23]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.16.08:794][ 23]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-21.16.08:794][ 23]PIE: New page: PIE session: level1_PT3 (Feb 2, 2020, 11:16:08 AM)
+[2020.02.02-21.16.08:794][ 23]LogPlayLevel: Creating play world package: /Game/level1/UEDPIE_0_level1_PT3
+[2020.02.02-21.16.08:809][ 23]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014525s)
+[2020.02.02-21.16.08:810][ 23]LogAIModule: Creating AISystem for world level1_PT3
+[2020.02.02-21.16.08:810][ 23]LogPlayLevel: PIE: World Init took: (0.000660s)
+[2020.02.02-21.16.08:810][ 23]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1/level1_PT3.level1_PT3 to /Game/level1/UEDPIE_0_level1_PT3.level1_PT3 (0.015366s)
+[2020.02.02-21.16.08:877][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2020.02.02-21.16.08:939][ 23]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4208 (AB 120))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.02-21.16.08:955][ 23]LogInit: FAudioDevice initialized.
+[2020.02.02-21.16.08:984][ 23]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.02-21.16.08:988][ 23]LogWorld: Bringing World /Game/level1/UEDPIE_0_level1_PT3.level1_PT3 up for play (max tick rate 0) at 2020.02.02-16.16.08
+[2020.02.02-21.16.08:989][ 23]LogWorld: Bringing up level for play took: 0.003494
+[2020.02.02-21.16.09:004][ 23]LogBlueprintUserMessages: [BP_Robot_2] false
+[2020.02.02-21.16.09:004][ 23]LogBlueprintUserMessages: [BP_Robot2] false
+[2020.02.02-21.16.09:007][ 23]PIE: Play in editor start time for /Game/level1/UEDPIE_0_level1_PT3 -0.097
+[2020.02.02-21.16.09:008][ 23]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.16.39:778][604]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.16.39:778][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-21.16.39:912][604]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-21.16.39:913][604]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.16.39:987][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-21.16.39:994][604]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2020.02.02-21.16.40:039][605]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2020.02.02-21.16.43:700][847]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-21.16.56:591][805]LogSlate: Window 'level1_PT3' being destroyed
+[2020.02.02-21.18.20:922][582]BlueprintLog: New page: Compile level1_PT3
+[2020.02.02-21.18.21:270][582]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2020.02.02-21.18.21:861][625]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2020.02.02-21.18.22:377][625]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/level1_PT35533620848E2F5D1EA7C60BCBBAC940F.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/level1/level1_PT3.umap'
+[2020.02.02-21.18.22:437][625]LogFileHelpers: Saving map 'level1_PT3' took 0.652
+[2020.02.02-21.18.34:728][482]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-21.18.34:765][482]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.18.34:766][482]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-21.18.34:766][482]PIE: New page: PIE session: level1_PT3 (Feb 2, 2020, 11:18:34 AM)
+[2020.02.02-21.18.34:766][482]LogPlayLevel: Creating play world package: /Game/level1/UEDPIE_0_level1_PT3
+[2020.02.02-21.18.34:781][482]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014605s)
+[2020.02.02-21.18.34:781][482]LogAIModule: Creating AISystem for world level1_PT3
+[2020.02.02-21.18.34:782][482]LogPlayLevel: PIE: World Init took: (0.000816s)
+[2020.02.02-21.18.34:782][482]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1/level1_PT3.level1_PT3 to /Game/level1/UEDPIE_0_level1_PT3.level1_PT3 (0.015575s)
+[2020.02.02-21.18.34:847][482]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2020.02.02-21.18.34:909][482]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4208 (AB 120))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.02-21.18.34:925][482]LogInit: FAudioDevice initialized.
+[2020.02.02-21.18.34:955][482]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.02-21.18.34:959][482]LogWorld: Bringing World /Game/level1/UEDPIE_0_level1_PT3.level1_PT3 up for play (max tick rate 0) at 2020.02.02-16.18.34
+[2020.02.02-21.18.34:960][482]LogWorld: Bringing up level for play took: 0.003756
+[2020.02.02-21.18.34:972][482]LogBlueprintUserMessages: [BP_Robot_2] false
+[2020.02.02-21.18.34:973][482]LogBlueprintUserMessages: [BP_Robot2] false
+[2020.02.02-21.18.34:974][482]PIE: Play in editor start time for /Game/level1/UEDPIE_0_level1_PT3 -0.13
+[2020.02.02-21.18.34:975][482]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.18.51:347][840]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.18.51:347][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-21.18.51:488][840]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-21.18.51:488][840]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.18.51:558][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-21.18.51:565][840]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2020.02.02-21.18.51:610][841]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2020.02.02-21.18.52:263][883]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-21.20.21:065][512]LogEditorTransaction: Undo Delete current selection
+[2020.02.02-21.25.37:809][308]BlueprintLog: New page: Compile level1_PT3
+[2020.02.02-21.25.38:159][308]LogUObjectHash: Compacting FUObjectHashTables data took   5.77ms
+[2020.02.02-21.25.38:788][346]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2020.02.02-21.25.39:318][346]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/level1_PT3A778CDF8427F6D2DCB52709D6DD1C36C.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/level1/level1_PT3.umap'
+[2020.02.02-21.25.39:378][346]LogFileHelpers: Saving map 'level1_PT3' took 0.661
+[2020.02.02-21.25.48:378][961]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-21.25.48:420][961]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.25.48:420][961]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-21.25.48:420][961]PIE: New page: PIE session: level1_PT3 (Feb 2, 2020, 11:25:48 AM)
+[2020.02.02-21.25.48:421][961]LogPlayLevel: Creating play world package: /Game/level1/UEDPIE_0_level1_PT3
+[2020.02.02-21.25.48:436][961]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015055s)
+[2020.02.02-21.25.48:436][961]LogAIModule: Creating AISystem for world level1_PT3
+[2020.02.02-21.25.48:437][961]LogPlayLevel: PIE: World Init took: (0.000755s)
+[2020.02.02-21.25.48:437][961]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1/level1_PT3.level1_PT3 to /Game/level1/UEDPIE_0_level1_PT3.level1_PT3 (0.015968s)
+[2020.02.02-21.25.48:506][961]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2020.02.02-21.25.48:567][961]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4208 (AB 120))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.02-21.25.48:583][961]LogInit: FAudioDevice initialized.
+[2020.02.02-21.25.48:616][961]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.02-21.25.48:620][961]LogWorld: Bringing World /Game/level1/UEDPIE_0_level1_PT3.level1_PT3 up for play (max tick rate 0) at 2020.02.02-16.25.48
+[2020.02.02-21.25.48:621][961]LogWorld: Bringing up level for play took: 0.003937
+[2020.02.02-21.25.48:633][961]LogBlueprintUserMessages: [BP_Robot_2] false
+[2020.02.02-21.25.48:633][961]LogBlueprintUserMessages: [BP_Robot2] false
+[2020.02.02-21.25.48:635][961]PIE: Play in editor start time for /Game/level1/UEDPIE_0_level1_PT3 -0.469
+[2020.02.02-21.25.48:635][961]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.25.52:198][253]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.25.52:199][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-21.25.52:276][253]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-21.25.52:276][253]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.25.52:349][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-21.25.52:357][253]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2020.02.02-21.25.52:403][254]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2020.02.02-21.25.53:474][322]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-21.26.07:713][609]BlueprintLog: New page: Compile level1_PT3
+[2020.02.02-21.26.08:052][609]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2020.02.02-21.26.08:610][640]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2020.02.02-21.26.09:127][640]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/level1_PT3006376C943C91CF4F14E9EAE5E96F8AD.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/level1/level1_PT3.umap'
+[2020.02.02-21.26.09:188][640]LogFileHelpers: Saving map 'level1_PT3' took 0.649
+[2020.02.02-21.26.11:154][775]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-21.26.11:194][775]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.26.11:194][775]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-21.26.11:194][775]PIE: New page: PIE session: level1_PT3 (Feb 2, 2020, 11:26:11 AM)
+[2020.02.02-21.26.11:195][775]LogPlayLevel: Creating play world package: /Game/level1/UEDPIE_0_level1_PT3
+[2020.02.02-21.26.11:211][775]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015921s)
+[2020.02.02-21.26.11:211][775]LogAIModule: Creating AISystem for world level1_PT3
+[2020.02.02-21.26.11:212][775]LogPlayLevel: PIE: World Init took: (0.000666s)
+[2020.02.02-21.26.11:212][775]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1/level1_PT3.level1_PT3 to /Game/level1/UEDPIE_0_level1_PT3.level1_PT3 (0.016764s)
+[2020.02.02-21.26.11:280][775]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2020.02.02-21.26.11:343][775]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4208 (AB 120))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.02-21.26.11:358][775]LogInit: FAudioDevice initialized.
+[2020.02.02-21.26.11:388][775]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.02-21.26.11:392][775]LogWorld: Bringing World /Game/level1/UEDPIE_0_level1_PT3.level1_PT3 up for play (max tick rate 0) at 2020.02.02-16.26.11
+[2020.02.02-21.26.11:393][775]LogWorld: Bringing up level for play took: 0.003940
+[2020.02.02-21.26.11:405][775]LogBlueprintUserMessages: [BP_Robot_2] false
+[2020.02.02-21.26.11:406][775]LogBlueprintUserMessages: [BP_Robot2] false
+[2020.02.02-21.26.11:407][775]PIE: Play in editor start time for /Game/level1/UEDPIE_0_level1_PT3 0.303
+[2020.02.02-21.26.11:407][775]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.26.30:167][339]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.26.30:168][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-21.26.30:252][339]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-21.26.30:252][339]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.26.30:324][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-21.26.30:331][339]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2020.02.02-21.26.30:376][340]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2020.02.02-21.26.31:331][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-21.26.31:423][408]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-21.26.31:461][408]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.26.31:461][408]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-21.26.31:461][408]PIE: New page: PIE session: level1_PT3 (Feb 2, 2020, 11:26:31 AM)
+[2020.02.02-21.26.31:461][408]LogPlayLevel: Creating play world package: /Game/level1/UEDPIE_0_level1_PT3
+[2020.02.02-21.26.31:477][408]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015942s)
+[2020.02.02-21.26.31:478][408]LogAIModule: Creating AISystem for world level1_PT3
+[2020.02.02-21.26.31:478][408]LogPlayLevel: PIE: World Init took: (0.000695s)
+[2020.02.02-21.26.31:478][408]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1/level1_PT3.level1_PT3 to /Game/level1/UEDPIE_0_level1_PT3.level1_PT3 (0.016808s)
+[2020.02.02-21.26.31:540][408]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2020.02.02-21.26.31:605][408]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4208 (AB 120))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.02-21.26.31:621][408]LogInit: FAudioDevice initialized.
+[2020.02.02-21.26.31:647][408]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.02-21.26.31:651][408]LogWorld: Bringing World /Game/level1/UEDPIE_0_level1_PT3.level1_PT3 up for play (max tick rate 0) at 2020.02.02-16.26.31
+[2020.02.02-21.26.31:651][408]LogWorld: Bringing up level for play took: 0.003860
+[2020.02.02-21.26.31:665][408]LogBlueprintUserMessages: [BP_Robot_2] false
+[2020.02.02-21.26.31:665][408]LogBlueprintUserMessages: [BP_Robot2] false
+[2020.02.02-21.26.31:666][408]PIE: Play in editor start time for /Game/level1/UEDPIE_0_level1_PT3 0.563
+[2020.02.02-21.26.31:667][408]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.26.33:500][555]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.26.33:500][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-21.26.33:556][555]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-21.26.33:556][555]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.26.33:629][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-21.26.33:636][555]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.02.02-21.26.33:680][556]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2020.02.02-21.26.34:046][578]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-21.26.48:670][ 64]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-21.26.48:709][ 64]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.26.48:709][ 64]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-21.26.48:710][ 64]PIE: New page: PIE session: level1_PT3 (Feb 2, 2020, 11:26:48 AM)
+[2020.02.02-21.26.48:710][ 64]LogPlayLevel: Creating play world package: /Game/level1/UEDPIE_0_level1_PT3
+[2020.02.02-21.26.48:726][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016236s)
+[2020.02.02-21.26.48:727][ 64]LogAIModule: Creating AISystem for world level1_PT3
+[2020.02.02-21.26.48:727][ 64]LogPlayLevel: PIE: World Init took: (0.000662s)
+[2020.02.02-21.26.48:727][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1/level1_PT3.level1_PT3 to /Game/level1/UEDPIE_0_level1_PT3.level1_PT3 (0.017099s)
+[2020.02.02-21.26.48:795][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2020.02.02-21.26.48:859][ 64]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4208 (AB 120))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.02-21.26.48:874][ 64]LogInit: FAudioDevice initialized.
+[2020.02.02-21.26.48:907][ 64]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.02-21.26.48:910][ 64]LogWorld: Bringing World /Game/level1/UEDPIE_0_level1_PT3.level1_PT3 up for play (max tick rate 0) at 2020.02.02-16.26.48
+[2020.02.02-21.26.48:911][ 64]LogWorld: Bringing up level for play took: 0.003945
+[2020.02.02-21.26.48:923][ 64]LogBlueprintUserMessages: [BP_Robot_2] false
+[2020.02.02-21.26.48:923][ 64]LogBlueprintUserMessages: [BP_Robot2] false
+[2020.02.02-21.26.48:925][ 64]PIE: Play in editor start time for /Game/level1/UEDPIE_0_level1_PT3 -0.179
+[2020.02.02-21.26.48:925][ 64]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.27.09:682][794]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.27.09:683][794]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-21.27.09:764][794]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-21.27.09:764][794]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.27.09:834][794]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-21.27.09:841][794]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.02.02-21.27.09:885][795]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2020.02.02-21.27.10:544][837]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-21.27.10:604][841]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-21.27.10:644][841]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.27.10:644][841]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-21.27.10:644][841]PIE: New page: PIE session: level1_PT3 (Feb 2, 2020, 11:27:10 AM)
+[2020.02.02-21.27.10:645][841]LogPlayLevel: Creating play world package: /Game/level1/UEDPIE_0_level1_PT3
+[2020.02.02-21.27.10:659][841]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014706s)
+[2020.02.02-21.27.10:660][841]LogAIModule: Creating AISystem for world level1_PT3
+[2020.02.02-21.27.10:660][841]LogPlayLevel: PIE: World Init took: (0.000690s)
+[2020.02.02-21.27.10:660][841]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1/level1_PT3.level1_PT3 to /Game/level1/UEDPIE_0_level1_PT3.level1_PT3 (0.015563s)
+[2020.02.02-21.27.10:719][841]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2020.02.02-21.27.10:778][841]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4208 (AB 120))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.02-21.27.10:793][841]LogInit: FAudioDevice initialized.
+[2020.02.02-21.27.10:824][841]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.02-21.27.10:828][841]LogWorld: Bringing World /Game/level1/UEDPIE_0_level1_PT3.level1_PT3 up for play (max tick rate 0) at 2020.02.02-16.27.10
+[2020.02.02-21.27.10:829][841]LogWorld: Bringing up level for play took: 0.003707
+[2020.02.02-21.27.10:841][841]LogBlueprintUserMessages: [BP_Robot_2] false
+[2020.02.02-21.27.10:841][841]LogBlueprintUserMessages: [BP_Robot2] false
+[2020.02.02-21.27.10:843][841]PIE: Play in editor start time for /Game/level1/UEDPIE_0_level1_PT3 -0.262
+[2020.02.02-21.27.10:843][841]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.27.21:056][682]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.27.21:056][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-21.27.21:106][682]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-21.27.21:107][682]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.27.21:195][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-21.27.21:202][682]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2020.02.02-21.27.21:247][683]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2020.02.02-21.27.30:477][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-21.27.30:552][325]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-21.27.30:595][325]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.27.30:595][325]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-21.27.30:595][325]PIE: New page: PIE session: level1_PT3 (Feb 2, 2020, 11:27:30 AM)
+[2020.02.02-21.27.30:595][325]LogPlayLevel: Creating play world package: /Game/level1/UEDPIE_0_level1_PT3
+[2020.02.02-21.27.30:611][325]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015587s)
+[2020.02.02-21.27.30:612][325]LogAIModule: Creating AISystem for world level1_PT3
+[2020.02.02-21.27.30:612][325]LogPlayLevel: PIE: World Init took: (0.000707s)
+[2020.02.02-21.27.30:612][325]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1/level1_PT3.level1_PT3 to /Game/level1/UEDPIE_0_level1_PT3.level1_PT3 (0.016462s)
+[2020.02.02-21.27.30:677][325]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2020.02.02-21.27.30:741][325]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4208 (AB 120))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.02-21.27.30:755][325]LogInit: FAudioDevice initialized.
+[2020.02.02-21.27.30:786][325]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.02-21.27.30:790][325]LogWorld: Bringing World /Game/level1/UEDPIE_0_level1_PT3.level1_PT3 up for play (max tick rate 0) at 2020.02.02-16.27.30
+[2020.02.02-21.27.30:791][325]LogWorld: Bringing up level for play took: 0.003841
+[2020.02.02-21.27.30:803][325]LogBlueprintUserMessages: [BP_Robot_2] false
+[2020.02.02-21.27.30:803][325]LogBlueprintUserMessages: [BP_Robot2] false
+[2020.02.02-21.27.30:804][325]PIE: Play in editor start time for /Game/level1/UEDPIE_0_level1_PT3 -0.299
+[2020.02.02-21.27.30:805][325]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.27.36:406][788]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.27.36:406][788]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-21.27.36:464][788]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-21.27.36:464][788]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.27.36:536][788]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-21.27.36:543][788]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.02.02-21.27.36:587][789]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2020.02.02-21.27.37:368][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-21.27.37:430][844]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-21.27.37:469][844]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.27.37:469][844]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-21.27.37:469][844]PIE: New page: PIE session: level1_PT3 (Feb 2, 2020, 11:27:37 AM)
+[2020.02.02-21.27.37:470][844]LogPlayLevel: Creating play world package: /Game/level1/UEDPIE_0_level1_PT3
+[2020.02.02-21.27.37:485][844]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015888s)
+[2020.02.02-21.27.37:486][844]LogAIModule: Creating AISystem for world level1_PT3
+[2020.02.02-21.27.37:486][844]LogPlayLevel: PIE: World Init took: (0.000658s)
+[2020.02.02-21.27.37:486][844]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1/level1_PT3.level1_PT3 to /Game/level1/UEDPIE_0_level1_PT3.level1_PT3 (0.016707s)
+[2020.02.02-21.27.37:551][844]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2020.02.02-21.27.37:613][844]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4208 (AB 120))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.02-21.27.37:629][844]LogInit: FAudioDevice initialized.
+[2020.02.02-21.27.37:659][844]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.02-21.27.37:663][844]LogWorld: Bringing World /Game/level1/UEDPIE_0_level1_PT3.level1_PT3 up for play (max tick rate 0) at 2020.02.02-16.27.37
+[2020.02.02-21.27.37:663][844]LogWorld: Bringing up level for play took: 0.003932
+[2020.02.02-21.27.37:676][844]LogBlueprintUserMessages: [BP_Robot_2] false
+[2020.02.02-21.27.37:676][844]LogBlueprintUserMessages: [BP_Robot2] false
+[2020.02.02-21.27.37:678][844]PIE: Play in editor start time for /Game/level1/UEDPIE_0_level1_PT3 0.574
+[2020.02.02-21.27.37:678][844]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.27.50:022][860]Set new viewmode: Wireframe
+[2020.02.02-21.27.50:023][860]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.27.50:024][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-21.27.50:075][860]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-21.27.50:076][860]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level1/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/level1/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/level1/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-21.27.50:148][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-21.27.50:155][860]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.02.02-21.27.50:195][861]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2020.02.02-21.27.53:882][108]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.02-21.27.55:070][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
