@@ -1895,3 +1895,135 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.02-03.43.25:231][382]LogPlayLevel: Display: Destroying online subsystem :Context_43
 [2020.02.02-03.43.26:699][506]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2020.02.02-03.43.27:481][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.02.02-03.43.58:281][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.44.11:092][180]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.02.02-03.44.11:169][180]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.02.02-03.44.11:187][180]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/MenuC5F073E14B58778293BC0197F4439165.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Maps/Menu.umap'
+[2020.02.02-03.44.11:191][180]LogFileHelpers: Saving map 'Menu' took 0.080
+[2020.02.02-03.44.12:255][264]LogAssetEditorManager: Opening Asset editor for World /Game/2DSideScrollerBP/Maps/Menu.Menu
+[2020.02.02-03.44.12:311][264]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.02.02-03.44.12:313][264]Cmd: MAP LOAD FILE="../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Maps/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.02-03.44.12:313][264]LightingResults: New page: Lighting Build
+[2020.02.02-03.44.12:315][264]LoadErrors: New page: Loading map: Menu.umap
+[2020.02.02-03.44.12:316][264]MapCheck: New page: Map Check
+[2020.02.02-03.44.12:316][264]LightingResults: New page: Lighting Build
+[2020.02.02-03.44.12:383][264]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2020.02.02-03.44.12:384][264]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.02-03.44.12:384][264]LogAIModule: Creating AISystem for world Menu
+[2020.02.02-03.44.12:441][264]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.02.02-03.44.12:491][264]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.02-03.44.12:492][264]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.091ms to complete.
+[2020.02.02-03.44.12:493][264]LogFileHelpers: Loading map 'Menu' took 0.182
+[2020.02.02-03.44.30:082][728]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/2DSideScrollerBP/Blueprints/Menu.Menu
+[2020.02.02-03.46.10:622][380]BlueprintLog: New page: Compile Menu
+[2020.02.02-03.46.10:926][380]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2020.02.02-03.46.11:543][428]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Menu1A56EC9A453408BBD62CE698815437DF.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Blueprints/Menu.uasset'
+[2020.02.02-03.46.28:172][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2020.02.02-03.46.28:173][ 79]LogMetaData: Removing '/Game/2DSideScrollerBP/Blueprints/PauseWidget.SKEL_PauseWidget_C' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/Menu.PackageMetaData'
+[2020.02.02-03.46.28:173][ 79]LogMetaData: Removing '/Game/2DSideScrollerBP/Blueprints/PauseWidget.PauseWidget_C' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/Menu.PackageMetaData'
+[2020.02.02-03.46.28:173][ 79]LogMetaData: Removing '/Game/2DSideScrollerBP/Blueprints/PauseWidget.PauseWidget:EventGraph.K2Node_Event_0' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/Menu.PackageMetaData'
+[2020.02.02-03.46.28:173][ 79]LogMetaData: Removing '/Game/2DSideScrollerBP/Blueprints/PauseWidget.PauseWidget:EventGraph.K2Node_Event_1' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/Menu.PackageMetaData'
+[2020.02.02-03.46.28:173][ 79]LogMetaData: Removing '/Game/2DSideScrollerBP/Blueprints/PauseWidget.PauseWidget:EventGraph.K2Node_Event_2' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/Menu.PackageMetaData'
+[2020.02.02-03.46.28:214][ 79]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/PauseWidget2A2C93484C445012F5EB8EB33773C321.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Blueprints/PauseWidget.uasset'
+[2020.02.02-03.46.28:447][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2020.02.02-03.46.28:509][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2020.02.02-03.46.28:566][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.02.02-03.46.30:331][237]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2020.02.02-03.47.12:505][943]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/2DSideScrollerBP/Sprites/UI/Controls_full.Controls_full
+[2020.02.02-03.47.20:983][892]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/2DSideScrollerBP/Sprites/UI/Controls_jump.Controls_jump
+[2020.02.02-03.47.51:662][675]LogSlate: Window 'Extract sprites' being destroyed
+[2020.02.02-03.47.56:916][160]LogSlate: Window 'Extract sprites' being destroyed
+[2020.02.02-03.48.06:707][ 95]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/2DSideScrollerBP/Sprites/UI/button_up1.button_up1
+[2020.02.02-03.48.06:846][ 96]LogRenderer: Reallocating scene render targets to support 2040x1148 Format 10 NumSamples 1 (Frame:1).
+[2020.02.02-03.48.13:629][831]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/2DSideScrollerBP/Sprites/UI/button_down1.button_down1
+[2020.02.02-03.48.26:519][ 54]LogEditorViewport: Clicking Background
+[2020.02.02-03.48.27:821][172]Cmd: TRANSACTION UNDO
+[2020.02.02-03.48.27:821][172]LogEditorTransaction: Undo Clicking Background
+[2020.02.02-03.48.30:103][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.48.33:677][658]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.02.02-03.48.35:316][658]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.02-03.48.35:737][658]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/2DSideScrollerBP/Sprites/UI/button_down1_2.button_down1_2
+	Asset Name: /Game/2DSideScrollerBP/Sprites/UI/button_up_Sprite_1.button_up_Sprite_1
+	Asset Name: /Game/2DSideScrollerBP/Sprites/UI/button_up_Sprite_0.button_up_Sprite_0
+[2020.02.02-03.48.37:199][658]LogUObjectHash: Compacting FUObjectHashTables data took   6.58ms
+[2020.02.02-03.48.41:348][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2020.02.02-03.48.42:494][ 22]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.02-03.48.42:500][ 22]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/2DSideScrollerBP/Sprites/UI/button_down_Sprite_0.button_down_Sprite_0
+[2020.02.02-03.48.43:048][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.02.02-03.48.44:650][167]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/2DSideScrollerBP/Sprites/UI/button_down1.button_down1
+[2020.02.02-03.48.46:457][283]LogSlate: Window 'button_down1' being destroyed
+[2020.02.02-03.48.46:477][283]LogSlate: Window 'button_down1' being destroyed
+[2020.02.02-03.48.49:543][542]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.02.02-03.48.50:860][542]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.02-03.48.50:968][542]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.02.02-03.48.54:281][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.02.02-03.48.56:038][820]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.02-03.48.56:142][820]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.02.02-03.48.57:172][908]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/2DSideScrollerBP/Sprites/UI/button_down.button_down
+[2020.02.02-03.48.59:113][ 68]LogSlate: Window 'button_down' being destroyed
+[2020.02.02-03.48.59:129][ 68]LogSlate: Window 'button_down' being destroyed
+[2020.02.02-03.49.06:958][651]LogSlate: Window 'Extract sprites' being destroyed
+[2020.02.02-03.49.08:072][737]LogSlate: Window 'Extract sprites' being destroyed
+[2020.02.02-03.49.16:571][491]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/2DSideScrollerBP/Sprites/UI/button_up1.button_up1
+[2020.02.02-03.50.27:729][946]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/button_up15BBE213241AAF2CAA149FCAF9A21C1ED.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Sprites/UI/button_up1.uasset'
+[2020.02.02-03.51.54:527][665]LogSlate: Window 'button_up1' being destroyed
+[2020.02.02-03.51.54:547][665]LogSlate: Window 'button_up1' being destroyed
+[2020.02.02-03.52.02:765][407]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/2DSideScrollerBP/Sprites/UI/button_up1.button_up1
+[2020.02.02-03.52.18:757][461]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/button_up1E85B48C44EFBADCDE93E5FBD12EF2502.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Sprites/UI/button_up1.uasset'
+[2020.02.02-03.52.20:841][603]LogSlate: Window 'button_up1' being destroyed
+[2020.02.02-03.52.20:859][603]LogSlate: Window 'button_up1' being destroyed
+[2020.02.02-03.52.24:250][907]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/2DSideScrollerBP/Sprites/UI/button_up1.button_up1
+[2020.02.02-03.52.35:229][645]LogRenderer: Reallocating scene render targets to support 2520x1148 Format 10 NumSamples 1 (Frame:743).
+[2020.02.02-03.53.52:296][348]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/button_up1ED2288634F238506384754B5D803B4B6.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Sprites/UI/button_up1.uasset'
+[2020.02.02-03.53.53:910][454]LogSlate: Window 'button_up1' being destroyed
+[2020.02.02-03.53.53:928][454]LogSlate: Window 'button_up1' being destroyed
+[2020.02.02-03.53.59:962][998]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/2DSideScrollerBP/Sprites/UI/button_down.button_down
+[2020.02.02-03.54.09:949][805]LogSlate: Window 'button_down' being destroyed
+[2020.02.02-03.54.09:964][805]LogSlate: Window 'button_down' being destroyed
+[2020.02.02-03.54.29:625][992]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/2DSideScrollerBP/Sprites/UI/Controls_jump.Controls_jump
+[2020.02.02-03.54.42:650][481]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/2DSideScrollerBP/Sprites/UI/Controls_kill_revive.Controls_kill_revive
+[2020.02.02-03.54.45:617][728]LogSlate: Window 'Controls_kill_revive' being destroyed
+[2020.02.02-03.54.45:632][728]LogSlate: Window 'Controls_kill_revive' being destroyed
+[2020.02.02-03.54.46:721][825]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/2DSideScrollerBP/Sprites/UI/Controls_push.Controls_push
+[2020.02.02-03.54.53:741][430]LogSlate: Window 'Controls_push' being destroyed
+[2020.02.02-03.54.53:756][430]LogSlate: Window 'Controls_push' being destroyed
+[2020.02.02-03.55.20:019][338]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2020.02.02-03.55.20:019][338]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/Menu' took 0.050
+[2020.02.02-03.55.20:021][338]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/Sprites/UI/button_down_Sprite_0] ([1] browsable assets)...
+[2020.02.02-03.55.20:032][338]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScrollerBP/Sprites/UI/button_down_Sprite_0.button_down_Sprite_0]
+[2020.02.02-03.55.20:032][338]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Sprites/UI/button_down_Sprite_0]
+[2020.02.02-03.55.20:045][338]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/button_down_Sprite_0_Auto5EBFC1DBD42ABB2E1C00B3DAAF52FFE17.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Autosaves/Game/2DSideScrollerBP/Sprites/UI/button_down_Sprite_0_Auto5.uasset'
+[2020.02.02-03.55.20:046][338]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/Sprites/UI/button_up_Sprite_0] ([1] browsable assets)...
+[2020.02.02-03.55.20:056][338]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScrollerBP/Sprites/UI/button_up_Sprite_0.button_up_Sprite_0]
+[2020.02.02-03.55.20:056][338]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Sprites/UI/button_up_Sprite_0]
+[2020.02.02-03.55.20:068][338]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/button_up_Sprite_0_Auto50EB74D3D4F1F41EA950AFD86890A2550.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Autosaves/Game/2DSideScrollerBP/Sprites/UI/button_up_Sprite_0_Auto5.uasset'
+[2020.02.02-03.55.20:069][338]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/Sprites/UI/button_down1] ([1] browsable assets)...
+[2020.02.02-03.55.20:079][338]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/2DSideScrollerBP/Sprites/UI/button_down1.button_down1]
+[2020.02.02-03.55.20:079][338]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Sprites/UI/button_down1]
+[2020.02.02-03.55.20:089][338]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/button_down1_Auto57DCFF7D34FB61C61FDA54E8D77F8072B.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Autosaves/Game/2DSideScrollerBP/Sprites/UI/button_down1_Auto5.uasset'
+[2020.02.02-03.55.20:090][338]LogFileHelpers: Auto-saving content packages took 0.070
+[2020.02.02-03.56.33:109][332]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/Key.Key
+[2020.02.02-03.56.45:646][647]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/Battery.Battery
+[2020.02.02-03.57.02:125][938]LogAIModule: Creating AISystem for world level1_PT1
+[2020.02.02-03.57.02:170][938]LogAssetEditorManager: Opening Asset editor for World /Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1
+[2020.02.02-03.57.02:224][938]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2020.02.02-03.57.03:922][938]LogSlate: Window 'Save Content' being destroyed
+[2020.02.02-03.57.03:941][938]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/button_down10DC7D7914684F5E70ECA6C8F5ACB35DB.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Sprites/UI/button_down1.uasset'
+[2020.02.02-03.57.03:959][938]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/button_down_Sprite_0C2F14B9244DCBF5B715ECCA348FBC963.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Sprites/UI/button_down_Sprite_0.uasset'
+[2020.02.02-03.57.03:975][938]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/button_up_Sprite_060C1CEC5467ED4EDC4EF09BF56DC901E.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Sprites/UI/button_up_Sprite_0.uasset'
+[2020.02.02-03.57.03:979][938]Cmd: MAP LOAD FILE="../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Maps/level1_PT1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.02-03.57.03:979][938]LightingResults: New page: Lighting Build
+[2020.02.02-03.57.03:980][938]LoadErrors: New page: Loading map: level1_PT1.umap
+[2020.02.02-03.57.03:981][938]MapCheck: New page: Map Check
+[2020.02.02-03.57.03:981][938]LightingResults: New page: Lighting Build
+[2020.02.02-03.57.04:042][938]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2020.02.02-03.57.04:047][938]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.02-03.57.04:104][938]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.02.02-03.57.04:155][938]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.02-03.57.04:157][938]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.562ms to complete.
+[2020.02.02-03.57.04:157][938]LogFileHelpers: Loading map 'level1_PT1' took 0.180
+[2020.02.02-03.57.05:076][993]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2020.02.02-03.57.06:499][ 73]LogEditorViewport: Clicking on Actor (LMB): Key_C (Key2)
+[2020.02.02-03.57.08:148][166]LogSlate: FSceneViewport::OnFocusLost() reason 0
