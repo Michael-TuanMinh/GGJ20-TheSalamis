@@ -1,0 +1,1237 @@
+﻿Log file open, 02/01/20 20:19:30
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SalamisGamejam
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 71 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.817982
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithDataPrepEditor
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithGLTFImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU:       Intel(R) Xeon(R) CPU E5-2697 v2 @ 2.70GHz, GPU: AMD FirePro D700 (FireGL V)
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.02-01.19.30:671][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.02-01.19.30:671][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.02-01.19.30:671][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Config/Windows/Engine.ini]
+[2020.02.02-01.19.30:671][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.02-01.19.30:671][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2020.02.02-01.19.30:671][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2020.02.02-01.19.30:671][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2020.02.02-01.19.30:671][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2020.02.02-01.19.30:671][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2020.02.02-01.19.30:671][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2020.02.02-01.19.30:671][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2020.02.02-01.19.30:671][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2020.02.02-01.19.30:671][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2020.02.02-01.19.30:671][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.02.02-01.19.30:671][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2020.02.02-01.19.30:671][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2020.02.02-01.19.30:671][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2020.02.02-01.19.30:671][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2020.02.02-01.19.30:671][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.02.02-01.19.30:671][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2020.02.02-01.19.30:671][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.DOF.Algorithm:1]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:1]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.UsePreExposure:0]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:1]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:2]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2020.02.02-01.19.30:672][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2020.02.02-01.19.30:673][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2020.02.02-01.19.30:673][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2020.02.02-01.19.30:673][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2020.02.02-01.19.30:673][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2020.02.02-01.19.30:673][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2020.02.02-01.19.30:673][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2020.02.02-01.19.30:673][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2020.02.02-01.19.30:673][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2020.02.02-01.19.30:673][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2020.02.02-01.19.30:673][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2020.02.02-01.19.30:673][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2020.02.02-01.19.30:673][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2020.02.02-01.19.30:673][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2020.02.02-01.19.30:673][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2020.02.02-01.19.30:673][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Config/Windows/Engine.ini]
+[2020.02.02-01.19.30:673][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Config/Windows/Engine.ini]
+[2020.02.02-01.19.30:673][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.02-01.19.30:673][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.02-01.19.30:673][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.02-01.19.30:673][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.02-01.19.30:673][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.02-01.19.30:673][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.02-01.19.30:673][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.02-01.19.30:673][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.02-01.19.30:673][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.02-01.19.30:673][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.02-01.19.30:673][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.02-01.19.30:673][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.02-01.19.30:673][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.02-01.19.30:673][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Config/Windows/Engine.ini]
+[2020.02.02-01.19.30:673][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.02-01.19.30:673][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.02-01.19.30:673][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.02-01.19.30:673][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.02-01.19.30:673][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.02-01.19.30:673][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.02-01.19.30:673][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.02.02-01.19.30:673][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.02-01.19.30:673][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.02-01.19.30:673][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.02-01.19.30:673][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.02-01.19.30:673][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.02-01.19.30:673][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.02-01.19.30:673][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Config/Windows/Engine.ini]
+[2020.02.02-01.19.30:673][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Config/Windows/Engine.ini]
+[2020.02.02-01.19.30:691][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-01.19.30:691][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.02-01.19.30:691][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.02-01.19.30:691][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-01.19.30:691][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.02-01.19.30:691][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-01.19.30:691][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.02-01.19.30:691][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.02-01.19.30:691][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.02-01.19.30:691][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.02-01.19.30:691][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.02-01.19.30:691][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.02-01.19.30:691][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.02-01.19.30:691][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.02-01.19.30:691][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.02-01.19.30:691][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.02-01.19.30:691][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.02-01.19.30:691][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.02-01.19.30:691][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.02-01.19.30:691][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.02-01.19.30:691][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.02-01.19.30:691][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.02-01.19.30:691][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.02-01.19.30:691][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.02-01.19.30:691][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-01.19.30:691][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.02-01.19.30:691][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.02-01.19.30:691][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.02-01.19.30:691][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.02-01.19.30:691][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.02-01.19.30:691][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.02-01.19.30:691][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.02-01.19.30:691][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.02-01.19.30:691][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.02-01.19.30:691][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.02-01.19.30:691][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.02-01.19.30:691][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.02-01.19.30:691][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.02-01.19.30:691][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.02-01.19.30:691][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.02-01.19.30:691][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.02-01.19.30:691][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.02-01.19.30:691][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.02-01.19.30:691][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.02-01.19.30:692][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.02-01.19.30:692][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.02-01.19.30:692][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.02-01.19.30:692][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.02-01.19.30:692][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.02-01.19.30:692][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.02-01.19.30:692][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.02-01.19.30:692][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.02-01.19.30:692][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.02-01.19.30:692][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.02-01.19.30:692][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.02-01.19.30:692][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-01.19.30:692][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.02-01.19.30:692][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.02-01.19.30:692][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.02-01.19.30:692][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.02-01.19.30:692][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.02-01.19.30:692][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.02-01.19.30:692][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.02-01.19.30:692][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.02-01.19.30:692][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-01.19.30:692][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.02-01.19.30:692][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.02-01.19.30:692][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.02-01.19.30:692][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.02-01.19.30:692][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.02-01.19.30:692][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.02-01.19.30:692][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.02-01.19.30:692][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.02-01.19.30:692][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.02-01.19.30:692][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.02-01.19.30:692][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.02-01.19.30:692][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.02-01.19.30:692][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.02-01.19.30:692][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-01.19.30:692][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.02-01.19.30:692][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.02-01.19.30:692][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.02-01.19.30:692][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.02-01.19.30:711][  0]LogHAL: Display: Platform has ~ 64 GB [68689129472 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.02-01.19.30:711][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.02.02-01.19.30:712][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.02-01.19.30:712][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.02-01.19.30:712][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.02-01.19.30:713][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.02-01.19.30:713][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.02-01.19.30:713][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.02-01.19.30:713][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.02-01.19.30:713][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-01.19.30:713][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.02-01.19.30:713][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.02-01.19.30:713][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.02-01.19.30:713][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.02-01.19.30:713][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.02-01.19.30:713][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.02-01.19.30:713][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.02-01.19.30:713][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.02-01.19.30:713][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-01.19.30:713][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.02-01.19.30:713][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.02-01.19.30:713][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.02-01.19.30:713][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.02-01.19.30:713][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.02-01.19.30:713][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.02-01.19.30:713][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.02-01.19.30:713][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.02-01.19.30:713][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.02-01.19.30:713][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.02-01.19.30:713][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.02-01.19.30:713][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.02-01.19.30:713][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.02-01.19.30:713][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-01.19.30:713][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.02-01.19.30:713][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.02-01.19.30:713][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.02-01.19.30:713][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.02-01.19.30:713][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.02-01.19.30:713][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Config/Windows/Engine.ini]
+[2020.02.02-01.19.30:713][  0]LogInit: Computer: WFD229-19W
+[2020.02.02-01.19.30:713][  0]LogInit: User: Graphic
+[2020.02.02-01.19.30:714][  0]LogInit: CPU Page size=4096, Cores=12
+[2020.02.02-01.19.30:714][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.02-01.19.30:714][  0]LogMemory: Memory total: Physical=64.0GB (64GB approx)
+[2020.02.02-01.19.30:714][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.02-01.19.30:714][  0]LogMemory: Process Physical Memory: 101.92 MB used, 101.93 MB peak
+[2020.02.02-01.19.30:714][  0]LogMemory: Process Virtual Memory: 99.65 MB used, 99.65 MB peak
+[2020.02.02-01.19.30:714][  0]LogMemory: Physical Memory: 6583.24 MB used,  58923.82 MB free, 65507.06 MB total
+[2020.02.02-01.19.30:714][  0]LogMemory: Virtual Memory: 4733.80 MB used,  134212992.00 MB free, 134217728.00 MB total
+[2020.02.02-01.19.30:737][  0]LogInit: Using OS detected language (en-US).
+[2020.02.02-01.19.30:737][  0]LogInit: Using OS detected locale (en-US).
+[2020.02.02-01.19.30:738][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.02.02-01.19.30:925][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.02-01.19.30:967][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.02-01.19.30:967][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.02-01.19.31:210][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.02-01.19.31:210][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.02-01.19.33:742][  0]LogD3D11RHI:    0. 'AMD FirePro D700 (FireGL V)' (Feature Level 11_0)
+[2020.02.02-01.19.33:742][  0]LogD3D11RHI:       6123/0/32753 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2020.02.02-01.19.33:747][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.02-01.19.33:747][  0]LogD3D11RHI:       0/0/32753 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.02-01.19.33:747][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.02-01.19.33:759][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.02-01.19.33:759][  0]LogD3D11RHI:     GPU DeviceId: 0x6798 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.02-01.19.33:759][  0]LogWindows: EnumDisplayDevices:
+[2020.02.02-01.19.33:759][  0]LogWindows:    0. 'AMD FirePro D700 (FireGL V)' (P:1 D:1)
+[2020.02.02-01.19.33:760][  0]LogWindows:    1. 'AMD FirePro D700 (FireGL V)' (P:0 D:1)
+[2020.02.02-01.19.33:762][  0]LogWindows:    2. 'AMD FirePro D700 (FireGL V)' (P:0 D:0)
+[2020.02.02-01.19.33:763][  0]LogWindows:    3. 'AMD FirePro D700 (FireGL V)' (P:0 D:0)
+[2020.02.02-01.19.33:764][  0]LogWindows:    4. 'AMD FirePro D700 (FireGL V)' (P:0 D:0)
+[2020.02.02-01.19.33:765][  0]LogWindows:    5. 'AMD FirePro D700 (FireGL V)' (P:0 D:0)
+[2020.02.02-01.19.33:766][  0]LogWindows:    6. 'AMD FirePro D700 (FireGL V)' (P:0 D:0)
+[2020.02.02-01.19.33:767][  0]LogWindows:    7. 'AMD FirePro D700 (FireGL V)' (P:0 D:0)
+[2020.02.02-01.19.33:768][  0]LogWindows:    8. 'AMD FirePro D700 (FireGL V)' (P:0 D:0)
+[2020.02.02-01.19.33:769][  0]LogWindows:    9. 'AMD FirePro D700 (FireGL V)' (P:0 D:0)
+[2020.02.02-01.19.33:770][  0]LogWindows:    10. 'AMD FirePro D700 (FireGL V)' (P:0 D:0)
+[2020.02.02-01.19.33:770][  0]LogWindows:    11. 'AMD FirePro D700 (FireGL V)' (P:0 D:0)
+[2020.02.02-01.19.33:771][  0]LogWindows: DebugString: FoundDriverCount:12 
+[2020.02.02-01.19.33:771][  0]LogD3D11RHI:     Adapter Name: AMD FirePro D700 (FireGL V)
+[2020.02.02-01.19.33:771][  0]LogD3D11RHI:   Driver Version: Adrenalin 18.40.20.10 (internal:25.20.14020.10001, unified:25.20.14020.10001)
+[2020.02.02-01.19.33:771][  0]LogD3D11RHI:      Driver Date: 3-15-2019
+[2020.02.02-01.19.33:771][  0]LogRHI: Texture pool is 4286 MB (70% of 6123 MB)
+[2020.02.02-01.19.33:890][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.02-01.19.33:898][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.02-01.19.33:898][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.02-01.19.33:898][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.02-01.19.33:905][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2020.02.02-01.19.34:272][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.02.02-01.19.34:293][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.02.02-01.19.34:314][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.02.02-01.19.34:335][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.02.02-01.19.34:356][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.02.02-01.19.34:378][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.02.02-01.19.34:399][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.02-01.19.34:420][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.02.02-01.19.34:429][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.02.02-01.19.34:549][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.02.02-01.19.34:549][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.02.02-01.19.34:549][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.02.02-01.19.34:549][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.02.02-01.19.34:549][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.02.02-01.19.34:549][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.02.02-01.19.34:549][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.02.02-01.19.34:549][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.02.02-01.19.34:549][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.02.02-01.19.34:549][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.02-01.19.34:549][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.02.02-01.19.34:549][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.02.02-01.19.34:549][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.02-01.19.34:549][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.02-01.19.34:549][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.02-01.19.34:549][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.02-01.19.34:549][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.02.02-01.19.34:549][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.02.02-01.19.34:551][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.02.02-01.19.34:608][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.02.02-01.19.34:608][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.02.02-01.19.34:641][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.02.02-01.19.34:641][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.02.02-01.19.34:658][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.02.02-01.19.34:675][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.02-01.19.34:691][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.02.02-01.19.34:709][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.02.02-01.19.34:768][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.02.02-01.19.34:768][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.02.02-01.19.34:768][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.02-01.19.34:778][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.02-01.19.34:834][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Intermediate/Shaders/WorkingDirectory/13480/).
+[2020.02.02-01.19.34:834][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Graphic.SJH519-000W/AppData/Local/Temp/UnrealShaderWorkingDir/AAA890774460605CEED144883E0A97B3/'.
+[2020.02.02-01.19.34:836][  0]LogXGEController: Cleaning working directory: C:/Users/Graphic.SJH519-000W/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.02.02-01.19.34:836][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.02-01.19.34:836][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.02-01.19.34:836][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.02-01.19.35:546][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.02-01.19.35:605][  0]LogDerivedDataCache: Loaded boot cache 0.06s 72MB C:/Users/Graphic.SJH519-000W/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.02-01.19.35:605][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Graphic.SJH519-000W/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.02.02-01.19.35:605][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.02-01.19.35:605][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.02-01.19.35:605][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.02-01.19.35:605][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.02-01.19.35:619][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.02-01.19.35:623][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2020.02.02-01.19.35:635][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Graphic.SJH519-000W/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.02-01.19.35:635][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.02-01.19.35:635][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.02-01.19.35:665][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.02-01.19.35:666][  0]LogSlate: Using FreeType 2.6.0
+[2020.02.02-01.19.35:667][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.02-01.19.35:766][  0]LogAssetRegistry: FAssetRegistry took 0.0382 seconds to start up
+[2020.02.02-01.19.36:225][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.02-01.19.36:405][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.02-01.19.36:405][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.02-01.19.36:405][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.02-01.19.36:405][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.02-01.19.36:405][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.02-01.19.36:417][  0]LogNetVersion: SalamisGamejam 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1410852220)
+[2020.02.02-01.19.36:986][  0]LogPackageLocalizationCache: Processed 16 localized package path(s) for 1 prioritized culture(s) in 0.059578 seconds
+[2020.02.02-01.19.36:991][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.02.02-01.19.36:991][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.02.02-01.19.36:991][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.02-01.19.37:987][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.02-01.19.38:000][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.02-01.19.38:130][  0]SourceControl: Source control is disabled
+[2020.02.02-01.19.38:130][  0]SourceControl: Source control is disabled
+[2020.02.02-01.19.38:132][  0]SourceControl: Source control is disabled
+[2020.02.02-01.19.38:133][  0]SourceControl: Source control is disabled
+[2020.02.02-01.19.38:249][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.02-01.19.38:364][  0]LogOcInput: OculusInput pre-init called
+[2020.02.02-01.19.40:944][  0]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
+[2020.02.02-01.19.40:944][  0]LogWindows: File 'libalias_api.dll' does not exist
+[2020.02.02-01.19.40:945][  0]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
+[2020.02.02-01.19.40:945][  0]LogWindows: File 'libalias_api.dll' does not exist
+[2020.02.02-01.19.41:115][  0]LogEngine: Initializing Engine...
+[2020.02.02-01.19.41:116][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.02-01.19.41:118][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.02.02-01.19.41:421][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.02-01.19.41:435][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.02-01.19.41:483][  0]LogInit: XAudio2 using '2 - DELL U2717D (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.02-01.19.41:521][  0]LogInit: FAudioDevice initialized.
+[2020.02.02-01.19.41:521][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.02-01.19.41:595][  0]LogDerivedDataCache: Saved boot cache 0.07s 72MB C:/Users/Graphic.SJH519-000W/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.02-01.19.41:607][  0]LogInit: Texture streaming: Enabled
+[2020.02.02-01.19.41:626][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.02-01.19.41:648][  0]LogInit: Transaction tracking system initialized
+[2020.02.02-01.19.41:675][  0]BlueprintLog: New page: Editor Load
+[2020.02.02-01.19.41:760][  0]LocalizationService: Localization service is disabled
+[2020.02.02-01.19.42:117][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/' took 0.01s
+[2020.02.02-01.19.42:117][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.02-01.19.42:117][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.02-01.19.43:800][  0]SourceControl: Source control is disabled
+[2020.02.02-01.19.43:800][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Maps/level1_PT1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.02-01.19.43:801][  0]LightingResults: New page: Lighting Build
+[2020.02.02-01.19.43:803][  0]MapCheck: New page: Map Check
+[2020.02.02-01.19.43:803][  0]LightingResults: New page: Lighting Build
+[2020.02.02-01.19.43:852][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.02.02-01.19.44:005][  0]LogBlueprint: Error: [Compiler BP_Robot] The current value of the ' Player Stats Saved Robots ' pin is invalid: Array inputs (like 'Saved Robots') must have an input wired into them (try connecting a MakeArray node).
+[2020.02.02-01.19.44:005][  0]LogBlueprint: Error: [Compiler BP_Robot] The current value of the ' Player Stats Saved Robots ' pin is invalid: Array inputs (like 'Saved Robots') must have an input wired into them (try connecting a MakeArray node).
+[2020.02.02-01.19.44:025][  0]LogBlueprint: Warning: [Compiler BP_Robot] [0016.41] Compile of BP_Robot failed. 2 Fatal Issue(s) 0 Warning(s) [in 65 ms] (/Game/2DSideScrollerBP/Blueprints/BP_Robot.BP_Robot)
+[2020.02.02-01.19.44:155][  0]LogAIModule: Creating AISystem for world level1_PT1
+[2020.02.02-01.19.44:163][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.02-01.19.44:214][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.02.02-01.19.44:214][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.02-01.19.44:214][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.152ms to complete.
+[2020.02.02-01.19.44:214][  0]LogFileHelpers: Loading map 'level1_PT1' took 0.414
+[2020.02.02-01.19.44:349][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-01.19.44:369][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-01.19.44:379][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-01.19.44:389][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-01.19.44:396][  0]LogCollectionManager: Loaded 0 collections in 0.002037 seconds
+[2020.02.02-01.19.44:412][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Collections/' took 0.01s
+[2020.02.02-01.19.44:412][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/Developers/Graphic/Collections/' took 0.00s
+[2020.02.02-01.19.44:412][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/Collections/' took 0.00s
+[2020.02.02-01.19.44:412][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.02.02-01.19.44:424][  0]LogContentBrowser: Native class hierarchy populated in 0.0116 seconds. Added 2864 classes and 726 folders.
+[2020.02.02-01.19.44:431][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.02-01.19.44:433][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.02-01.19.44:434][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.02-01.19.44:434][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.02-01.19.44:435][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.02-01.19.44:435][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.02-01.19.44:436][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.02-01.19.44:437][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.02-01.19.44:437][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.02-01.19.44:438][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.02-01.19.44:438][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.02-01.19.44:439][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.02-01.19.44:440][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.02-01.19.44:440][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.02-01.19.44:441][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.02-01.19.44:442][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.02-01.19.44:442][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.02-01.19.44:443][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.02-01.19.44:443][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.02-01.19.44:444][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.02-01.19.44:444][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.02-01.19.44:445][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.02-01.19.44:446][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.02-01.19.44:446][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.02-01.19.44:447][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.02-01.19.44:447][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.02-01.19.44:448][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.02-01.19.44:449][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.02-01.19.44:449][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.02-01.19.44:494][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.02-01.19.44:497][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2020.02.02-01.19.44:513][  0]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.02-01.19.44:516][  0]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.02-01.19.44:522][  0]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.02-01.19.44:604][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:1).
+[2020.02.02-01.19.44:741][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.02-01.19.44:755][  0]LogSlate: Window 'Tutorials' being destroyed
+[2020.02.02-01.19.44:788][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.02-01.19.44:788][  0]LogLoad: (Engine Initialization) Total time: 17.18 seconds
+[2020.02.02-01.19.44:788][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.02-01.19.44:831][  0]LogAssetRegistry: Asset discovery search completed in 9.0866 seconds
+[2020.02.02-01.19.44:834][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.02.02-01.19.44:834][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000040 seconds (updated 0 objects)
+[2020.02.02-01.19.44:835][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.02-01.19.45:830][106]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.02-01.19.50:134][522]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-01.19.50:279][539]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-01.19.50:303][539]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1'
+[2020.02.02-01.19.50:303][539]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-01.19.56:015][539]LogSlate: Window 'Message' being destroyed
+[2020.02.02-01.19.56:020][539]PIE: New page: PIE session: level1_PT1 (Feb 1, 2020, 3:19:56 PM)
+[2020.02.02-01.19.56:033][539]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT1
+[2020.02.02-01.19.56:038][539]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005309s)
+[2020.02.02-01.19.56:039][539]LogAIModule: Creating AISystem for world level1_PT1
+[2020.02.02-01.19.56:039][539]LogPlayLevel: PIE: World Init took: (0.000775s)
+[2020.02.02-01.19.56:039][539]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT1.level1_PT1 (0.006387s)
+[2020.02.02-01.19.56:097][539]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.02.02-01.19.56:151][539]LogInit: XAudio2 using '2 - DELL U2717D (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.02-01.19.56:168][539]LogInit: FAudioDevice initialized.
+[2020.02.02-01.19.56:211][539]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.02-01.19.56:215][539]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT1.level1_PT1 up for play (max tick rate 0) at 2020.02.01-20.19.56
+[2020.02.02-01.19.56:215][539]LogWorld: Bringing up level for play took: 0.002406
+[2020.02.02-01.19.56:235][539]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2020.02.02-01.19.56:236][539]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT1 6.326
+[2020.02.02-01.19.56:236][539]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1'
+[2020.02.02-01.20.07:840][925]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1'
+[2020.02.02-01.20.07:841][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-01.20.07:869][925]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-01.20.07:870][925]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1'
+[2020.02.02-01.20.07:917][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-01.20.07:921][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.02.02-01.20.07:950][926]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.02.02-01.20.10:375][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-01.20.16:599][717]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2D_Roboi.2D_Roboi
+[2020.02.02-01.20.16:964][717]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2020.02.02-01.20.18:305][717]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.02-01.20.18:429][718]LogSlate: Took 0.000258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.02-01.20.50:153][105]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/Key.Key
+[2020.02.02-01.20.57:101][862]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Key1231C8B444111D203D66C0830043AF1D.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Blueprints/Key.uasset'
+[2020.02.02-01.20.57:984][965]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-01.20.58:009][965]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1'
+[2020.02.02-01.20.58:009][965]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-01.20.58:009][965]PIE: New page: PIE session: level1_PT1 (Feb 1, 2020, 3:20:58 PM)
+[2020.02.02-01.20.58:009][965]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT1
+[2020.02.02-01.20.58:014][965]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004572s)
+[2020.02.02-01.20.58:014][965]LogAIModule: Creating AISystem for world level1_PT1
+[2020.02.02-01.20.58:014][965]LogPlayLevel: PIE: World Init took: (0.000663s)
+[2020.02.02-01.20.58:014][965]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT1.level1_PT1 (0.005378s)
+[2020.02.02-01.20.58:068][965]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2020.02.02-01.20.58:122][965]LogInit: XAudio2 using '2 - DELL U2717D (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.02-01.20.58:139][965]LogInit: FAudioDevice initialized.
+[2020.02.02-01.20.58:146][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-01.20.58:175][965]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.02-01.20.58:177][965]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT1.level1_PT1 up for play (max tick rate 0) at 2020.02.01-20.20.58
+[2020.02.02-01.20.58:178][965]LogWorld: Bringing up level for play took: 0.002053
+[2020.02.02-01.20.58:193][965]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT1 0.282
+[2020.02.02-01.20.58:193][965]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1'
+[2020.02.02-01.21.03:353][582]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1'
+[2020.02.02-01.21.03:354][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-01.21.03:378][582]LogSlate: Window 'SalamisGamejam Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.02-01.21.03:419][582]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-01.21.03:419][582]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1'
+[2020.02.02-01.21.03:479][582]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.02.02-01.21.03:529][583]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.02.02-01.21.07:646][975]LogAIModule: Creating AISystem for world level1_PT2
+[2020.02.02-01.21.07:655][975]LogAssetEditorManager: Opening Asset editor for World /Game/2DSideScrollerBP/Maps/level1_PT2.level1_PT2
+[2020.02.02-01.21.07:710][975]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2020.02.02-01.21.07:711][975]Cmd: MAP LOAD FILE="../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Maps/level1_PT2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.02-01.21.07:711][975]LightingResults: New page: Lighting Build
+[2020.02.02-01.21.07:712][975]LoadErrors: New page: Loading map: level1_PT2.umap
+[2020.02.02-01.21.07:713][975]MapCheck: New page: Map Check
+[2020.02.02-01.21.07:713][975]LightingResults: New page: Lighting Build
+[2020.02.02-01.21.07:766][975]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2020.02.02-01.21.07:775][975]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.02-01.21.07:826][975]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.02.02-01.21.07:872][975]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.02-01.21.07:874][975]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.725ms to complete.
+[2020.02.02-01.21.07:874][975]LogFileHelpers: Loading map 'level1_PT2' took 0.164
+[2020.02.02-01.21.09:071][ 77]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-01.21.09:108][ 77]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT2.level1_PT2:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT2.level1_PT2:PersistentLevel.level1_PT2' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT2.level1_PT2_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT2.level1_PT2:PersistentLevel.level1_PT2'
+[2020.02.02-01.21.09:108][ 77]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-01.21.09:108][ 77]PIE: New page: PIE session: level1_PT2 (Feb 1, 2020, 3:21:09 PM)
+[2020.02.02-01.21.09:109][ 77]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT2
+[2020.02.02-01.21.09:115][ 77]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005586s)
+[2020.02.02-01.21.09:115][ 77]LogAIModule: Creating AISystem for world level1_PT2
+[2020.02.02-01.21.09:115][ 77]LogPlayLevel: PIE: World Init took: (0.000705s)
+[2020.02.02-01.21.09:116][ 77]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/level1_PT2.level1_PT2 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT2.level1_PT2 (0.006635s)
+[2020.02.02-01.21.09:168][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.02.02-01.21.09:217][ 77]LogInit: XAudio2 using '2 - DELL U2717D (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.02-01.21.09:233][ 77]LogInit: FAudioDevice initialized.
+[2020.02.02-01.21.09:260][ 77]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.02-01.21.09:263][ 77]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT2.level1_PT2 up for play (max tick rate 0) at 2020.02.01-20.21.09
+[2020.02.02-01.21.09:264][ 77]LogWorld: Bringing up level for play took: 0.003379
+[2020.02.02-01.21.09:277][ 77]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT2 -0.634
+[2020.02.02-01.21.09:277][ 77]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT2.level1_PT2:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT2.level1_PT2:PersistentLevel.level1_PT2' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT2.level1_PT2_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT2.level1_PT2:PersistentLevel.level1_PT2'
+[2020.02.02-01.21.16:106][893]LogScript: Warning: Accessed None trying to read property Mesh
+	platfrom_C /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT2.level1_PT2:PersistentLevel.platfrom5
+	Function /Game/2DSideScrollerBP/Blueprints/platfrom.platfrom_C:ExecuteUbergraph_platfrom:0166
+[2020.02.02-01.21.16:106][893]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Mesh". Blueprint:  platfrom Function:  Execute Ubergraph Platfrom Graph:  EventGraph Node:  Branch
+[2020.02.02-01.21.17:340][ 41]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT2.level1_PT2:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT2.level1_PT2:PersistentLevel.level1_PT2' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT2.level1_PT2_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT2.level1_PT2:PersistentLevel.level1_PT2'
+[2020.02.02-01.21.17:341][ 41]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-01.21.17:378][ 41]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-01.21.17:378][ 41]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT2.level1_PT2:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT2.level1_PT2:PersistentLevel.level1_PT2' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT2.level1_PT2_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT2.level1_PT2:PersistentLevel.level1_PT2'
+[2020.02.02-01.21.17:430][ 41]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-01.21.17:435][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.02.02-01.21.17:443][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.02-01.21.17:486][ 42]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.02.02-01.21.22:371][455]LogSlate: Window 'Message Log' being destroyed
+[2020.02.02-01.21.22:387][455]LogSlate: Window 'Message Log' being destroyed
+[2020.02.02-01.21.27:138][878]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-01.22.21:248][776]LogSlate: Window '2D_Roboi' being destroyed
+[2020.02.02-01.22.22:432][865]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2D_Roboi_Backup.2D_Roboi_Backup
+[2020.02.02-01.22.38:637][932]LogEditorTransaction: Undo Delete current selection
+[2020.02.02-01.23.17:727][745]BlueprintLog: New page: Compile 2D_Roboi
+[2020.02.02-01.23.17:748][745]LogBlueprint: Error: [Compiler 2D_Roboi] In use pin  <Unnamed>  no longer exists on node  Adjust Max Energy . Please refresh node or break links to remove pin.
+[2020.02.02-01.23.17:748][745]LogBlueprint: Warning: [Compiler 2D_Roboi] Input pin  Adjust By  specifying non-default value no longer exists on node  Adjust Max Energy . Please refresh node or reset pin to default value to remove pin.
+[2020.02.02-01.23.17:749][745]LogBlueprint: Error: [Compiler 2D_Roboi] Could not find a function named "AdjustMaxEnergy" in '2D_Roboi_C'.
+Make sure '2D_Roboi_C' has been compiled for  Adjust Max Energy
+[2020.02.02-01.23.17:749][745]LogBlueprint: Error: [Compiler 2D_Roboi] In use pin  <Unnamed>  no longer exists on node  Adjust Max Energy . Please refresh node or break links to remove pin.
+[2020.02.02-01.23.17:749][745]LogBlueprint: Warning: [Compiler 2D_Roboi] Input pin  Adjust By  specifying non-default value no longer exists on node  Adjust Max Energy . Please refresh node or reset pin to default value to remove pin.
+[2020.02.02-01.23.17:749][745]LogBlueprint: Error: [Compiler 2D_Roboi] Could not find a function named "AdjustMaxEnergy" in '2D_Roboi_C'.
+Make sure '2D_Roboi_C' has been compiled for  Adjust Max Energy
+[2020.02.02-01.23.18:052][745]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2020.02.02-01.23.18:111][745]LogBlueprint: Warning: [Compiler 2D_Roboi] [0230.50] Compile of 2D_Roboi failed. 4 Fatal Issue(s) 2 Warning(s) [in 383 ms] (/Game/2DSideScrollerBP/Blueprints/2D_Roboi.2D_Roboi)
+[2020.02.02-01.23.44:211][364]BlueprintLog: New page: Compile 2D_Roboi
+[2020.02.02-01.23.44:228][364]LogBlueprint: Error: [Compiler 2D_Roboi] In use pin  <Unnamed>  no longer exists on node  Adjust Max Energy . Please refresh node or break links to remove pin.
+[2020.02.02-01.23.44:228][364]LogBlueprint: Warning: [Compiler 2D_Roboi] Input pin  Adjust By  specifying non-default value no longer exists on node  Adjust Max Energy . Please refresh node or reset pin to default value to remove pin.
+[2020.02.02-01.23.44:228][364]LogBlueprint: Error: [Compiler 2D_Roboi] In use pin  <Unnamed>  no longer exists on node  Adjust Max Energy . Please refresh node or break links to remove pin.
+[2020.02.02-01.23.44:228][364]LogBlueprint: Warning: [Compiler 2D_Roboi] Input pin  Adjust By  specifying non-default value no longer exists on node  Adjust Max Energy . Please refresh node or reset pin to default value to remove pin.
+[2020.02.02-01.23.44:483][364]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2020.02.02-01.23.44:521][364]LogBlueprint: Warning: [Compiler 2D_Roboi] [0256.91] Compile of 2D_Roboi failed. 2 Fatal Issue(s) 2 Warning(s) [in 309 ms] (/Game/2DSideScrollerBP/Blueprints/2D_Roboi.2D_Roboi)
+[2020.02.02-01.23.46:498][561]BlueprintLog: New page: Compile 2D_Roboi_Backup
+[2020.02.02-01.23.46:808][561]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2020.02.02-01.24.05:484][140]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.02.02-01.26.04:255][649]BlueprintLog: New page: Compile 2D_Roboi
+[2020.02.02-01.26.04:601][649]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2020.02.02-01.26.19:734][ 11]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/2D_Roboi_Backup3BE278614F2905A800336CAEC6A5C2B9.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Blueprints/2D_Roboi_Backup.uasset'
+[2020.02.02-01.26.21:421][149]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/2D_Roboi5582856045F5B0B4508D928C601BF59B.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Blueprints/2D_Roboi.uasset'
+[2020.02.02-01.29.44:552][637]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  Event BeginPlay  and was replaced as a Custom Event!
+[2020.02.02-01.30.02:271][779]BlueprintLog: New page: Compile 2D_Roboi
+[2020.02.02-01.30.02:551][779]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2020.02.02-01.30.04:202][847]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/2D_Roboi34C91A8B4FD27B15E0990B8755BF7602.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Blueprints/2D_Roboi.uasset'
+[2020.02.02-01.30.38:748][652]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/BP_Robot.BP_Robot
+[2020.02.02-01.31.05:120][ 85]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/BP_Robot_Backup.BP_Robot_Backup
+[2020.02.02-01.32.21:982][910]BlueprintLog: New page: Compile BP_Robot
+[2020.02.02-01.32.22:067][910]LogBlueprint: Warning: [Compiler BP_Robot] Could not find a variable named "RobotValue_Component" in 'BP_Robot_C'.
+Make sure 'BP_Robot_C' has been compiled for  Get RobotValue_Component
+[2020.02.02-01.32.22:070][910]LogBlueprint: Warning: [Compiler BP_Robot] Could not find a variable named "RobotValue_Component" in 'BP_Robot_C'.
+Make sure 'BP_Robot_C' has been compiled for  Get RobotValue_Component
+[2020.02.02-01.32.22:073][910]LogBlueprint: Error: [Compiler BP_Robot] The property associated with  Robot Value Component  could not be found in '/Game/2DSideScrollerBP/Blueprints/BP_Robot.BP_Robot_C'
+[2020.02.02-01.32.22:073][910]LogBlueprint: Error: [Compiler BP_Robot] The property associated with  Robot Value Component  could not be found in '/Game/2DSideScrollerBP/Blueprints/BP_Robot.BP_Robot_C'
+[2020.02.02-01.32.22:327][910]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2020.02.02-01.32.22:358][910]LogBlueprint: Warning: [Compiler BP_Robot] [0774.75] Compile of BP_Robot failed. 2 Fatal Issue(s) 2 Warning(s) [in 376 ms] (/Game/2DSideScrollerBP/Blueprints/BP_Robot.BP_Robot)
+[2020.02.02-01.32.43:676][219]BlueprintLog: New page: Compile 2D_Roboi
+[2020.02.02-01.32.43:965][219]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2020.02.02-01.32.50:098][568]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/2D_Roboi42E7D6B94832EE3C3E53259D312BD9C7.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Blueprints/2D_Roboi.uasset'
+[2020.02.02-01.32.57:619][169]LogEditorViewport: Clicking Background
+[2020.02.02-01.32.58:114][210]LogEditorViewport: Clicking on Actor (LMB): BP_Robot_C (BP_Robot)
+[2020.02.02-01.33.02:366][490]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-01.33.02:431][495]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-01.33.02:489][495]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT2.level1_PT2:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT2.level1_PT2:PersistentLevel.level1_PT2' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT2.level1_PT2_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT2.level1_PT2:PersistentLevel.level1_PT2'
+[2020.02.02-01.33.02:489][495]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-01.33.04:481][495]LogSlate: Window 'Message' being destroyed
+[2020.02.02-01.33.08:762][842]BlueprintLog: New page: Compile BP_Robot
+[2020.02.02-01.33.08:808][842]LogBlueprint: Warning: [Compiler BP_Robot] Could not find a variable named "RobotValue_Component" in 'BP_Robot_C'.
+Make sure 'BP_Robot_C' has been compiled for  Get RobotValue_Component
+[2020.02.02-01.33.08:811][842]LogBlueprint: Warning: [Compiler BP_Robot] Could not find a variable named "RobotValue_Component" in 'BP_Robot_C'.
+Make sure 'BP_Robot_C' has been compiled for  Get RobotValue_Component
+[2020.02.02-01.33.08:814][842]LogBlueprint: Error: [Compiler BP_Robot] The property associated with  Robot Value Component  could not be found in '/Game/2DSideScrollerBP/Blueprints/BP_Robot.BP_Robot_C'
+[2020.02.02-01.33.08:814][842]LogBlueprint: Error: [Compiler BP_Robot] The property associated with  Robot Value Component  could not be found in '/Game/2DSideScrollerBP/Blueprints/BP_Robot.BP_Robot_C'
+[2020.02.02-01.33.09:074][842]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2020.02.02-01.33.09:104][842]LogBlueprint: Warning: [Compiler BP_Robot] [0821.49] Compile of BP_Robot failed. 2 Fatal Issue(s) 2 Warning(s) [in 341 ms] (/Game/2DSideScrollerBP/Blueprints/BP_Robot.BP_Robot)
+[2020.02.02-01.35.13:358][738]BlueprintLog: New page: Compile BP_Robot_Backup
+[2020.02.02-01.35.13:367][738]LogBlueprint: Error: [Compiler BP_Robot_Backup] This blueprint (self) is not a MyGameInstance_C, therefore ' Target ' must have a connection.
+[2020.02.02-01.35.13:368][738]LogBlueprint: Error: [Compiler BP_Robot_Backup] Variable node  Set  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2020.02.02-01.35.13:621][738]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2020.02.02-01.35.13:630][738]LogBlueprint: Warning: [Compiler BP_Robot_Backup] [0946.02] Compile of BP_Robot_Backup failed. 2 Fatal Issue(s) 0 Warning(s) [in 271 ms] (/Game/2DSideScrollerBP/Blueprints/BP_Robot_Backup.BP_Robot_Backup)
+[2020.02.02-01.35.14:134][781]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/BP_Robot_Backup70FC75464BBB8CDBB9DB43BA2E2AD86E.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Blueprints/BP_Robot_Backup.uasset'
+[2020.02.02-01.35.19:369][336]BlueprintLog: New page: Compile BP_Robot_Backup
+[2020.02.02-01.35.19:627][336]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2020.02.02-01.35.20:171][385]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/BP_Robot_Backup2AF636CB4C3ACADEC96876966CE49552.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Blueprints/BP_Robot_Backup.uasset'
+[2020.02.02-01.35.22:581][654]LogEditorTransaction: Undo Create Pin Link
+[2020.02.02-01.35.22:914][679]LogEditorTransaction: Undo Move Node
+[2020.02.02-01.35.23:209][703]LogEditorTransaction: Undo Add Node
+[2020.02.02-01.35.23:588][744]LogEditorTransaction: Undo Delete current selection
+[2020.02.02-01.35.23:991][787]LogEditorTransaction: Undo Create Pin Link
+[2020.02.02-01.35.24:288][818]LogEditorTransaction: Undo Move Node
+[2020.02.02-01.35.24:721][865]LogEditorTransaction: Undo Delete current selection
+[2020.02.02-01.35.25:145][909]LogEditorTransaction: Undo Create Pin Link
+[2020.02.02-01.35.25:624][959]LogEditorTransaction: Undo Break Pin Links
+[2020.02.02-01.35.26:097][  9]LogEditorTransaction: Undo Create Pin Link
+[2020.02.02-01.35.26:607][ 63]LogEditorTransaction: Undo Create Pin Link
+[2020.02.02-01.35.27:122][118]LogEditorTransaction: Undo Create Pin Link
+[2020.02.02-01.35.27:908][203]LogEditorTransaction: Undo Move Nodes
+[2020.02.02-01.35.28:390][254]LogEditorTransaction: Undo Move Nodes
+[2020.02.02-01.35.29:126][334]LogEditorTransaction: Undo Create Pin Link
+[2020.02.02-01.35.29:577][381]LogEditorTransaction: Undo Delete current selection
+[2020.02.02-01.35.30:592][489]LogEditorTransaction: Undo Move Nodes
+[2020.02.02-01.35.31:240][557]LogEditorTransaction: Undo Paste clipboard contents
+[2020.02.02-01.35.31:900][632]LogEditorTransaction: Undo Delete current selection
+[2020.02.02-01.35.45:952][175]LogEditorTransaction: Undo Move Nodes
+[2020.02.02-01.35.46:525][222]LogEditorTransaction: Undo Paste clipboard contents
+[2020.02.02-01.35.47:085][285]LogEditorTransaction: Undo Delete current selection
+[2020.02.02-01.35.49:986][597]LogEditorTransaction: Undo Add Component Nodes
+[2020.02.02-01.35.50:747][682]LogEditorTransaction: Undo Add Component
+[2020.02.02-01.36.18:631][704]Cmd: TRANSACTION UNDO
+[2020.02.02-01.36.18:631][704]LogEditorTransaction: Undo Change Bool Pin Value
+[2020.02.02-01.36.19:041][737]Cmd: TRANSACTION UNDO
+[2020.02.02-01.36.19:041][737]LogEditorTransaction: Undo Create Pin Link
+[2020.02.02-01.36.19:310][765]Cmd: TRANSACTION UNDO
+[2020.02.02-01.36.19:310][765]LogEditorTransaction: Undo Move Nodes
+[2020.02.02-01.36.19:700][808]Cmd: TRANSACTION UNDO
+[2020.02.02-01.36.19:700][808]LogEditorTransaction: Undo Paste clipboard contents
+[2020.02.02-01.36.19:961][836]Cmd: TRANSACTION UNDO
+[2020.02.02-01.36.19:961][836]LogEditorTransaction: Undo Delete current selection
+[2020.02.02-01.36.21:074][962]Cmd: TRANSACTION UNDO
+[2020.02.02-01.36.21:074][962]LogEditorTransaction: Undo Remove Components
+[2020.02.02-01.36.21:806][ 24]Cmd: TRANSACTION UNDO
+[2020.02.02-01.36.21:806][ 24]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.02-01.36.22:699][125]LogEditorTransaction: Undo Clicking Background
+[2020.02.02-01.36.23:144][175]LogEditorTransaction: Undo Add Component
+[2020.02.02-01.36.23:662][215]LogEditorTransaction: Undo Create Pin Link
+[2020.02.02-01.36.24:148][270]LogEditorTransaction: Undo Move Node
+[2020.02.02-01.36.24:605][321]LogEditorTransaction: Undo Delete current selection
+[2020.02.02-01.36.25:106][378]LogEditorTransaction: Undo Paste clipboard contents
+[2020.02.02-01.36.25:579][431]LogEditorTransaction: Undo Delete current selection
+[2020.02.02-01.36.26:078][487]LogEditorTransaction: Undo Create Pin Link
+[2020.02.02-01.36.26:747][563]LogEditorTransaction: Undo Move Nodes
+[2020.02.02-01.36.33:356][295]LogEditorTransaction: Redo Move Nodes
+[2020.02.02-01.36.33:815][330]LogEditorTransaction: Redo Create Pin Link
+[2020.02.02-01.36.34:253][375]LogEditorTransaction: Redo Delete current selection
+[2020.02.02-01.36.35:183][483]LogEditorTransaction: Redo Paste clipboard contents
+[2020.02.02-01.37.03:840][653]BlueprintLog: New page: Compile BP_Robot_Backup
+[2020.02.02-01.37.04:119][653]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2020.02.02-01.37.04:943][736]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/BP_Robot_BackupC428ADC14C3731C4EF00969F66EC9195.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Blueprints/BP_Robot_Backup.uasset'
+[2020.02.02-01.37.11:944][503]BlueprintLog: New page: Compile BP_Robot
+[2020.02.02-01.37.11:990][503]LogBlueprint: Warning: [Compiler BP_Robot] Could not find a variable named "RobotValue_Component" in 'BP_Robot_C'.
+Make sure 'BP_Robot_C' has been compiled for  Get RobotValue_Component
+[2020.02.02-01.37.11:993][503]LogBlueprint: Warning: [Compiler BP_Robot] Could not find a variable named "RobotValue_Component" in 'BP_Robot_C'.
+Make sure 'BP_Robot_C' has been compiled for  Get RobotValue_Component
+[2020.02.02-01.37.11:995][503]LogBlueprint: Error: [Compiler BP_Robot] The property associated with  Robot Value Component  could not be found in '/Game/2DSideScrollerBP/Blueprints/BP_Robot.BP_Robot_C'
+[2020.02.02-01.37.11:996][503]LogBlueprint: Error: [Compiler BP_Robot] The property associated with  Robot Value Component  could not be found in '/Game/2DSideScrollerBP/Blueprints/BP_Robot.BP_Robot_C'
+[2020.02.02-01.37.12:248][503]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2020.02.02-01.37.12:277][503]LogBlueprint: Warning: [Compiler BP_Robot] [1064.67] Compile of BP_Robot failed. 2 Fatal Issue(s) 2 Warning(s) [in 333 ms] (/Game/2DSideScrollerBP/Blueprints/BP_Robot.BP_Robot)
+[2020.02.02-01.37.13:093][553]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/BP_Robot65A38B1F400FE2913A6B9493EEC286BC.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Blueprints/BP_Robot.uasset'
+[2020.02.02-01.37.31:532][407]BlueprintLog: New page: Compile BP_Robot
+[2020.02.02-01.37.31:831][407]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2020.02.02-01.37.32:772][461]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/BP_Robot374102FE4E8E63D3751ED8A5B54AA01B.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Blueprints/BP_Robot.uasset'
+[2020.02.02-01.37.46:925][877]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/BP_Robot1A5AC97148D6CF5C22745DAD46164ACD.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Blueprints/BP_Robot.uasset'
+[2020.02.02-01.37.49:404][100]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-01.37.49:442][100]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT2.level1_PT2:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT2.level1_PT2:PersistentLevel.level1_PT2' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT2.level1_PT2_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT2.level1_PT2:PersistentLevel.level1_PT2'
+[2020.02.02-01.37.49:442][100]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.02-01.37.49:448][100]LogPlayLevel: [PlayLevel] Compiling 2D_Roboi before play...
+[2020.02.02-01.37.49:776][100]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2020.02.02-01.37.49:777][100]LogPlayLevel: PlayLevel: Blueprint regeneration took 334 ms (1 blueprints)
+[2020.02.02-01.37.49:777][100]PIE: New page: PIE session: level1_PT2 (Feb 1, 2020, 3:37:49 PM)
+[2020.02.02-01.37.49:777][100]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT2
+[2020.02.02-01.37.49:783][100]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005664s)
+[2020.02.02-01.37.49:784][100]LogAIModule: Creating AISystem for world level1_PT2
+[2020.02.02-01.37.49:784][100]LogPlayLevel: PIE: World Init took: (0.000782s)
+[2020.02.02-01.37.49:784][100]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/level1_PT2.level1_PT2 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT2.level1_PT2 (0.006607s)
+[2020.02.02-01.37.49:838][100]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.02.02-01.37.49:890][100]LogInit: XAudio2 using '2 - DELL U2717D (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.02-01.37.49:908][100]LogInit: FAudioDevice initialized.
+[2020.02.02-01.37.49:944][100]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.02-01.37.49:947][100]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT2.level1_PT2 up for play (max tick rate 0) at 2020.02.01-20.37.49
+[2020.02.02-01.37.49:947][100]LogWorld: Bringing up level for play took: 0.002691
+[2020.02.02-01.37.49:960][100]LogBlueprintUserMessages: [BP_Robot_2] false
+[2020.02.02-01.37.49:961][100]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT2 0.05
+[2020.02.02-01.37.49:961][100]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT2.level1_PT2:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT2.level1_PT2:PersistentLevel.level1_PT2' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT2.level1_PT2_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT2.level1_PT2:PersistentLevel.level1_PT2'
+[2020.02.02-01.37.51:517][233]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT2.level1_PT2:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT2.level1_PT2:PersistentLevel.level1_PT2' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT2.level1_PT2_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT2.level1_PT2:PersistentLevel.level1_PT2'
+[2020.02.02-01.37.51:517][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-01.37.51:554][233]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-01.37.51:554][233]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT2.level1_PT2:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT2.level1_PT2:PersistentLevel.level1_PT2' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT2.level1_PT2_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT2.level1_PT2:PersistentLevel.level1_PT2'
+[2020.02.02-01.37.51:615][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-01.37.51:621][233]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.02.02-01.37.51:662][234]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.02.02-01.37.52:330][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-01.37.52:493][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.02.02-01.37.52:775][298]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/level1_PT28E9BF31D4BFA7208CA04B192BF285A33.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Maps/level1_PT2.umap'
+[2020.02.02-01.37.54:635][377]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/2D_Roboi4BD8D4E3482F1DF4C64CF0B40C2CD59C.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Blueprints/2D_Roboi.uasset'
+[2020.02.02-01.37.57:798][568]LogAIModule: Creating AISystem for world level1_PT3
+[2020.02.02-01.37.57:809][568]LogAssetEditorManager: Opening Asset editor for World /Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3
+[2020.02.02-01.37.57:872][568]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2020.02.02-01.37.57:874][568]Cmd: MAP LOAD FILE="../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Maps/level1_PT3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.02-01.37.57:874][568]LightingResults: New page: Lighting Build
+[2020.02.02-01.37.57:875][568]LoadErrors: New page: Loading map: level1_PT3.umap
+[2020.02.02-01.37.57:876][568]MapCheck: New page: Map Check
+[2020.02.02-01.37.57:876][568]LightingResults: New page: Lighting Build
+[2020.02.02-01.37.57:937][568]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2020.02.02-01.37.57:950][568]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.02-01.37.58:006][568]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.02.02-01.37.58:052][568]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.02-01.37.58:054][568]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.925ms to complete.
+[2020.02.02-01.37.58:054][568]LogFileHelpers: Loading map 'level1_PT3' took 0.182
+[2020.02.02-01.38.00:405][771]LogEditorViewport: Clicking on Actor (LMB): BP_Robot_C (BP_Robot)
+[2020.02.02-01.38.07:940][375]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-01.38.19:439][473]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/RobotValue_Component.RobotValue_Component
+[2020.02.02-01.38.26:396][241]BlueprintLog: New page: Compile RobotValue_Component
+[2020.02.02-01.38.26:659][241]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2020.02.02-01.38.27:089][280]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/RobotValue_Component911EBF8146D30AC64A809284F1A33514.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Blueprints/RobotValue_Component.uasset'
+[2020.02.02-01.38.40:341][345]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2020.02.02-01.38.41:238][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-01.38.41:386][407]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2020.02.02-01.38.41:673][407]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/level1_PT3E57477994E14FF0DEEBE81BB19357804.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Maps/level1_PT3.umap'
+[2020.02.02-01.38.47:076][760]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2020.02.02-01.38.49:783][760]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.02-01.38.49:883][760]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.02-01.38.49:976][760]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.02-01.38.50:071][760]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.02-01.38.50:164][760]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.02-01.38.50:311][760]LogSlate: Window 'Blueprint Diff' being destroyed
+[2020.02.02-01.38.50:381][760]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/2DSideScrollerBP/Blueprints/2D_Roboi_Backup.2D_Roboi_Backup
+[2020.02.02-01.38.51:225][760]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2020.02.02-01.38.51:279][760]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.02.02-01.38.51:327][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.02.02-01.38.54:861][962]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.02.02-01.38.56:487][962]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.02-01.38.56:586][962]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2020.02.02-01.38.56:642][962]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.02.02-01.38.56:696][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.02.02-01.39.24:594][618]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2020.02.02-01.39.25:770][706]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-01.39.25:905][717]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-01.39.25:936][717]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-01.39.25:936][717]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-01.39.25:936][717]PIE: New page: PIE session: level1_PT3 (Feb 1, 2020, 3:39:25 PM)
+[2020.02.02-01.39.25:967][717]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT3
+[2020.02.02-01.39.25:973][717]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006089s)
+[2020.02.02-01.39.25:974][717]LogAIModule: Creating AISystem for world level1_PT3
+[2020.02.02-01.39.25:974][717]LogPlayLevel: PIE: World Init took: (0.000691s)
+[2020.02.02-01.39.25:974][717]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT3.level1_PT3 (0.007075s)
+[2020.02.02-01.39.26:024][717]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.02.02-01.39.26:079][717]LogInit: XAudio2 using '2 - DELL U2717D (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.02-01.39.26:096][717]LogInit: FAudioDevice initialized.
+[2020.02.02-01.39.26:125][717]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.02-01.39.26:128][717]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT3.level1_PT3 up for play (max tick rate 0) at 2020.02.01-20.39.26
+[2020.02.02-01.39.26:129][717]LogWorld: Bringing up level for play took: 0.003070
+[2020.02.02-01.39.26:141][717]LogBlueprintUserMessages: [BP_Robot_2] false
+[2020.02.02-01.39.26:142][717]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT3 0.231
+[2020.02.02-01.39.26:142][717]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-01.39.40:544][443]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-01.39.40:545][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-01.39.40:576][443]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-01.39.40:576][443]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-01.39.40:630][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-01.39.40:635][443]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.02.02-01.39.40:668][444]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.02.02-01.39.49:911][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-01.39.50:090][279]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2D_Roboi.2D_Roboi
+[2020.02.02-01.39.59:805][871]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-01.39.59:831][871]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-01.39.59:831][871]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-01.39.59:831][871]PIE: New page: PIE session: level1_PT3 (Feb 1, 2020, 3:39:59 PM)
+[2020.02.02-01.39.59:831][871]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT3
+[2020.02.02-01.39.59:838][871]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006346s)
+[2020.02.02-01.39.59:838][871]LogAIModule: Creating AISystem for world level1_PT3
+[2020.02.02-01.39.59:838][871]LogPlayLevel: PIE: World Init took: (0.000671s)
+[2020.02.02-01.39.59:838][871]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT3.level1_PT3 (0.007168s)
+[2020.02.02-01.39.59:888][871]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.02.02-01.39.59:938][871]LogInit: XAudio2 using '2 - DELL U2717D (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.02-01.39.59:954][871]LogInit: FAudioDevice initialized.
+[2020.02.02-01.39.59:981][871]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.02-01.39.59:985][871]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT3.level1_PT3 up for play (max tick rate 0) at 2020.02.01-20.39.59
+[2020.02.02-01.39.59:985][871]LogWorld: Bringing up level for play took: 0.003029
+[2020.02.02-01.39.59:998][871]LogBlueprintUserMessages: [BP_Robot_2] false
+[2020.02.02-01.39.59:999][871]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT3 0.088
+[2020.02.02-01.39.59:999][871]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-01.40.01:078][999]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-01.40.01:079][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-01.40.01:130][999]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-01.40.01:131][999]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-01.40.01:180][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-01.40.01:185][999]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.02.02-01.40.01:218][  0]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.02.02-01.40.03:878][227]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-01.40.41:943][474]LogBlueprintActionDatabase: Requesting refresh due to module change: ExternalImagePicker (loaded)
+[2020.02.02-01.40.42:925][474]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.02.02-01.40.51:461][174]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-01.40.51:491][174]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-01.40.51:491][174]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-01.40.51:491][174]PIE: New page: PIE session: level1_PT3 (Feb 1, 2020, 3:40:51 PM)
+[2020.02.02-01.40.51:491][174]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT3
+[2020.02.02-01.40.51:498][174]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006563s)
+[2020.02.02-01.40.51:498][174]LogAIModule: Creating AISystem for world level1_PT3
+[2020.02.02-01.40.51:499][174]LogPlayLevel: PIE: World Init took: (0.000733s)
+[2020.02.02-01.40.51:499][174]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT3.level1_PT3 (0.007448s)
+[2020.02.02-01.40.51:584][174]LogUObjectHash: Compacting FUObjectHashTables data took   6.04ms
+[2020.02.02-01.40.51:632][174]LogInit: XAudio2 using '2 - DELL U2717D (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.02-01.40.51:649][174]LogInit: FAudioDevice initialized.
+[2020.02.02-01.40.51:681][174]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.02-01.40.51:688][174]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT3.level1_PT3 up for play (max tick rate 0) at 2020.02.01-20.40.51
+[2020.02.02-01.40.51:689][174]LogWorld: Bringing up level for play took: 0.006760
+[2020.02.02-01.40.51:704][174]LogBlueprintUserMessages: [BP_Robot_2] false
+[2020.02.02-01.40.51:705][174]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT3 -0.205
+[2020.02.02-01.40.51:706][174]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-01.40.53:830][421]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-01.40.53:830][421]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-01.40.53:866][421]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-01.40.53:866][421]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-01.40.53:924][421]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-01.40.53:933][421]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2020.02.02-01.40.53:968][422]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.02.02-01.40.56:201][604]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-01.40.59:897][844]LogSlate: Window '2D_Roboi' being destroyed
+[2020.02.02-01.41.12:244][922]BlueprintLog: New page: Compile 2D_Roboi
+[2020.02.02-01.41.12:558][922]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2020.02.02-01.41.13:557][982]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/2D_Roboi4A6402414054C35FB45922933B147B07.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Blueprints/2D_Roboi.uasset'
+[2020.02.02-01.41.17:269][324]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-01.41.17:318][324]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-01.41.17:318][324]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-01.41.17:318][324]PIE: New page: PIE session: level1_PT3 (Feb 1, 2020, 3:41:17 PM)
+[2020.02.02-01.41.17:318][324]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT3
+[2020.02.02-01.41.17:325][324]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006150s)
+[2020.02.02-01.41.17:325][324]LogAIModule: Creating AISystem for world level1_PT3
+[2020.02.02-01.41.17:325][324]LogPlayLevel: PIE: World Init took: (0.000707s)
+[2020.02.02-01.41.17:325][324]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT3.level1_PT3 (0.007025s)
+[2020.02.02-01.41.17:386][324]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2020.02.02-01.41.17:434][324]LogInit: XAudio2 using '2 - DELL U2717D (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.02-01.41.17:450][324]LogInit: FAudioDevice initialized.
+[2020.02.02-01.41.17:479][324]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.02-01.41.17:487][324]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT3.level1_PT3 up for play (max tick rate 0) at 2020.02.01-20.41.17
+[2020.02.02-01.41.17:488][324]LogWorld: Bringing up level for play took: 0.006815
+[2020.02.02-01.41.17:503][324]LogBlueprintUserMessages: [BP_Robot_2] false
+[2020.02.02-01.41.17:504][324]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT3 -0.407
+[2020.02.02-01.41.17:504][324]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-01.41.19:560][568]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-01.41.19:560][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-01.41.19:593][568]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-01.41.19:593][568]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-01.41.19:650][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-01.41.19:656][568]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.02.02-01.41.19:691][569]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.02.02-01.45.17:294][198]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.02-01.45.18:583][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.02.02-01.45.18:590][307]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.02-01.45.18:648][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.02.02-01.45.18:963][307]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/level1_PT3167F0A674DD925993F06A3B8B46C7DF2.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Maps/level1_PT3.umap'
+[2020.02.02-01.45.19:011][307]LogFileHelpers: Saving map 'level1_PT3' took 0.415
+[2020.02.02-01.45.20:164][413]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-01.45.20:665][460]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-01.45.20:690][460]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-01.45.20:690][460]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-01.45.20:690][460]PIE: New page: PIE session: level1_PT3 (Feb 1, 2020, 3:45:20 PM)
+[2020.02.02-01.45.20:691][460]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT3
+[2020.02.02-01.45.20:697][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006594s)
+[2020.02.02-01.45.20:698][460]LogAIModule: Creating AISystem for world level1_PT3
+[2020.02.02-01.45.20:698][460]LogPlayLevel: PIE: World Init took: (0.000773s)
+[2020.02.02-01.45.20:698][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT3.level1_PT3 (0.007511s)
+[2020.02.02-01.45.20:751][460]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2020.02.02-01.45.20:802][460]LogInit: XAudio2 using '2 - DELL U2717D (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.02-01.45.20:819][460]LogInit: FAudioDevice initialized.
+[2020.02.02-01.45.20:850][460]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.02-01.45.20:854][460]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT3.level1_PT3 up for play (max tick rate 0) at 2020.02.01-20.45.20
+[2020.02.02-01.45.20:854][460]LogWorld: Bringing up level for play took: 0.003086
+[2020.02.02-01.45.20:867][460]LogBlueprintUserMessages: [BP_Robot_2] false
+[2020.02.02-01.45.20:867][460]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT3 0.957
+[2020.02.02-01.45.20:867][460]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-01.45.25:006][955]LogScript: Warning: Accessed None trying to read property Mesh
+	platfrom_C /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT3.level1_PT3:PersistentLevel.platfrom2
+	Function /Game/2DSideScrollerBP/Blueprints/platfrom.platfrom_C:ExecuteUbergraph_platfrom:0166
+[2020.02.02-01.45.25:006][955]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Mesh". Blueprint:  platfrom Function:  Execute Ubergraph Platfrom Graph:  EventGraph Node:  Branch
+[2020.02.02-01.45.27:959][303]LogScript: Warning: Accessed None trying to read property Mesh
+	platfrom_C /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT3.level1_PT3:PersistentLevel.platfrom2
+	Function /Game/2DSideScrollerBP/Blueprints/platfrom.platfrom_C:ExecuteUbergraph_platfrom:0166
+[2020.02.02-01.45.27:960][303]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Mesh". Blueprint:  platfrom Function:  Execute Ubergraph Platfrom Graph:  EventGraph Node:  Branch
+[2020.02.02-01.45.31:068][676]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-01.45.31:069][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-01.45.31:102][676]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-01.45.31:103][676]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-01.45.31:162][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-01.45.31:169][676]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2020.02.02-01.45.31:178][676]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.02-01.45.31:222][677]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.02.02-01.45.32:663][792]LogSlate: Window 'Message Log' being destroyed
+[2020.02.02-01.45.32:679][792]LogSlate: Window 'Message Log' being destroyed
+[2020.02.02-01.45.33:834][896]LogEditorViewport: Clicking on Actor (LMB): Key_C (Key2)
+[2020.02.02-01.45.36:641][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-01.45.58:847][877]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-01.45.58:872][877]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-01.45.58:872][877]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-01.45.58:872][877]PIE: New page: PIE session: level1_PT3 (Feb 1, 2020, 3:45:58 PM)
+[2020.02.02-01.45.58:872][877]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT3
+[2020.02.02-01.45.58:879][877]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006377s)
+[2020.02.02-01.45.58:879][877]LogAIModule: Creating AISystem for world level1_PT3
+[2020.02.02-01.45.58:880][877]LogPlayLevel: PIE: World Init took: (0.000714s)
+[2020.02.02-01.45.58:880][877]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT3.level1_PT3 (0.007257s)
+[2020.02.02-01.45.58:931][877]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.02.02-01.45.58:980][877]LogInit: XAudio2 using '2 - DELL U2717D (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.02-01.45.58:996][877]LogInit: FAudioDevice initialized.
+[2020.02.02-01.45.59:025][877]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.02-01.45.59:028][877]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT3.level1_PT3 up for play (max tick rate 0) at 2020.02.01-20.45.59
+[2020.02.02-01.45.59:028][877]LogWorld: Bringing up level for play took: 0.002991
+[2020.02.02-01.45.59:042][877]LogBlueprintUserMessages: [BP_Robot_2] false
+[2020.02.02-01.45.59:043][877]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT3 1.132
+[2020.02.02-01.45.59:043][877]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-01.46.10:091][199]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-01.46.10:092][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-01.46.10:129][199]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-01.46.10:129][199]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-01.46.10:189][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-01.46.10:195][199]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.02.02-01.46.10:231][200]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.02.02-01.46.11:675][334]LogEditorViewport: Clicking on Actor (LMB): Key_C (Key2)
+[2020.02.02-01.46.14:627][576]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-01.46.37:405][938]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/Key.Key
+[2020.02.02-01.47.43:429][610]BlueprintLog: New page: Compile Key
+[2020.02.02-01.47.43:763][610]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2020.02.02-01.47.44:215][645]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Key8315CAF040739597C557ED968A8519E6.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Blueprints/Key.uasset'
+[2020.02.02-01.47.47:502][942]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2020.02.02-01.47.47:573][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.02.02-01.47.47:889][942]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/level1_PT3DA0D504843E9777751AC9DB24228ED63.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Maps/level1_PT3.umap'
+[2020.02.02-01.47.47:943][942]LogFileHelpers: Saving map 'level1_PT3' took 0.430
+[2020.02.02-01.49.07:936][610]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-01.49.07:969][610]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-01.49.07:969][610]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-01.49.07:969][610]PIE: New page: PIE session: level1_PT3 (Feb 1, 2020, 3:49:07 PM)
+[2020.02.02-01.49.07:970][610]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT3
+[2020.02.02-01.49.07:976][610]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006359s)
+[2020.02.02-01.49.07:977][610]LogAIModule: Creating AISystem for world level1_PT3
+[2020.02.02-01.49.07:977][610]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2020.02.02-01.49.07:977][610]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT3.level1_PT3 (0.007298s)
+[2020.02.02-01.49.08:035][610]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2020.02.02-01.49.08:084][610]LogInit: XAudio2 using '2 - DELL U2717D (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.02-01.49.08:101][610]LogInit: FAudioDevice initialized.
+[2020.02.02-01.49.08:130][610]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.02-01.49.08:133][610]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT3.level1_PT3 up for play (max tick rate 0) at 2020.02.01-20.49.08
+[2020.02.02-01.49.08:134][610]LogWorld: Bringing up level for play took: 0.002971
+[2020.02.02-01.49.08:145][610]LogBlueprintUserMessages: [BP_Robot_2] false
+[2020.02.02-01.49.08:146][610]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT3 0.235
+[2020.02.02-01.49.08:146][610]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-01.51.23:216][799]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-01.51.23:216][799]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-01.51.23:272][799]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-01.51.23:273][799]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT3.level1_PT3:PersistentLevel.level1_PT3'
+[2020.02.02-01.51.23:332][799]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-01.51.23:339][799]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2020.02.02-01.51.23:376][800]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.02.02-01.51.25:717][  8]LogEditorViewport: Clicking on Actor (LMB): Key_C (Key2)
+[2020.02.02-01.55.17:444][683]LogEditorViewport: Clicking on Actor (LMB): BP_Robot_C (BP_Robot)
+[2020.02.02-01.55.19:297][833]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2020.02.02-01.55.32:877][909]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-01.55.50:998][470]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_17)
+[2020.02.02-01.55.52:336][584]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2020.02.02-01.56.27:357][461]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2020.02.02-01.56.28:270][533]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2020.02.02-01.56.28:954][586]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2020.02.02-01.56.29:479][626]LogEditorViewport: Clicking on Actor (LMB): platfrom_C (platfrom2)
+[2020.02.02-01.56.42:061][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.02-02.00.02:958][770]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.02.02-02.00.03:312][770]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/level1_PT3_Auto197CFEB924CE7C51E73EC2389C3ED4569.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Autosaves/Game/2DSideScrollerBP/Maps/level1_PT3_Auto1.umap'
+[2020.02.02-02.00.03:316][770]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/level1_PT3' took 0.423
+[2020.02.02-02.00.03:316][770]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.423
+[2020.02.02-02.02.05:168][519]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2020.02.02-02.02.05:244][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.02.02-02.02.05:563][519]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/level1_PT399BEAD2F407F5929E9BCE99C958D0926.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Maps/level1_PT3.umap'
+[2020.02.02-02.02.05:612][519]LogFileHelpers: Saving map 'level1_PT3' took 0.430
+[2020.02.02-02.02.05:627][519]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/EnergyPopUp52EFBF0A49337051B3E0BF87C5D63546.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Blueprints/EnergyPopUp.uasset'
