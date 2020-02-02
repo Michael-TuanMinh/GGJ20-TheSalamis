@@ -1586,3 +1586,116 @@ Script Stack (0 frames):
 [2020.02.02-20.51.11:861][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
 [2020.02.02-20.51.12:272][416]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/level1_PT2C16C7EE24233EC5852D815AE52E86005.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/level1/level1_PT2.umap'
 [2020.02.02-20.51.12:328][416]LogFileHelpers: Saving map 'level1_PT2' took 0.520
+[2020.02.02-20.52.25:777][223]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-20.52.25:815][223]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level1/level1_PT2.level1_PT2:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2' with GeneratedClass '/Game/level1/level1_PT2.level1_PT2_C' with ClassGeneratedBy '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2'
+[2020.02.02-20.52.25:816][223]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-20.52.25:816][223]PIE: New page: PIE session: level1_PT2 (Feb 2, 2020, 10:52:25 AM)
+[2020.02.02-20.52.25:816][223]LogPlayLevel: Creating play world package: /Game/level1/UEDPIE_0_level1_PT2
+[2020.02.02-20.52.25:828][223]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011745s)
+[2020.02.02-20.52.25:829][223]LogAIModule: Creating AISystem for world level1_PT2
+[2020.02.02-20.52.25:829][223]LogPlayLevel: PIE: World Init took: (0.000704s)
+[2020.02.02-20.52.25:829][223]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1/level1_PT2.level1_PT2 to /Game/level1/UEDPIE_0_level1_PT2.level1_PT2 (0.012614s)
+[2020.02.02-20.52.25:890][223]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2020.02.02-20.52.25:944][223]LogInit: XAudio2 using '2 - DELL U2717D (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.02-20.52.25:961][223]LogInit: FAudioDevice initialized.
+[2020.02.02-20.52.25:992][223]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.02-20.52.25:996][223]LogWorld: Bringing World /Game/level1/UEDPIE_0_level1_PT2.level1_PT2 up for play (max tick rate 0) at 2020.02.02-15.52.25
+[2020.02.02-20.52.25:996][223]LogWorld: Bringing up level for play took: 0.003459
+[2020.02.02-20.52.26:009][223]LogBlueprintUserMessages: [BP_Robot_5] false
+[2020.02.02-20.52.26:011][223]PIE: Play in editor start time for /Game/level1/UEDPIE_0_level1_PT2 0.907
+[2020.02.02-20.52.26:011][223]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level1/level1_PT2.level1_PT2:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2' with GeneratedClass '/Game/level1/level1_PT2.level1_PT2_C' with ClassGeneratedBy '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2'
+[2020.02.02-20.52.35:246][ 34]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level1/level1_PT2.level1_PT2:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2' with GeneratedClass '/Game/level1/level1_PT2.level1_PT2_C' with ClassGeneratedBy '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2'
+[2020.02.02-20.52.35:246][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-20.52.35:293][ 34]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-20.52.35:293][ 34]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level1/level1_PT2.level1_PT2:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2' with GeneratedClass '/Game/level1/level1_PT2.level1_PT2_C' with ClassGeneratedBy '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2'
+[2020.02.02-20.52.35:356][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-20.52.35:363][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2020.02.02-20.52.35:404][ 35]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2020.02.02-20.52.37:108][153]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.02-20.52.38:247][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.02.02-20.52.39:410][304]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.02-20.53.05:566][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.02.02-20.53.19:625][969]LogBlueprintActionDatabase: Requesting refresh due to module change: UATHelper (loaded)
+[2020.02.02-20.53.20:262][969]UATHelper: Packaging (Windows (64-bit)): Running AutomationTool...
+[2020.02.02-20.53.20:262][969]UATHelper: Packaging (Windows (64-bit)): Parsing command line: -ScriptsForProject=C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/SalamisGamejam.uproject BuildCookRun -nocompile -nocompileeditor -installed -nop4 -project=C:/Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/SalamisGamejam.uproject -cook -stage -archive -archivedirectory=C:/Users/Graphic.SJH519-000W/Desktop -package -clientconfig=Shipping -ue4exe="C:\Program Files\Epic Games\UE_4.22\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -pak -prereqs -nodebuginfo -targetplatform=Win64 -utf8output
+[2020.02.02-20.53.20:262][969]UATHelper: Packaging (Windows (64-bit)): Setting up ProjectParams for C:\Users\Graphic.SJH519-000W\Documents\GitHub\GGJ20-TheSalamis\SalamisGamejam\SalamisGamejam.uproject
+[2020.02.02-20.53.20:560][990]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND STARTED **********
+[2020.02.02-20.53.20:569][991]UATHelper: Packaging (Windows (64-bit)): Running UE4Editor Cook for project C:\Users\Graphic.SJH519-000W\Documents\GitHub\GGJ20-TheSalamis\SalamisGamejam\SalamisGamejam.uproject
+[2020.02.02-20.53.20:569][991]UATHelper: Packaging (Windows (64-bit)): Commandlet log file is C:\Program Files\Epic Games\UE_4.22\Engine\Programs\AutomationTool\Saved\Cook-2020.02.02-15.53.20.txt
+[2020.02.02-20.53.20:572][991]UATHelper: Packaging (Windows (64-bit)): Running: C:\Program Files\Epic Games\UE_4.22\Engine\Binaries\Win64\UE4Editor-Cmd.exe C:\Users\Graphic.SJH519-000W\Documents\GitHub\GGJ20-TheSalamis\SalamisGamejam\SalamisGamejam.uproject -run=Cook  -TargetPlatform=WindowsNoEditor -fileopenlog -unversioned -abslog="C:\Program Files\Epic Games\UE_4.22\Engine\Programs\AutomationTool\Saved\Cook-2020.02.02-15.53.20.txt" -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2020.02.02-20.53.20:697][  0]UATHelper: Packaging (Windows (64-bit)):   LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2020.02.02-20.53.20:697][  0]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Running engine for game: SalamisGamejam
+[2020.02.02-20.53.23:793][215]UATHelper: Packaging (Windows (64-bit)):   LogHAL: Display: Platform has ~ 64 GB [68689129472 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.02-20.53.24:563][269]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.02.02-20.53.24:584][270]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.02.02-20.53.24:605][272]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.02.02-20.53.24:621][273]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.02.02-20.53.24:648][275]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.02.02-20.53.24:662][276]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.02.02-20.53.24:680][277]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.02-20.53.24:703][279]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.02.02-20.53.24:709][279]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.02.02-20.53.24:837][288]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.02.02-20.53.24:837][288]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.02.02-20.53.24:837][288]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.02.02-20.53.24:837][288]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.02.02-20.53.24:837][288]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.02.02-20.53.24:837][288]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.02.02-20.53.24:837][288]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.02.02-20.53.24:837][288]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.02.02-20.53.24:837][288]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.02.02-20.53.24:837][288]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.02-20.53.24:837][288]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.02.02-20.53.24:837][288]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.02.02-20.53.24:837][288]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.02-20.53.24:837][288]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.02-20.53.24:837][288]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.02-20.53.24:843][289]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.02-20.53.24:843][289]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.02.02-20.53.24:843][289]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.02.02-20.53.24:843][289]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.02.02-20.53.24:899][293]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.02.02-20.53.24:899][293]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.02.02-20.53.24:934][295]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.02.02-20.53.24:934][295]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.02.02-20.53.24:954][297]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.02.02-20.53.24:969][298]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.02-20.53.24:988][299]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.02.02-20.53.25:006][300]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.02.02-20.53.25:068][305]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.02.02-20.53.25:069][305]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.02.02-20.53.25:069][305]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Building Assets For WindowsNoEditor
+[2020.02.02-20.53.25:082][306]UATHelper: Packaging (Windows (64-bit)):   LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.02-20.53.25:145][310]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.02-20.53.25:705][346]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.02-20.53.25:771][350]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Graphic.SJH519-000W/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.02.02-20.53.25:787][351]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.02-20.53.25:791][351]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2020.02.02-20.53.26:369][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-20.53.30:465][671]LogEditorViewport: Clicking on Actor (LMB): 2D_Roboi_C (2D_Roboi)
+[2020.02.02-20.53.37:145][101]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-20.53.52:409][101]BlueprintLog: New page: Compile 2D_Roboi
+[2020.02.02-20.53.52:967][101]LogUObjectHash: Compacting FUObjectHashTables data took   8.04ms
+[2020.02.02-20.53.53:502][102]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/2D_Roboi26D194794AC2C09777A88DB9DE3383F9.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Blueprints/2D_Roboi.uasset'
+[2020.02.02-20.53.56:197][252]LogUObjectHash: Compacting FUObjectHashTables data took   7.29ms
+[2020.02.02-20.53.56:276][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.02.02-20.53.56:678][252]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/level1_PT2EAD720434D79A6D5E6B46386DCF7C073.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/level1/level1_PT2.umap'
+[2020.02.02-20.53.56:734][252]LogFileHelpers: Saving map 'level1_PT2' took 0.517
+[2020.02.02-20.54.18:971][618]LogAIModule: Creating AISystem for world level1_PT3
+[2020.02.02-20.54.18:989][618]LogAssetEditorManager: Opening Asset editor for World /Game/level1/level1_PT3.level1_PT3
+[2020.02.02-20.54.19:051][618]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2020.02.02-20.54.19:053][618]Cmd: MAP LOAD FILE="../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/level1/level1_PT3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.02-20.54.19:053][618]LightingResults: New page: Lighting Build
+[2020.02.02-20.54.19:054][618]LoadErrors: New page: Loading map: level1_PT3.umap
+[2020.02.02-20.54.19:055][618]MapCheck: New page: Map Check
+[2020.02.02-20.54.19:056][618]LightingResults: New page: Lighting Build
+[2020.02.02-20.54.19:120][618]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2020.02.02-20.54.19:139][618]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.02-20.54.19:199][618]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.02.02-20.54.19:254][618]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.02-20.54.19:254][618]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.147ms to complete.
+[2020.02.02-20.54.19:255][618]LogFileHelpers: Loading map 'level1_PT3' took 0.203
+[2020.02.02-20.54.31:407][404]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode
+[2020.02.02-20.54.45:425][936]BlueprintLog: New page: Compile 2DSideScrollerGameMode
+[2020.02.02-20.54.45:737][936]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2020.02.02-20.54.46:216][975]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/2DSideScrollerGameModeD0D614FA4F4E9DF19C7EB2858BFC983B.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset'
