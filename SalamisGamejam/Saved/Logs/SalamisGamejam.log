@@ -3439,3 +3439,474 @@ Script Stack (0 frames):
 [2020.02.02-14.07.05:056][379]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2020.02.02-14.07.05:122][379]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
 [2020.02.02-14.07.05:462][379]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/level1_PT248EC25A44438139A19485BA99B1E861A.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/level1/level1_PT2.umap'
+[2020.02.02-14.07.47:542][158]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2020.02.02-14.07.47:624][158]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/BP_RobotEC3F097B4379D8CF522276A460E0B9EB.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Blueprints/BP_Robot.uasset'
+[2020.02.02-14.10.07:777][ 76]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-14.10.07:809][ 76]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level1/level1_PT2.level1_PT2:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2' with GeneratedClass '/Game/level1/level1_PT2.level1_PT2_C' with ClassGeneratedBy '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2'
+[2020.02.02-14.10.07:809][ 76]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-14.10.07:809][ 76]PIE: New page: PIE session: level1_PT2 (Feb 2, 2020, 4:10:07 AM)
+[2020.02.02-14.10.07:810][ 76]LogPlayLevel: Creating play world package: /Game/level1/UEDPIE_0_level1_PT2
+[2020.02.02-14.10.07:823][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012969s)
+[2020.02.02-14.10.07:824][ 76]LogAIModule: Creating AISystem for world level1_PT2
+[2020.02.02-14.10.07:824][ 76]LogPlayLevel: PIE: World Init took: (0.000867s)
+[2020.02.02-14.10.07:824][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1/level1_PT2.level1_PT2 to /Game/level1/UEDPIE_0_level1_PT2.level1_PT2 (0.014017s)
+[2020.02.02-14.10.07:879][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.02.02-14.10.07:949][ 76]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4208 (AB 120))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.02-14.10.07:967][ 76]LogInit: FAudioDevice initialized.
+[2020.02.02-14.10.08:001][ 76]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.02-14.10.08:010][ 76]LogWorld: Bringing World /Game/level1/UEDPIE_0_level1_PT2.level1_PT2 up for play (max tick rate 0) at 2020.02.02-09.10.08
+[2020.02.02-14.10.08:011][ 76]LogWorld: Bringing up level for play took: 0.008183
+[2020.02.02-14.10.08:027][ 76]LogBlueprintUserMessages: [BP_Robot_5] false
+[2020.02.02-14.10.08:028][ 76]PIE: Play in editor start time for /Game/level1/UEDPIE_0_level1_PT2 0.12
+[2020.02.02-14.10.08:028][ 76]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level1/level1_PT2.level1_PT2:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2' with GeneratedClass '/Game/level1/level1_PT2.level1_PT2_C' with ClassGeneratedBy '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2'
+[2020.02.02-14.10.17:075][159]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level1/level1_PT2.level1_PT2:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2' with GeneratedClass '/Game/level1/level1_PT2.level1_PT2_C' with ClassGeneratedBy '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2'
+[2020.02.02-14.10.17:075][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-14.10.17:113][159]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-14.10.17:113][159]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level1/level1_PT2.level1_PT2:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2' with GeneratedClass '/Game/level1/level1_PT2.level1_PT2_C' with ClassGeneratedBy '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2'
+[2020.02.02-14.10.17:169][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-14.10.17:175][159]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.02.02-14.10.17:214][160]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2020.02.02-14.10.18:054][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.10.18:126][243]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-14.10.18:153][243]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level1/level1_PT2.level1_PT2:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2' with GeneratedClass '/Game/level1/level1_PT2.level1_PT2_C' with ClassGeneratedBy '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2'
+[2020.02.02-14.10.18:153][243]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-14.10.18:153][243]PIE: New page: PIE session: level1_PT2 (Feb 2, 2020, 4:10:18 AM)
+[2020.02.02-14.10.18:153][243]LogPlayLevel: Creating play world package: /Game/level1/UEDPIE_0_level1_PT2
+[2020.02.02-14.10.18:164][243]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010839s)
+[2020.02.02-14.10.18:165][243]LogAIModule: Creating AISystem for world level1_PT2
+[2020.02.02-14.10.18:165][243]LogPlayLevel: PIE: World Init took: (0.000682s)
+[2020.02.02-14.10.18:165][243]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1/level1_PT2.level1_PT2 to /Game/level1/UEDPIE_0_level1_PT2.level1_PT2 (0.011671s)
+[2020.02.02-14.10.18:216][243]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.02.02-14.10.18:275][243]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4208 (AB 120))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.02-14.10.18:290][243]LogInit: FAudioDevice initialized.
+[2020.02.02-14.10.18:323][243]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.02-14.10.18:330][243]LogWorld: Bringing World /Game/level1/UEDPIE_0_level1_PT2.level1_PT2 up for play (max tick rate 0) at 2020.02.02-09.10.18
+[2020.02.02-14.10.18:332][243]LogWorld: Bringing up level for play took: 0.007540
+[2020.02.02-14.10.18:347][243]LogBlueprintUserMessages: [BP_Robot_5] false
+[2020.02.02-14.10.18:350][243]PIE: Play in editor start time for /Game/level1/UEDPIE_0_level1_PT2 0.441
+[2020.02.02-14.10.18:350][243]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level1/level1_PT2.level1_PT2:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2' with GeneratedClass '/Game/level1/level1_PT2.level1_PT2_C' with ClassGeneratedBy '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2'
+[2020.02.02-14.10.25:140][ 48]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level1/level1_PT2.level1_PT2:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2' with GeneratedClass '/Game/level1/level1_PT2.level1_PT2_C' with ClassGeneratedBy '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2'
+[2020.02.02-14.10.25:140][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-14.10.25:181][ 48]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-14.10.25:181][ 48]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level1/level1_PT2.level1_PT2:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2' with GeneratedClass '/Game/level1/level1_PT2.level1_PT2_C' with ClassGeneratedBy '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2'
+[2020.02.02-14.10.25:231][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-14.10.25:237][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.02.02-14.10.25:274][ 49]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2020.02.02-14.10.34:917][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.10.35:018][ 61]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-14.10.35:051][ 61]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level1/level1_PT2.level1_PT2:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2' with GeneratedClass '/Game/level1/level1_PT2.level1_PT2_C' with ClassGeneratedBy '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2'
+[2020.02.02-14.10.35:051][ 61]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-14.10.35:051][ 61]PIE: New page: PIE session: level1_PT2 (Feb 2, 2020, 4:10:35 AM)
+[2020.02.02-14.10.35:051][ 61]LogPlayLevel: Creating play world package: /Game/level1/UEDPIE_0_level1_PT2
+[2020.02.02-14.10.35:062][ 61]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010484s)
+[2020.02.02-14.10.35:062][ 61]LogAIModule: Creating AISystem for world level1_PT2
+[2020.02.02-14.10.35:063][ 61]LogPlayLevel: PIE: World Init took: (0.000644s)
+[2020.02.02-14.10.35:063][ 61]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1/level1_PT2.level1_PT2 to /Game/level1/UEDPIE_0_level1_PT2.level1_PT2 (0.011290s)
+[2020.02.02-14.10.35:115][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.02.02-14.10.35:176][ 61]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4208 (AB 120))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.02-14.10.35:191][ 61]LogInit: FAudioDevice initialized.
+[2020.02.02-14.10.35:222][ 61]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.02-14.10.35:226][ 61]LogWorld: Bringing World /Game/level1/UEDPIE_0_level1_PT2.level1_PT2 up for play (max tick rate 0) at 2020.02.02-09.10.35
+[2020.02.02-14.10.35:226][ 61]LogWorld: Bringing up level for play took: 0.003383
+[2020.02.02-14.10.35:241][ 61]LogBlueprintUserMessages: [BP_Robot_5] false
+[2020.02.02-14.10.35:243][ 61]PIE: Play in editor start time for /Game/level1/UEDPIE_0_level1_PT2 -0.665
+[2020.02.02-14.10.35:243][ 61]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level1/level1_PT2.level1_PT2:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2' with GeneratedClass '/Game/level1/level1_PT2.level1_PT2_C' with ClassGeneratedBy '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2'
+[2020.02.02-14.10.41:363][790]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level1/level1_PT2.level1_PT2:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2' with GeneratedClass '/Game/level1/level1_PT2.level1_PT2_C' with ClassGeneratedBy '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2'
+[2020.02.02-14.10.41:363][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-14.10.41:401][790]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-14.10.41:401][790]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level1/level1_PT2.level1_PT2:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2' with GeneratedClass '/Game/level1/level1_PT2.level1_PT2_C' with ClassGeneratedBy '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2'
+[2020.02.02-14.10.41:457][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-14.10.41:463][790]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.02.02-14.10.41:501][791]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2020.02.02-14.10.48:841][552]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.10.48:948][559]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-14.10.48:981][559]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level1/level1_PT2.level1_PT2:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2' with GeneratedClass '/Game/level1/level1_PT2.level1_PT2_C' with ClassGeneratedBy '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2'
+[2020.02.02-14.10.48:982][559]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-14.10.48:982][559]PIE: New page: PIE session: level1_PT2 (Feb 2, 2020, 4:10:48 AM)
+[2020.02.02-14.10.48:982][559]LogPlayLevel: Creating play world package: /Game/level1/UEDPIE_0_level1_PT2
+[2020.02.02-14.10.48:992][559]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010318s)
+[2020.02.02-14.10.48:993][559]LogAIModule: Creating AISystem for world level1_PT2
+[2020.02.02-14.10.48:993][559]LogPlayLevel: PIE: World Init took: (0.000619s)
+[2020.02.02-14.10.48:993][559]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1/level1_PT2.level1_PT2 to /Game/level1/UEDPIE_0_level1_PT2.level1_PT2 (0.011076s)
+[2020.02.02-14.10.49:044][559]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.02.02-14.10.49:106][559]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4208 (AB 120))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.02-14.10.49:121][559]LogInit: FAudioDevice initialized.
+[2020.02.02-14.10.49:148][559]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.02-14.10.49:152][559]LogWorld: Bringing World /Game/level1/UEDPIE_0_level1_PT2.level1_PT2 up for play (max tick rate 0) at 2020.02.02-09.10.49
+[2020.02.02-14.10.49:152][559]LogWorld: Bringing up level for play took: 0.003337
+[2020.02.02-14.10.49:165][559]LogBlueprintUserMessages: [BP_Robot_5] false
+[2020.02.02-14.10.49:166][559]PIE: Play in editor start time for /Game/level1/UEDPIE_0_level1_PT2 -0.742
+[2020.02.02-14.10.49:166][559]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level1/level1_PT2.level1_PT2:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2' with GeneratedClass '/Game/level1/level1_PT2.level1_PT2_C' with ClassGeneratedBy '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2'
+[2020.02.02-14.10.56:409][426]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level1/level1_PT2.level1_PT2:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2' with GeneratedClass '/Game/level1/level1_PT2.level1_PT2_C' with ClassGeneratedBy '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2'
+[2020.02.02-14.10.56:410][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-14.10.56:444][426]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-14.10.56:444][426]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level1/level1_PT2.level1_PT2:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2' with GeneratedClass '/Game/level1/level1_PT2.level1_PT2_C' with ClassGeneratedBy '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2'
+[2020.02.02-14.10.56:498][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-14.10.56:504][426]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.02.02-14.10.56:542][427]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2020.02.02-14.10.58:003][572]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.10.58:098][578]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-14.10.58:126][578]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level1/level1_PT2.level1_PT2:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2' with GeneratedClass '/Game/level1/level1_PT2.level1_PT2_C' with ClassGeneratedBy '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2'
+[2020.02.02-14.10.58:126][578]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-14.10.58:126][578]PIE: New page: PIE session: level1_PT2 (Feb 2, 2020, 4:10:58 AM)
+[2020.02.02-14.10.58:127][578]LogPlayLevel: Creating play world package: /Game/level1/UEDPIE_0_level1_PT2
+[2020.02.02-14.10.58:137][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010256s)
+[2020.02.02-14.10.58:137][578]LogAIModule: Creating AISystem for world level1_PT2
+[2020.02.02-14.10.58:138][578]LogPlayLevel: PIE: World Init took: (0.000645s)
+[2020.02.02-14.10.58:138][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1/level1_PT2.level1_PT2 to /Game/level1/UEDPIE_0_level1_PT2.level1_PT2 (0.011058s)
+[2020.02.02-14.10.58:188][578]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.02.02-14.10.58:247][578]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4208 (AB 120))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.02-14.10.58:261][578]LogInit: FAudioDevice initialized.
+[2020.02.02-14.10.58:290][578]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.02-14.10.58:294][578]LogWorld: Bringing World /Game/level1/UEDPIE_0_level1_PT2.level1_PT2 up for play (max tick rate 0) at 2020.02.02-09.10.58
+[2020.02.02-14.10.58:294][578]LogWorld: Bringing up level for play took: 0.003148
+[2020.02.02-14.10.58:307][578]LogBlueprintUserMessages: [BP_Robot_5] false
+[2020.02.02-14.10.58:308][578]PIE: Play in editor start time for /Game/level1/UEDPIE_0_level1_PT2 0.4
+[2020.02.02-14.10.58:308][578]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level1/level1_PT2.level1_PT2:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2' with GeneratedClass '/Game/level1/level1_PT2.level1_PT2_C' with ClassGeneratedBy '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2'
+[2020.02.02-14.11.04:035][263]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level1/level1_PT2.level1_PT2:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2' with GeneratedClass '/Game/level1/level1_PT2.level1_PT2_C' with ClassGeneratedBy '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2'
+[2020.02.02-14.11.04:036][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-14.11.04:075][263]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-14.11.04:076][263]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level1/level1_PT2.level1_PT2:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2' with GeneratedClass '/Game/level1/level1_PT2.level1_PT2_C' with ClassGeneratedBy '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2'
+[2020.02.02-14.11.04:129][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-14.11.04:135][263]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.02.02-14.11.04:173][264]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2020.02.02-14.11.12:390][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.02-14.11.12:450][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.02.02-14.11.12:791][ 75]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/level1_PT2EDBA1EE04A511AB8FAB9C3B507B0AE1A.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/level1/level1_PT2.umap'
+[2020.02.02-14.11.16:475][415]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (BG_0000s_0009_machine_Sprite1)
+[2020.02.02-14.11.16:538][415]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.02-14.11.16:604][416]LogEditorViewport: Clicking on Component (context menu): PaperSpriteComponent (RenderComponent)
+[2020.02.02-14.11.21:255][781]LogEditorViewport: Clicking on Actor (LMB): BP_Robot_C (BP_Robot)
+[2020.02.02-14.11.28:420][403]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.11.28:728][417]LogAIModule: Creating AISystem for world level1_PT3
+[2020.02.02-14.11.28:741][417]LogAssetEditorManager: Opening Asset editor for World /Game/level1/level1_PT3.level1_PT3
+[2020.02.02-14.11.28:797][417]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2020.02.02-14.11.28:799][417]Cmd: MAP LOAD FILE="../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/level1/level1_PT3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.02-14.11.28:799][417]LightingResults: New page: Lighting Build
+[2020.02.02-14.11.28:800][417]LoadErrors: New page: Loading map: level1_PT3.umap
+[2020.02.02-14.11.28:802][417]MapCheck: New page: Map Check
+[2020.02.02-14.11.28:802][417]LightingResults: New page: Lighting Build
+[2020.02.02-14.11.28:857][417]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2020.02.02-14.11.28:872][417]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.02-14.11.28:929][417]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.02.02-14.11.28:979][417]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.02-14.11.28:982][417]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.651ms to complete.
+[2020.02.02-14.11.28:982][417]LogFileHelpers: Loading map 'level1_PT3' took 0.184
+[2020.02.02-14.13.05:863][440]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.14.45:951][406]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/2DSideScrollerBP/Audio/SFX/KillRobots.KillRobots
+[2020.02.02-14.14.58:586][162]LogSlate: Window 'KillRobots' being destroyed
+[2020.02.02-14.14.58:604][162]LogSlate: Window 'KillRobots' being destroyed
+[2020.02.02-14.14.58:604][162]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.02-14.14.58:722][162]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.02-14.15.41:094][424]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave BossTheme...
+[2020.02.02-14.15.43:965][424]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 25328664 while cooking SoundWave /Game/2DSideScrollerBP/Audio/OST/BossTheme.BossTheme.
+[2020.02.02-14.15.47:724][687]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave MainTheme...
+[2020.02.02-14.15.49:041][687]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 11864596 while cooking SoundWave /Game/2DSideScrollerBP/Audio/OST/MainTheme.MainTheme.
+[2020.02.02-14.16.13:900][732]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Evil_Theme_Song...
+[2020.02.02-14.16.14:183][732]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 2580952 while cooking SoundWave /Game/2DSideScrollerBP/Audio/OST/Evil_Theme_Song.Evil_Theme_Song.
+[2020.02.02-14.16.37:834][636]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.16.39:139][722]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave RepairTheme...
+[2020.02.02-14.16.42:619][722]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 30537056 while cooking SoundWave /Game/2DSideScrollerBP/Audio/OST/RepairTheme.RepairTheme.
+[2020.02.02-14.16.44:735][932]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2020.02.02-14.16.45:089][932]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/level1_PT30EF0050B4FE75C86069C7AA67E3A6561.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/level1/level1_PT3.umap'
+[2020.02.02-14.22.22:354][838]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2020.02.02-14.22.22:697][838]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/level1_PT3070890C543DC0F84284CA0AF16331163.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/level1/level1_PT3.umap'
+[2020.02.02-14.22.26:296][ 63]LogAIModule: Creating AISystem for world level1_PT1
+[2020.02.02-14.22.26:302][ 63]LogAssetEditorManager: Opening Asset editor for World /Game/level1/level1_PT1.level1_PT1
+[2020.02.02-14.22.26:355][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2020.02.02-14.22.27:864][ 63]LogSlate: Window 'Save Content' being destroyed
+[2020.02.02-14.22.31:042][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.02.02-14.22.31:238][257]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/2D_Roboi9AD4B0144D616028E47C85A10B325CF2.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Blueprints/2D_Roboi.uasset'
+[2020.02.02-14.22.32:550][348]LogAssetEditorManager: Opening Asset editor for World /Game/level1/level1_PT1.level1_PT1
+[2020.02.02-14.22.32:595][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.02.02-14.22.32:597][348]Cmd: MAP LOAD FILE="../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/level1/level1_PT1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.02-14.22.32:597][348]LightingResults: New page: Lighting Build
+[2020.02.02-14.22.32:598][348]LoadErrors: New page: Loading map: level1_PT1.umap
+[2020.02.02-14.22.32:600][348]MapCheck: New page: Map Check
+[2020.02.02-14.22.32:600][348]LightingResults: New page: Lighting Build
+[2020.02.02-14.22.32:651][348]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2020.02.02-14.22.32:658][348]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.02-14.22.32:712][348]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.02.02-14.22.32:764][348]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.02-14.22.32:766][348]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.147ms to complete.
+[2020.02.02-14.22.32:766][348]LogFileHelpers: Loading map 'level1_PT1' took 0.171
+[2020.02.02-14.22.39:604][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.22.52:341][426]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.02-14.22.56:112][854]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.02-14.23.01:339][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.23.01:442][337]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-14.23.01:475][337]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level1/level1_PT1.level1_PT1:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT1.level1_PT1:PersistentLevel.level1_PT1' with GeneratedClass '/Game/level1/level1_PT1.level1_PT1_C' with ClassGeneratedBy '/Game/level1/level1_PT1.level1_PT1:PersistentLevel.level1_PT1'
+[2020.02.02-14.23.01:475][337]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-14.23.01:475][337]PIE: New page: PIE session: level1_PT1 (Feb 2, 2020, 4:23:01 AM)
+[2020.02.02-14.23.01:475][337]LogPlayLevel: Creating play world package: /Game/level1/UEDPIE_0_level1_PT1
+[2020.02.02-14.23.01:485][337]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009660s)
+[2020.02.02-14.23.01:486][337]LogAIModule: Creating AISystem for world level1_PT1
+[2020.02.02-14.23.01:486][337]LogPlayLevel: PIE: World Init took: (0.000684s)
+[2020.02.02-14.23.01:486][337]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1/level1_PT1.level1_PT1 to /Game/level1/UEDPIE_0_level1_PT1.level1_PT1 (0.010500s)
+[2020.02.02-14.23.01:536][337]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2020.02.02-14.23.01:597][337]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4208 (AB 120))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.02-14.23.01:612][337]LogInit: FAudioDevice initialized.
+[2020.02.02-14.23.01:644][337]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.02-14.23.01:647][337]LogWorld: Bringing World /Game/level1/UEDPIE_0_level1_PT1.level1_PT1 up for play (max tick rate 0) at 2020.02.02-09.23.01
+[2020.02.02-14.23.01:648][337]LogWorld: Bringing up level for play took: 0.002586
+[2020.02.02-14.23.01:661][337]PIE: Play in editor start time for /Game/level1/UEDPIE_0_level1_PT1 -0.247
+[2020.02.02-14.23.01:661][337]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level1/level1_PT1.level1_PT1:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT1.level1_PT1:PersistentLevel.level1_PT1' with GeneratedClass '/Game/level1/level1_PT1.level1_PT1_C' with ClassGeneratedBy '/Game/level1/level1_PT1.level1_PT1:PersistentLevel.level1_PT1'
+[2020.02.02-14.23.30:836][836]LogNet: Browse: /Game/level1/level1_PT2
+[2020.02.02-14.23.30:836][836]LogLoad: LoadMap: /Game/level1/level1_PT2
+[2020.02.02-14.23.30:887][836]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.02.02-14.23.30:948][836]LogAIModule: Creating AISystem for world level1_PT2
+[2020.02.02-14.23.30:948][836]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.02-14.23.30:958][836]LogWorld: Bringing World /Game/level1/UEDPIE_0_level1_PT2.level1_PT2 up for play (max tick rate 0) at 2020.02.02-09.23.30
+[2020.02.02-14.23.30:958][836]LogWorld: Bringing up level for play took: 0.008953
+[2020.02.02-14.23.30:959][836]LogBlueprintUserMessages: [BP_Robot_5] false
+[2020.02.02-14.23.30:960][836]LogLoad: Took 0.124056 seconds to LoadMap(/Game/level1/level1_PT2)
+[2020.02.02-14.23.33:786][174]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level1/level1_PT1.level1_PT1:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT1.level1_PT1:PersistentLevel.level1_PT1' with GeneratedClass '/Game/level1/level1_PT1.level1_PT1_C' with ClassGeneratedBy '/Game/level1/level1_PT1.level1_PT1:PersistentLevel.level1_PT1'
+[2020.02.02-14.23.33:786][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-14.23.33:815][174]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-14.23.33:815][174]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level1/level1_PT1.level1_PT1:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT1.level1_PT1:PersistentLevel.level1_PT1' with GeneratedClass '/Game/level1/level1_PT1.level1_PT1_C' with ClassGeneratedBy '/Game/level1/level1_PT1.level1_PT1:PersistentLevel.level1_PT1'
+[2020.02.02-14.23.33:866][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-14.23.33:872][174]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.02.02-14.23.33:906][175]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2020.02.02-14.23.36:250][444]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.02-14.23.36:303][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.02.02-14.23.36:650][444]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/level1_PT1894B458D4BBA385B821727A6275EB4E1.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/level1/level1_PT1.umap'
+[2020.02.02-14.23.39:769][791]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/MainTheme3D39ED574208124438DE6BB9F0CB03CC.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Audio/OST/MainTheme.uasset'
+[2020.02.02-14.23.43:663][197]LogAIModule: Creating AISystem for world level1_PT2
+[2020.02.02-14.23.43:674][197]LogAssetEditorManager: Opening Asset editor for World /Game/level1/level1_PT2.level1_PT2
+[2020.02.02-14.23.43:724][197]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2020.02.02-14.23.43:725][197]Cmd: MAP LOAD FILE="../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/level1/level1_PT2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.02-14.23.43:725][197]LightingResults: New page: Lighting Build
+[2020.02.02-14.23.43:726][197]LoadErrors: New page: Loading map: level1_PT2.umap
+[2020.02.02-14.23.43:727][197]MapCheck: New page: Map Check
+[2020.02.02-14.23.43:727][197]LightingResults: New page: Lighting Build
+[2020.02.02-14.23.43:779][197]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2020.02.02-14.23.43:792][197]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.02-14.23.43:846][197]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.02.02-14.23.43:897][197]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.02-14.23.43:899][197]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.768ms to complete.
+[2020.02.02-14.23.43:899][197]LogFileHelpers: Loading map 'level1_PT2' took 0.174
+[2020.02.02-14.24.02:440][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.02.02-14.24.02:780][868]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/level1_PT23A37313A48BF244AB1E8C6B737CDFF51.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/level1/level1_PT2.umap'
+[2020.02.02-14.24.45:394][942]LogAIModule: Creating AISystem for world level1_PT3
+[2020.02.02-14.24.45:406][942]LogAssetEditorManager: Opening Asset editor for World /Game/level1/level1_PT3.level1_PT3
+[2020.02.02-14.24.45:456][942]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2020.02.02-14.24.45:458][942]Cmd: MAP LOAD FILE="../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/level1/level1_PT3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.02-14.24.45:458][942]LightingResults: New page: Lighting Build
+[2020.02.02-14.24.45:459][942]LoadErrors: New page: Loading map: level1_PT3.umap
+[2020.02.02-14.24.45:461][942]MapCheck: New page: Map Check
+[2020.02.02-14.24.45:461][942]LightingResults: New page: Lighting Build
+[2020.02.02-14.24.45:514][942]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.02.02-14.24.45:529][942]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.02-14.24.45:576][942]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.02.02-14.24.45:628][942]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.02-14.24.45:630][942]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.616ms to complete.
+[2020.02.02-14.24.45:630][942]LogFileHelpers: Loading map 'level1_PT3' took 0.173
+[2020.02.02-14.24.48:129][156]LogAIModule: Creating AISystem for world level1_PT2
+[2020.02.02-14.24.48:140][156]LogAssetEditorManager: Opening Asset editor for World /Game/level1/level1_PT2.level1_PT2
+[2020.02.02-14.24.48:190][156]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2020.02.02-14.24.48:191][156]Cmd: MAP LOAD FILE="../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/level1/level1_PT2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.02-14.24.48:191][156]LightingResults: New page: Lighting Build
+[2020.02.02-14.24.48:192][156]LoadErrors: New page: Loading map: level1_PT2.umap
+[2020.02.02-14.24.48:194][156]MapCheck: New page: Map Check
+[2020.02.02-14.24.48:194][156]LightingResults: New page: Lighting Build
+[2020.02.02-14.24.48:245][156]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2020.02.02-14.24.48:259][156]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.02-14.24.48:312][156]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.02.02-14.24.48:362][156]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.02-14.24.48:365][156]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.559ms to complete.
+[2020.02.02-14.24.48:365][156]LogFileHelpers: Loading map 'level1_PT2' took 0.175
+[2020.02.02-14.25.04:828][620]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.02-14.25.31:779][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.25.37:366][551]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.02-14.25.38:752][693]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BG_0000s_0000s_0002_floor-MID_Sprite4)
+[2020.02.02-14.25.40:176][835]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (MainTheme)
+[2020.02.02-14.25.42:208][ 54]Cmd: DELETE
+[2020.02.02-14.25.42:208][ 54]Cmd: ACTOR DELETE
+[2020.02.02-14.25.42:211][ 54]LogEditorActor: Deleted Actor: AmbientSound
+[2020.02.02-14.25.42:259][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.02.02-14.25.42:259][ 54]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2020.02.02-14.25.45:373][379]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.26.01:941][825]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.02.02-14.26.02:284][825]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/level1_PT23FEEA4664F22BFCEE49166B8815ADC8D.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/level1/level1_PT2.umap'
+[2020.02.02-14.26.07:037][247]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2020.02.02-14.26.07:061][247]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/MainTheme_Cue124135E24D0468B7F1BCE1BC78C4423F.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Audio/OST/MainTheme_Cue.uasset'
+[2020.02.02-14.26.07:076][247]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/RepairTheme_CueAC0451BB4307B86710779280EF790B3D.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Audio/OST/RepairTheme_Cue.uasset'
+[2020.02.02-14.26.07:090][247]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Evil_Theme_Song_Cue735ADFD44AAB101E44DCA0ADFAC7F2CF.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Audio/OST/Evil_Theme_Song_Cue.uasset'
+[2020.02.02-14.26.07:104][247]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/BossTheme_CueBB9F6230440BA371A1BB67AAD431C2B7.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Audio/OST/BossTheme_Cue.uasset'
+[2020.02.02-14.26.10:867][596]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/2DSideScrollerBP/Audio/OST/RepairTheme_Cue.RepairTheme_Cue
+[2020.02.02-14.26.15:254][935]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/RepairTheme_CueFBAA3D464F6084644589BDBDE6CC9EDC.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Audio/OST/RepairTheme_Cue.uasset'
+[2020.02.02-14.26.17:052][ 84]LogSlate: Window 'RepairTheme_Cue' being destroyed
+[2020.02.02-14.26.17:068][ 84]LogSlate: Window 'RepairTheme_Cue' being destroyed
+[2020.02.02-14.26.18:182][190]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/2DSideScrollerBP/Audio/OST/BossTheme_Cue.BossTheme_Cue
+[2020.02.02-14.26.21:978][483]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/BossTheme_Cue65EA78954EC1229A026E7D855B3C3F00.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Audio/OST/BossTheme_Cue.uasset'
+[2020.02.02-14.26.23:227][584]LogSlate: Window 'BossTheme_Cue' being destroyed
+[2020.02.02-14.26.23:242][584]LogSlate: Window 'BossTheme_Cue' being destroyed
+[2020.02.02-14.26.24:838][750]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/2DSideScrollerBP/Audio/OST/MainTheme_Cue.MainTheme_Cue
+[2020.02.02-14.26.28:289][ 15]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/MainTheme_Cue3EEBF4D6472161AAB0DECEBEAB462D8F.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Audio/OST/MainTheme_Cue.uasset'
+[2020.02.02-14.26.29:560][120]LogSlate: Window 'MainTheme_Cue' being destroyed
+[2020.02.02-14.26.29:576][120]LogSlate: Window 'MainTheme_Cue' being destroyed
+[2020.02.02-14.26.30:843][236]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/2DSideScrollerBP/Audio/OST/Evil_Theme_Song_Cue.Evil_Theme_Song_Cue
+[2020.02.02-14.26.34:261][500]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Evil_Theme_Song_Cue843004A04FF9C6B19E0420A777B26601.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Audio/OST/Evil_Theme_Song_Cue.uasset'
+[2020.02.02-14.26.35:842][630]LogSlate: Window 'Evil_Theme_Song_Cue' being destroyed
+[2020.02.02-14.26.35:857][630]LogSlate: Window 'Evil_Theme_Song_Cue' being destroyed
+[2020.02.02-14.26.36:773][721]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-14.26.36:801][721]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level1/level1_PT2.level1_PT2:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2' with GeneratedClass '/Game/level1/level1_PT2.level1_PT2_C' with ClassGeneratedBy '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2'
+[2020.02.02-14.26.36:801][721]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-14.26.36:801][721]PIE: New page: PIE session: level1_PT2 (Feb 2, 2020, 4:26:36 AM)
+[2020.02.02-14.26.36:801][721]LogPlayLevel: Creating play world package: /Game/level1/UEDPIE_0_level1_PT2
+[2020.02.02-14.26.36:812][721]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010479s)
+[2020.02.02-14.26.36:812][721]LogAIModule: Creating AISystem for world level1_PT2
+[2020.02.02-14.26.36:812][721]LogPlayLevel: PIE: World Init took: (0.000692s)
+[2020.02.02-14.26.36:813][721]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1/level1_PT2.level1_PT2 to /Game/level1/UEDPIE_0_level1_PT2.level1_PT2 (0.011333s)
+[2020.02.02-14.26.36:861][721]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.02.02-14.26.36:923][721]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4208 (AB 120))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.02-14.26.36:938][721]LogInit: FAudioDevice initialized.
+[2020.02.02-14.26.36:971][721]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.02-14.26.36:978][721]LogWorld: Bringing World /Game/level1/UEDPIE_0_level1_PT2.level1_PT2 up for play (max tick rate 0) at 2020.02.02-09.26.36
+[2020.02.02-14.26.36:979][721]LogWorld: Bringing up level for play took: 0.006933
+[2020.02.02-14.26.36:995][721]LogBlueprintUserMessages: [BP_Robot_5] false
+[2020.02.02-14.26.36:997][721]PIE: Play in editor start time for /Game/level1/UEDPIE_0_level1_PT2 1.089
+[2020.02.02-14.26.36:997][721]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level1/level1_PT2.level1_PT2:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2' with GeneratedClass '/Game/level1/level1_PT2.level1_PT2_C' with ClassGeneratedBy '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2'
+[2020.02.02-14.26.44:530][617]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level1/level1_PT2.level1_PT2:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2' with GeneratedClass '/Game/level1/level1_PT2.level1_PT2_C' with ClassGeneratedBy '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2'
+[2020.02.02-14.26.44:531][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-14.26.44:559][617]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-14.26.44:560][617]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level1/level1_PT2.level1_PT2:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2' with GeneratedClass '/Game/level1/level1_PT2.level1_PT2_C' with ClassGeneratedBy '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2'
+[2020.02.02-14.26.44:613][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-14.26.44:619][617]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.02.02-14.26.44:656][618]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2020.02.02-14.27.23:081][430]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.27.23:262][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.02.02-14.27.23:599][437]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/level1_PT233C31FDF4D92F3F522F1F09144CAEC10.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/level1/level1_PT2.umap'
+[2020.02.02-14.27.38:546][775]LogAIModule: Creating AISystem for world level1_PT1
+[2020.02.02-14.27.38:553][775]LogAssetEditorManager: Opening Asset editor for World /Game/level1/level1_PT1.level1_PT1
+[2020.02.02-14.27.38:607][775]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2020.02.02-14.27.38:609][775]Cmd: MAP LOAD FILE="../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/level1/level1_PT1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.02-14.27.38:609][775]LightingResults: New page: Lighting Build
+[2020.02.02-14.27.38:609][775]LoadErrors: New page: Loading map: level1_PT1.umap
+[2020.02.02-14.27.38:611][775]MapCheck: New page: Map Check
+[2020.02.02-14.27.38:611][775]LightingResults: New page: Lighting Build
+[2020.02.02-14.27.38:666][775]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2020.02.02-14.27.38:673][775]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.02-14.27.38:724][775]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.02.02-14.27.38:775][775]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.02-14.27.38:777][775]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.406ms to complete.
+[2020.02.02-14.27.38:777][775]LogFileHelpers: Loading map 'level1_PT1' took 0.170
+[2020.02.02-14.27.41:671][ 93]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BG_0000s_0000s_0002_floor-MID_Sprite5)
+[2020.02.02-14.27.42:600][188]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox3)
+[2020.02.02-14.27.43:606][294]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (MainTheme)
+[2020.02.02-14.27.44:522][391]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.02-14.27.46:684][589]Cmd: DELETE
+[2020.02.02-14.27.46:685][589]Cmd: ACTOR DELETE
+[2020.02.02-14.27.46:688][589]LogEditorActor: Deleted Actor: AmbientSound
+[2020.02.02-14.27.46:739][589]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2020.02.02-14.27.46:739][589]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2020.02.02-14.27.49:885][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.28.03:460][368]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.02-14.28.05:665][559]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.02-14.28.05:721][559]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.02.02-14.28.06:079][559]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/level1_PT14369EEAE4C99EE2A7D90F081B4B8D86A.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/level1/level1_PT1.umap'
+[2020.02.02-14.28.08:905][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.28.12:427][193]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-14.28.12:454][193]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level1/level1_PT1.level1_PT1:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT1.level1_PT1:PersistentLevel.level1_PT1' with GeneratedClass '/Game/level1/level1_PT1.level1_PT1_C' with ClassGeneratedBy '/Game/level1/level1_PT1.level1_PT1:PersistentLevel.level1_PT1'
+[2020.02.02-14.28.12:454][193]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-14.28.12:454][193]PIE: New page: PIE session: level1_PT1 (Feb 2, 2020, 4:28:12 AM)
+[2020.02.02-14.28.12:454][193]LogPlayLevel: Creating play world package: /Game/level1/UEDPIE_0_level1_PT1
+[2020.02.02-14.28.12:464][193]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009395s)
+[2020.02.02-14.28.12:464][193]LogAIModule: Creating AISystem for world level1_PT1
+[2020.02.02-14.28.12:464][193]LogPlayLevel: PIE: World Init took: (0.000699s)
+[2020.02.02-14.28.12:464][193]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1/level1_PT1.level1_PT1 to /Game/level1/UEDPIE_0_level1_PT1.level1_PT1 (0.010234s)
+[2020.02.02-14.28.12:513][193]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2020.02.02-14.28.12:575][193]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4208 (AB 120))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.02-14.28.12:589][193]LogInit: FAudioDevice initialized.
+[2020.02.02-14.28.12:623][193]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.02-14.28.12:626][193]LogWorld: Bringing World /Game/level1/UEDPIE_0_level1_PT1.level1_PT1 up for play (max tick rate 0) at 2020.02.02-09.28.12
+[2020.02.02-14.28.12:626][193]LogWorld: Bringing up level for play took: 0.002373
+[2020.02.02-14.28.12:640][193]PIE: Play in editor start time for /Game/level1/UEDPIE_0_level1_PT1 0.732
+[2020.02.02-14.28.12:640][193]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level1/level1_PT1.level1_PT1:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT1.level1_PT1:PersistentLevel.level1_PT1' with GeneratedClass '/Game/level1/level1_PT1.level1_PT1_C' with ClassGeneratedBy '/Game/level1/level1_PT1.level1_PT1:PersistentLevel.level1_PT1'
+[2020.02.02-14.28.50:420][720]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level1/level1_PT1.level1_PT1:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT1.level1_PT1:PersistentLevel.level1_PT1' with GeneratedClass '/Game/level1/level1_PT1.level1_PT1_C' with ClassGeneratedBy '/Game/level1/level1_PT1.level1_PT1:PersistentLevel.level1_PT1'
+[2020.02.02-14.28.50:420][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-14.28.50:451][720]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-14.28.50:452][720]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level1/level1_PT1.level1_PT1:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT1.level1_PT1:PersistentLevel.level1_PT1' with GeneratedClass '/Game/level1/level1_PT1.level1_PT1_C' with ClassGeneratedBy '/Game/level1/level1_PT1.level1_PT1:PersistentLevel.level1_PT1'
+[2020.02.02-14.28.50:506][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-14.28.50:512][720]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2020.02.02-14.28.50:544][721]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2020.02.02-14.28.51:234][785]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.28.51:398][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.02.02-14.28.51:740][792]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/level1_PT12DBE38794D547D4FE0A74EAF69BA54DF.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/level1/level1_PT1.umap'
+[2020.02.02-14.28.52:314][848]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (BG1_Sprite)
+[2020.02.02-14.28.52:378][848]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.02-14.28.56:298][215]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.02-14.28.56:358][215]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2020.02.02-14.28.56:696][215]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/level1_PT1C37A11C14F659FF57A67B5BCF44321D9.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/level1/level1_PT1.umap'
+[2020.02.02-14.29.16:550][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.29.18:209][299]LogAIModule: Creating AISystem for world level1_PT2
+[2020.02.02-14.29.18:221][299]LogAssetEditorManager: Opening Asset editor for World /Game/level1/level1_PT2.level1_PT2
+[2020.02.02-14.29.18:274][299]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2020.02.02-14.29.18:275][299]Cmd: MAP LOAD FILE="../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/level1/level1_PT2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.02-14.29.18:275][299]LightingResults: New page: Lighting Build
+[2020.02.02-14.29.18:276][299]LoadErrors: New page: Loading map: level1_PT2.umap
+[2020.02.02-14.29.18:278][299]MapCheck: New page: Map Check
+[2020.02.02-14.29.18:278][299]LightingResults: New page: Lighting Build
+[2020.02.02-14.29.18:332][299]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2020.02.02-14.29.18:345][299]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.02-14.29.18:395][299]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.02.02-14.29.18:445][299]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.02-14.29.18:447][299]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.376ms to complete.
+[2020.02.02-14.29.18:447][299]LogFileHelpers: Loading map 'level1_PT2' took 0.173
+[2020.02.02-14.29.22:167][636]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.29.31:211][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.29.34:500][613]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.29.37:280][811]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.29.51:012][144]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.02-14.29.54:839][478]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.02-14.29.56:596][621]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BG_0000s_0000s_0002_floor-MID_Sprite5)
+[2020.02.02-14.29.57:568][701]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (MainTheme_Cue)
+[2020.02.02-14.30.17:363][571]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (Evil_Theme_Song_Cue)
+[2020.02.02-14.30.20:679][837]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.30.21:993][959]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (RepairTheme_Cue)
+[2020.02.02-14.30.23:784][103]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.30.25:950][301]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.02.02-14.30.26:294][301]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/level1_PT24F70400D410C5635CBEB91BCE32BAE05.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/level1/level1_PT2.umap'
+[2020.02.02-14.30.27:666][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.30.27:857][417]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2020.02.02-14.30.28:203][417]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/level1_PT2E9C94F6647583160714511848E002866.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/level1/level1_PT2.umap'
+[2020.02.02-14.30.31:973][768]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.30.32:077][775]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-14.30.32:104][775]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level1/level1_PT2.level1_PT2:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2' with GeneratedClass '/Game/level1/level1_PT2.level1_PT2_C' with ClassGeneratedBy '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2'
+[2020.02.02-14.30.32:105][775]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-14.30.32:105][775]PIE: New page: PIE session: level1_PT2 (Feb 2, 2020, 4:30:32 AM)
+[2020.02.02-14.30.32:105][775]LogPlayLevel: Creating play world package: /Game/level1/UEDPIE_0_level1_PT2
+[2020.02.02-14.30.32:116][775]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010738s)
+[2020.02.02-14.30.32:117][775]LogAIModule: Creating AISystem for world level1_PT2
+[2020.02.02-14.30.32:117][775]LogPlayLevel: PIE: World Init took: (0.000790s)
+[2020.02.02-14.30.32:117][775]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1/level1_PT2.level1_PT2 to /Game/level1/UEDPIE_0_level1_PT2.level1_PT2 (0.011668s)
+[2020.02.02-14.30.32:165][775]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.02.02-14.30.32:226][775]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4208 (AB 120))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.02-14.30.32:242][775]LogInit: FAudioDevice initialized.
+[2020.02.02-14.30.32:271][775]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.02-14.30.32:274][775]LogWorld: Bringing World /Game/level1/UEDPIE_0_level1_PT2.level1_PT2 up for play (max tick rate 0) at 2020.02.02-09.30.32
+[2020.02.02-14.30.32:275][775]LogWorld: Bringing up level for play took: 0.003136
+[2020.02.02-14.30.32:288][775]LogBlueprintUserMessages: [BP_Robot_5] false
+[2020.02.02-14.30.32:289][775]PIE: Play in editor start time for /Game/level1/UEDPIE_0_level1_PT2 0.381
+[2020.02.02-14.30.32:289][775]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level1/level1_PT2.level1_PT2:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2' with GeneratedClass '/Game/level1/level1_PT2.level1_PT2_C' with ClassGeneratedBy '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2'
+[2020.02.02-14.30.38:597][530]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level1/level1_PT2.level1_PT2:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2' with GeneratedClass '/Game/level1/level1_PT2.level1_PT2_C' with ClassGeneratedBy '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2'
+[2020.02.02-14.30.38:597][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-14.30.38:630][530]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-14.30.38:631][530]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level1/level1_PT2.level1_PT2:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2' with GeneratedClass '/Game/level1/level1_PT2.level1_PT2_C' with ClassGeneratedBy '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2'
+[2020.02.02-14.30.38:684][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-14.30.38:690][530]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.02.02-14.30.38:728][531]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2020.02.02-14.35.54:594][327]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.02-14.36.01:848][841]LogEditorViewport: Clicking on Actor (LMB): 2D_Roboi_C (2D_Roboi)
+[2020.02.02-14.36.04:581][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.36.04:729][ 84]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2D_Roboi.2D_Roboi
+[2020.02.02-14.40.34:629][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.02.02-14.40.34:629][ 54]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/level1/level1_PT2' took 0.051
+[2020.02.02-14.40.34:631][ 54]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/2D_Roboi] ([1] browsable assets)...
+[2020.02.02-14.40.34:631][ 54]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/2D_Roboi]
+[2020.02.02-14.40.34:901][ 54]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/2D_Roboi_Auto3729A2A7C47ECFBB1DC7FA7886A2A74EF.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2D_Roboi_Auto3.uasset'
+[2020.02.02-14.40.34:903][ 54]LogFileHelpers: Auto-saving content packages took 0.273
+[2020.02.02-15.35.37:275][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.02.02-15.35.37:671][ 32]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/level1_PT24DD4BEB6432D8B6947473CA8A1410B58.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/level1/level1_PT2.umap'
+[2020.02.02-15.35.40:765][211]BlueprintLog: New page: Compile 2D_Roboi
+[2020.02.02-15.35.41:136][211]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
