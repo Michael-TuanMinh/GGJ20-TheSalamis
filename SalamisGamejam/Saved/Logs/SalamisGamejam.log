@@ -2027,3 +2027,16 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.02-03.57.05:076][993]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
 [2020.02.02-03.57.06:499][ 73]LogEditorViewport: Clicking on Actor (LMB): Key_C (Key2)
 [2020.02.02-03.57.08:148][166]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.59.00:443][791]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.59.14:628][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.02.02-03.59.19:602][920]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.02-03.59.19:747][920]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.02.02-03.59.19:805][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.02.02-03.59.19:861][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.02.02-03.59.19:916][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.02.02-03.59.19:968][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.02.02-03.59.20:016][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.02.02-03.59.20:069][920]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.02.02-03.59.20:113][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.02.02-03.59.38:250][143]LogSlate: Window 'Message' being destroyed
+[2020.02.02-04.00.30:339][615]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (52.067 sec). This should never happen. Something is wrong with the timer delegate!
