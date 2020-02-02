@@ -1675,3 +1675,223 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.02-03.24.48:559][ 10]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/level1_PT16DAC483241273A3CD16DD6AAD29E9640.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Maps/level1_PT1.umap'
 [2020.02.02-03.24.48:608][ 10]LogFileHelpers: Saving map 'level1_PT1' took 0.362
 [2020.02.02-03.24.53:975][424]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2020.02.02-03.27.40:252][ 60]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/Game_Jam_1/health_bar.png)
+[2020.02.02-03.27.40:315][ 60]LogTexture: Display: Building textures: health_bar (AutoDXT, 2100X1500)
+[2020.02.02-03.27.47:570][333]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/Game_Jam_1/title-button/Quit_button.png)
+[2020.02.02-03.27.47:629][333]LogTexture: Display: Building textures: Quit_button (AutoDXT, 2100X1500)
+[2020.02.02-03.27.48:175][333]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/Game_Jam_1/title-button/Start_button.png)
+[2020.02.02-03.27.48:238][333]LogTexture: Display: Building textures: Start_button (AutoDXT, 2100X1500)
+[2020.02.02-03.27.58:819][739]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/Game_Jam_1/menu/pause_just_menu.png)
+[2020.02.02-03.27.58:870][739]LogTexture: Display: Building textures: pause_just_menu (AutoDXT, 2100X1500)
+[2020.02.02-03.27.59:145][739]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/Game_Jam_1/menu/pause_menu.png)
+[2020.02.02-03.27.59:203][739]LogTexture: Display: Building textures: pause_menu (AutoDXT, 2100X1500)
+[2020.02.02-03.27.59:561][739]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/Game_Jam_1/menu/pause_menu_close.png)
+[2020.02.02-03.27.59:604][739]LogTexture: Display: Building textures: pause_menu_close (AutoDXT, 2100X1500)
+[2020.02.02-03.27.59:829][739]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/Game_Jam_1/menu/pause_menu_controls.png)
+[2020.02.02-03.28.00:087][739]LogTexture: Display: Building textures: pause_menu_controls (BGRA8, 5000X3571)
+[2020.02.02-03.28.00:495][739]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/Game_Jam_1/menu/pause_menu_quit_2.png)
+[2020.02.02-03.28.00:732][739]LogTexture: Display: Building textures: pause_menu_quit_2 (BGRA8, 5000X3571)
+[2020.02.02-03.28.13:247][ 55]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/Game_Jam_1/Control_butt/button_down.png)
+[2020.02.02-03.28.13:299][ 55]LogTexture: Display: Building textures: button_down (AutoDXT, 2100X1500)
+[2020.02.02-03.28.13:537][ 55]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/Game_Jam_1/Control_butt/button_up.png)
+[2020.02.02-03.28.13:594][ 55]LogTexture: Display: Building textures: button_up (AutoDXT, 2100X1500)
+[2020.02.02-03.28.13:787][ 55]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/Game_Jam_1/Control_butt/Controls_exit_button.png)
+[2020.02.02-03.28.13:830][ 55]LogTexture: Display: Building textures: Controls_exit_button (AutoDXT, 2100X1500)
+[2020.02.02-03.28.13:966][ 55]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/Game_Jam_1/Control_butt/Controls_full.png)
+[2020.02.02-03.28.14:016][ 55]LogTexture: Display: Building textures: Controls_full (AutoDXT, 2100X1500)
+[2020.02.02-03.28.14:531][ 55]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/Game_Jam_1/Control_butt/Controls_jump.png)
+[2020.02.02-03.28.14:575][ 55]LogTexture: Display: Building textures: Controls_jump (AutoDXT, 2100X1500)
+[2020.02.02-03.28.14:758][ 55]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/Game_Jam_1/Control_butt/Controls_kill_revive.png)
+[2020.02.02-03.28.14:802][ 55]LogTexture: Display: Building textures: Controls_kill_revive (AutoDXT, 2100X1500)
+[2020.02.02-03.28.15:015][ 55]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/Game_Jam_1/Control_butt/Controls_push.png)
+[2020.02.02-03.28.15:060][ 55]LogTexture: Display: Building textures: Controls_push (AutoDXT, 2100X1500)
+[2020.02.02-03.28.15:285][ 55]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/Game_Jam_1/Control_butt/Controls_walk.png)
+[2020.02.02-03.28.15:331][ 55]LogTexture: Display: Building textures: Controls_walk (AutoDXT, 2100X1500)
+[2020.02.02-03.28.25:453][897]LogTexture: Display: Building textures: button_down (BGRA8, 2100X1500)
+[2020.02.02-03.28.25:515][897]LogTexture: Display: Building textures: button_up (BGRA8, 2100X1500)
+[2020.02.02-03.28.25:570][897]LogTexture: Display: Building textures: Controls_exit_button (BGRA8, 2100X1500)
+[2020.02.02-03.28.25:614][897]LogTexture: Display: Building textures: Controls_full (BGRA8, 2100X1500)
+[2020.02.02-03.28.25:662][897]LogTexture: Display: Building textures: Controls_jump (BGRA8, 2100X1500)
+[2020.02.02-03.28.25:699][897]LogTexture: Display: Building textures: Controls_kill_revive (BGRA8, 2100X1500)
+[2020.02.02-03.28.25:735][897]LogTexture: Display: Building textures: Controls_push (BGRA8, 2100X1500)
+[2020.02.02-03.28.25:772][897]LogTexture: Display: Building textures: Controls_walk (BGRA8, 2100X1500)
+[2020.02.02-03.28.25:810][897]LogTexture: Display: Building textures: health_bar (BGRA8, 2100X1500)
+[2020.02.02-03.28.25:853][897]LogTexture: Display: Building textures: pause_just_menu (BGRA8, 2100X1500)
+[2020.02.02-03.28.25:898][897]LogTexture: Display: Building textures: pause_menu (BGRA8, 2100X1500)
+[2020.02.02-03.28.25:944][897]LogTexture: Display: Building textures: pause_menu_close (BGRA8, 2100X1500)
+[2020.02.02-03.28.26:148][897]LogTexture: Display: Building textures: Quit_button (BGRA8, 2100X1500)
+[2020.02.02-03.28.26:216][897]LogTexture: Display: Building textures: Start_button (BGRA8, 2100X1500)
+[2020.02.02-03.28.30:011][222]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/2DSideScrollerBP/Sprites/UI/pause_menu_close.pause_menu_close
+[2020.02.02-03.28.30:045][222]LogBlueprintActionDatabase: Requesting refresh due to module change: TextureEditor (loaded)
+[2020.02.02-03.28.30:046][222]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.02.02-03.28.32:708][397]LogSlate: Window 'pause_menu_close' being destroyed
+[2020.02.02-03.28.32:725][397]LogSlate: Window 'pause_menu_close' being destroyed
+[2020.02.02-03.28.42:567][126]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/2DSideScrollerBP/Blueprints/Energy.Energy
+[2020.02.02-03.28.44:969][275]LogSlate: Window 'Energy' being destroyed
+[2020.02.02-03.29.09:468][917]LogUObjectHash: Compacting FUObjectHashTables data took   7.29ms
+[2020.02.02-03.29.10:841][917]LogSlate: Window 'Save Content' being destroyed
+[2020.02.02-03.29.11:025][917]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/button_downF69DF0EF45AD8FF06A4A0EAE880C0DC9.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Sprites/UI/button_down.uasset'
+[2020.02.02-03.29.11:199][917]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/button_up78AAB25D43F83D8ECF2436909A9DD724.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Sprites/UI/button_up.uasset'
+[2020.02.02-03.29.11:378][917]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Controls_exit_button78611055473574F8E71AC69914963C4C.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Sprites/UI/Controls_exit_button.uasset'
+[2020.02.02-03.29.11:563][917]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Controls_full5F738E394F6F5DA6B002D4AD3196E217.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Sprites/UI/Controls_full.uasset'
+[2020.02.02-03.29.11:739][917]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Controls_jump9CF5F7594D303AAC4CBC45B8143F4714.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Sprites/UI/Controls_jump.uasset'
+[2020.02.02-03.29.11:899][917]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Controls_kill_revive0C18DC9F48650109535D5E85C9BA93A4.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Sprites/UI/Controls_kill_revive.uasset'
+[2020.02.02-03.29.12:056][917]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Controls_push1F44DA044D644C069E6B748A43C2FCF6.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Sprites/UI/Controls_push.uasset'
+[2020.02.02-03.29.12:206][917]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Controls_walk44D8B1A84BDA2FF51B85828EC7FAD9DC.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Sprites/UI/Controls_walk.uasset'
+[2020.02.02-03.29.12:355][917]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/health_bar880FA4B14DEEA25C9D40C99A666BB897.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Sprites/UI/health_bar.uasset'
+[2020.02.02-03.29.12:499][917]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/pause_just_menu9E6F5F7749DD609FDC602BBD1BDA2164.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Sprites/UI/pause_just_menu.uasset'
+[2020.02.02-03.29.12:642][917]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/pause_menu31B159884641C298CCE1219242CF3627.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Sprites/UI/pause_menu.uasset'
+[2020.02.02-03.29.12:780][917]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/pause_menu_close85CCE7AA491C9C735FFC3EA25AD84F53.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Sprites/UI/pause_menu_close.uasset'
+[2020.02.02-03.29.13:542][917]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/pause_menu_controls07E158134A9D1BA6403217B559A38A90.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Sprites/UI/pause_menu_controls.uasset'
+[2020.02.02-03.29.14:262][917]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/pause_menu_quit_2D04C0ECB432D78D9DA04D9A868AD7B09.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Sprites/UI/pause_menu_quit_2.uasset'
+[2020.02.02-03.29.14:427][917]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Quit_button05D844AB4AB181751EA235BEB3D1E2AF.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Sprites/UI/Quit_button.uasset'
+[2020.02.02-03.29.14:591][917]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Start_buttonB2860C7C4F62125EFC84CE909A69E962.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Sprites/UI/Start_button.uasset'
+[2020.02.02-03.29.56:343][699]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/2DSideScrollerBP/Sprites/UI/health_bar.health_bar
+[2020.02.02-03.32.33:311][290]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/2DSideScrollerBP/Blueprints/Energy.Energy
+[2020.02.02-03.34.48:135][324]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-03.35.23:346][491]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.02-03.35.38:358][ 32]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.02-03.37.50:367][725]BlueprintLog: New page: Compile Energy
+[2020.02.02-03.37.50:698][725]LogUObjectHash: Compacting FUObjectHashTables data took   6.49ms
+[2020.02.02-03.37.51:145][763]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Energy3DFF41A147195FE4227EE383B17052AE.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Blueprints/Energy.uasset'
+[2020.02.02-03.37.53:725][ 65]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-03.37.53:774][ 65]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1'
+[2020.02.02-03.37.53:774][ 65]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-03.37.53:774][ 65]PIE: New page: PIE session: level1_PT1 (Feb 1, 2020, 5:37:53 PM)
+[2020.02.02-03.37.53:774][ 65]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT1
+[2020.02.02-03.37.53:779][ 65]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004709s)
+[2020.02.02-03.37.53:780][ 65]LogAIModule: Creating AISystem for world level1_PT1
+[2020.02.02-03.37.53:780][ 65]LogPlayLevel: PIE: World Init took: (0.000756s)
+[2020.02.02-03.37.53:780][ 65]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT1.level1_PT1 (0.005637s)
+[2020.02.02-03.37.53:835][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   5.91ms
+[2020.02.02-03.37.53:885][ 65]LogInit: XAudio2 using '2 - DELL U2717D (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.02-03.37.53:904][ 65]LogInit: FAudioDevice initialized.
+[2020.02.02-03.37.53:913][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-03.37.53:943][ 65]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.02-03.37.53:946][ 65]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT1.level1_PT1 up for play (max tick rate 0) at 2020.02.01-22.37.53
+[2020.02.02-03.37.53:946][ 65]LogWorld: Bringing up level for play took: 0.002128
+[2020.02.02-03.37.53:961][ 65]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT1 0.051
+[2020.02.02-03.37.53:962][ 65]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1'
+[2020.02.02-03.38.26:472][961]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1'
+[2020.02.02-03.38.26:472][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-03.38.26:497][961]LogSlate: Window 'SalamisGamejam Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.02-03.38.26:536][961]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-03.38.26:536][961]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1'
+[2020.02.02-03.38.26:604][961]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2020.02.02-03.38.26:653][962]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2020.02.02-03.38.29:306][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.02.02-03.39.29:726][830]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\Users\Graphic.SJH519-000W\Documents\GitHub\GGJ20-TheSalamis\Game_Jam_1\destructobeam-bb\destructobeambb_bold.ttf)
+[2020.02.02-03.39.46:681][830]LogSlate: Window 'Font Face Import Options' being destroyed
+[2020.02.02-03.39.46:693][830]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2020.02.02-03.39.46:744][831]LogSlate: Took 0.000264 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.02-03.39.46:750][831]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.02-03.39.46:756][831]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.02-03.39.46:765][831]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.02-03.39.56:537][428]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\Users\Graphic.SJH519-000W\Documents\GitHub\GGJ20-TheSalamis\Game_Jam_1\destructobeam-bb\destructobeambb_reg.ttf)
+[2020.02.02-03.39.58:533][428]LogSlate: Window 'Font Face Import Options' being destroyed
+[2020.02.02-03.39.58:544][428]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2020.02.02-03.39.58:599][429]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.02-03.39.58:604][429]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.02-03.39.58:610][429]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.02-03.39.58:617][429]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.02-03.40.01:049][629]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.02.02-03.40.01:080][629]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/destructobeambb_bold4EDDF8534FB2C436A84365AD456DB9E8.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Fonts/destructobeambb_bold.uasset'
+[2020.02.02-03.40.01:110][629]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/destructobeambb_bold_Font513233C14B51FB17BFBAA5986013C746.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Fonts/destructobeambb_bold_Font.uasset'
+[2020.02.02-03.40.01:125][629]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/destructobeambb_regAA67088C4ECE8245E8916096AA5B9659.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Fonts/destructobeambb_reg.uasset'
+[2020.02.02-03.40.01:151][629]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/destructobeambb_reg_Font665A707F41B2DF5518B69098A515C943.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Fonts/destructobeambb_reg_Font.uasset'
+[2020.02.02-03.40.02:027][701]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.02-03.40.25:575][430]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.02-03.40.28:643][789]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.02-03.40.29:638][905]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.02-03.40.30:335][987]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (43.610 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.02-03.40.50:332][278]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.02-03.40.52:211][500]BlueprintLog: New page: Compile Energy
+[2020.02.02-03.40.52:285][500]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2020.02.02-03.40.53:043][569]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/EnergyAD6422D047A9215907FBF19335D3B956.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Blueprints/Energy.uasset'
+[2020.02.02-03.40.53:878][662]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.02-03.40.54:891][782]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-03.40.54:923][782]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1'
+[2020.02.02-03.40.54:923][782]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-03.40.54:923][782]PIE: New page: PIE session: level1_PT1 (Feb 1, 2020, 5:40:54 PM)
+[2020.02.02-03.40.54:924][782]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT1
+[2020.02.02-03.40.54:929][782]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005133s)
+[2020.02.02-03.40.54:930][782]LogAIModule: Creating AISystem for world level1_PT1
+[2020.02.02-03.40.54:930][782]LogPlayLevel: PIE: World Init took: (0.000676s)
+[2020.02.02-03.40.54:930][782]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT1.level1_PT1 (0.005967s)
+[2020.02.02-03.40.54:985][782]LogUObjectHash: Compacting FUObjectHashTables data took   5.81ms
+[2020.02.02-03.40.55:035][782]LogInit: XAudio2 using '2 - DELL U2717D (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.02-03.40.55:052][782]LogInit: FAudioDevice initialized.
+[2020.02.02-03.40.55:063][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-03.40.55:101][782]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.02-03.40.55:107][782]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT1.level1_PT1 up for play (max tick rate 0) at 2020.02.01-22.40.55
+[2020.02.02-03.40.55:108][782]LogWorld: Bringing up level for play took: 0.004585
+[2020.02.02-03.40.55:128][782]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT1 -0.782
+[2020.02.02-03.40.55:129][782]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1'
+[2020.02.02-03.41.01:571][550]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1'
+[2020.02.02-03.41.01:572][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-03.41.01:598][550]LogSlate: Window 'SalamisGamejam Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.02-03.41.01:641][550]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-03.41.01:642][550]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1'
+[2020.02.02-03.41.01:708][550]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2020.02.02-03.41.01:754][551]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2020.02.02-03.41.41:121][173]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.02-03.41.50:955][939]BlueprintLog: New page: Compile Energy
+[2020.02.02-03.41.51:020][939]LogUObjectHash: Compacting FUObjectHashTables data took   5.70ms
+[2020.02.02-03.41.51:492][974]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Energy147EA128469D3445FABDAB8E3E4D6841.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Blueprints/Energy.uasset'
+[2020.02.02-03.41.52:568][ 96]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-03.41.52:600][ 96]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1'
+[2020.02.02-03.41.52:600][ 96]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-03.41.52:600][ 96]PIE: New page: PIE session: level1_PT1 (Feb 1, 2020, 5:41:52 PM)
+[2020.02.02-03.41.52:601][ 96]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT1
+[2020.02.02-03.41.52:606][ 96]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004964s)
+[2020.02.02-03.41.52:606][ 96]LogAIModule: Creating AISystem for world level1_PT1
+[2020.02.02-03.41.52:606][ 96]LogPlayLevel: PIE: World Init took: (0.000677s)
+[2020.02.02-03.41.52:606][ 96]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT1.level1_PT1 (0.005797s)
+[2020.02.02-03.41.52:663][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2020.02.02-03.41.52:711][ 96]LogInit: XAudio2 using '2 - DELL U2717D (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.02-03.41.52:728][ 96]LogInit: FAudioDevice initialized.
+[2020.02.02-03.41.52:739][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-03.41.52:771][ 96]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.02-03.41.52:774][ 96]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT1.level1_PT1 up for play (max tick rate 0) at 2020.02.01-22.41.52
+[2020.02.02-03.41.52:774][ 96]LogWorld: Bringing up level for play took: 0.002177
+[2020.02.02-03.41.52:789][ 96]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT1 0.879
+[2020.02.02-03.41.52:790][ 96]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1'
+[2020.02.02-03.42.07:659][816]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1'
+[2020.02.02-03.42.07:659][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-03.42.07:685][816]LogSlate: Window 'SalamisGamejam Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.02-03.42.07:727][816]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-03.42.07:727][816]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1'
+[2020.02.02-03.42.07:798][816]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2020.02.02-03.42.07:814][817]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2020.02.02-03.42.08:985][948]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Energy367FBB0B4FC7E69177CF0DB07C6411D8.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Blueprints/Energy.uasset'
+[2020.02.02-03.42.32:218][358]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/2DSideScrollerBP/Blueprints/EnergyPopUp.EnergyPopUp
+[2020.02.02-03.42.53:181][677]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.02-03.42.56:211][ 32]BlueprintLog: New page: Compile EnergyPopUp
+[2020.02.02-03.42.56:279][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2020.02.02-03.42.56:918][ 79]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/EnergyPopUpF9264F8D43B6FBE20CEAE5A6751547EF.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Blueprints/EnergyPopUp.uasset'
+[2020.02.02-03.42.59:387][330]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-03.42.59:421][330]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1'
+[2020.02.02-03.42.59:421][330]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-03.42.59:421][330]PIE: New page: PIE session: level1_PT1 (Feb 1, 2020, 5:42:59 PM)
+[2020.02.02-03.42.59:422][330]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT1
+[2020.02.02-03.42.59:427][330]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004643s)
+[2020.02.02-03.42.59:427][330]LogAIModule: Creating AISystem for world level1_PT1
+[2020.02.02-03.42.59:427][330]LogPlayLevel: PIE: World Init took: (0.000706s)
+[2020.02.02-03.42.59:427][330]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT1.level1_PT1 (0.005513s)
+[2020.02.02-03.42.59:488][330]LogUObjectHash: Compacting FUObjectHashTables data took   5.76ms
+[2020.02.02-03.42.59:537][330]LogInit: XAudio2 using '2 - DELL U2717D (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.02-03.42.59:554][330]LogInit: FAudioDevice initialized.
+[2020.02.02-03.42.59:587][330]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.02-03.42.59:589][330]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT1.level1_PT1 up for play (max tick rate 0) at 2020.02.01-22.42.59
+[2020.02.02-03.42.59:590][330]LogWorld: Bringing up level for play took: 0.002065
+[2020.02.02-03.42.59:604][330]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_level1_PT1 -0.307
+[2020.02.02-03.42.59:604][330]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1'
+[2020.02.02-03.43.25:082][381]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1'
+[2020.02.02-03.43.25:083][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-03.43.25:125][381]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-03.43.25:125][381]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/level1_PT1.level1_PT1:PersistentLevel.level1_PT1'
+[2020.02.02-03.43.25:186][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-03.43.25:194][381]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2020.02.02-03.43.25:231][382]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2020.02.02-03.43.26:699][506]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.02-03.43.27:481][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
