@@ -782,3 +782,147 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.02-18.50.36:006][366]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
 [2020.02.02-18.50.36:028][367]LogPlayLevel: Display: Destroying online subsystem :Context_5
 [2020.02.02-18.50.39:187][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.02.02-18.50.52:557][783]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BG1_Sprite)
+[2020.02.02-18.50.54:049][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-18.50.56:062][988]LogAIModule: Creating AISystem for world level1_PT2
+[2020.02.02-18.50.56:255][988]LogAssetEditorManager: Opening Asset editor for World /Game/level1/level1_PT2.level1_PT2
+[2020.02.02-18.50.56:313][988]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.02.02-18.50.56:315][988]Cmd: MAP LOAD FILE="../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/level1/level1_PT2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.02-18.50.56:315][988]LightingResults: New page: Lighting Build
+[2020.02.02-18.50.56:316][988]LoadErrors: New page: Loading map: level1_PT2.umap
+[2020.02.02-18.50.56:374][988]MapCheck: New page: Map Check
+[2020.02.02-18.50.56:374][988]LightingResults: New page: Lighting Build
+[2020.02.02-18.50.56:430][988]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2020.02.02-18.50.56:444][988]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.02-18.50.56:497][988]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.02.02-18.50.56:550][988]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.02-18.50.56:551][988]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.106ms to complete.
+[2020.02.02-18.50.56:551][988]LogFileHelpers: Loading map 'level1_PT2' took 0.237
+[2020.02.02-18.50.58:522][114]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-18.50.58:578][114]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level1/level1_PT2.level1_PT2:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2' with GeneratedClass '/Game/level1/level1_PT2.level1_PT2_C' with ClassGeneratedBy '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2'
+[2020.02.02-18.50.58:578][114]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-18.50.58:578][114]PIE: New page: PIE session: level1_PT2 (Feb 2, 2020, 8:50:58 AM)
+[2020.02.02-18.50.58:579][114]LogPlayLevel: Creating play world package: /Game/level1/UEDPIE_0_level1_PT2
+[2020.02.02-18.50.58:590][114]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010975s)
+[2020.02.02-18.50.58:591][114]LogAIModule: Creating AISystem for world level1_PT2
+[2020.02.02-18.50.58:591][114]LogPlayLevel: PIE: World Init took: (0.000773s)
+[2020.02.02-18.50.58:591][114]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level1/level1_PT2.level1_PT2 to /Game/level1/UEDPIE_0_level1_PT2.level1_PT2 (0.012079s)
+[2020.02.02-18.50.58:642][114]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.02.02-18.50.58:705][114]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4208 (AB 120))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.02-18.50.58:721][114]LogInit: FAudioDevice initialized.
+[2020.02.02-18.50.58:751][114]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.02-18.50.58:755][114]LogWorld: Bringing World /Game/level1/UEDPIE_0_level1_PT2.level1_PT2 up for play (max tick rate 0) at 2020.02.02-13.50.58
+[2020.02.02-18.50.58:755][114]LogWorld: Bringing up level for play took: 0.003323
+[2020.02.02-18.50.58:768][114]LogBlueprintUserMessages: [BP_Robot_5] false
+[2020.02.02-18.50.58:769][114]PIE: Play in editor start time for /Game/level1/UEDPIE_0_level1_PT2 -0.335
+[2020.02.02-18.50.58:770][114]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level1/level1_PT2.level1_PT2:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2' with GeneratedClass '/Game/level1/level1_PT2.level1_PT2_C' with ClassGeneratedBy '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2'
+[2020.02.02-18.51.16:097][636]LogScript: Warning: Accessed None trying to read property Mesh
+	Platfrom_BP_C /Game/level1/UEDPIE_0_level1_PT2.level1_PT2:PersistentLevel.Platfrom_BP_2
+	Function /Game/level1/Platfrom_BP.Platfrom_BP_C:ExecuteUbergraph_Platfrom_BP:0195
+[2020.02.02-18.51.16:097][636]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Mesh". Blueprint:  Platfrom_BP Function:  Execute Ubergraph Platfrom BP Graph:  EventGraph Node:  Branch
+[2020.02.02-18.51.20:695][ 42]LogScript: Warning: Accessed None trying to read property Mesh
+	Platfrom_BP_C /Game/level1/UEDPIE_0_level1_PT2.level1_PT2:PersistentLevel.Platfrom_BP_2
+	Function /Game/level1/Platfrom_BP.Platfrom_BP_C:ExecuteUbergraph_Platfrom_BP:0195
+[2020.02.02-18.51.20:695][ 42]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Mesh". Blueprint:  Platfrom_BP Function:  Execute Ubergraph Platfrom BP Graph:  EventGraph Node:  Branch
+[2020.02.02-18.51.24:560][379]LogScript: Warning: Accessed None trying to read property Mesh
+	Platfrom_BP_C /Game/level1/UEDPIE_0_level1_PT2.level1_PT2:PersistentLevel.Platfrom_BP_2
+	Function /Game/level1/Platfrom_BP.Platfrom_BP_C:ExecuteUbergraph_Platfrom_BP:0195
+[2020.02.02-18.51.24:560][379]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Mesh". Blueprint:  Platfrom_BP Function:  Execute Ubergraph Platfrom BP Graph:  EventGraph Node:  Branch
+[2020.02.02-18.51.28:076][686]LogScript: Warning: Accessed None trying to read property Mesh
+	Platfrom_BP_C /Game/level1/UEDPIE_0_level1_PT2.level1_PT2:PersistentLevel.Platfrom_BP_2
+	Function /Game/level1/Platfrom_BP.Platfrom_BP_C:ExecuteUbergraph_Platfrom_BP:0195
+[2020.02.02-18.51.28:077][686]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Mesh". Blueprint:  Platfrom_BP Function:  Execute Ubergraph Platfrom BP Graph:  EventGraph Node:  Branch
+[2020.02.02-18.51.31:712][  6]LogScript: Warning: Accessed None trying to read property Mesh
+	Platfrom_BP_C /Game/level1/UEDPIE_0_level1_PT2.level1_PT2:PersistentLevel.Platfrom_BP_2
+	Function /Game/level1/Platfrom_BP.Platfrom_BP_C:ExecuteUbergraph_Platfrom_BP:0195
+[2020.02.02-18.51.31:712][  6]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Mesh". Blueprint:  Platfrom_BP Function:  Execute Ubergraph Platfrom BP Graph:  EventGraph Node:  Branch
+[2020.02.02-18.51.34:078][214]LogScript: Warning: Accessed None trying to read property Mesh
+	Platfrom_BP_C /Game/level1/UEDPIE_0_level1_PT2.level1_PT2:PersistentLevel.Platfrom_BP_2
+	Function /Game/level1/Platfrom_BP.Platfrom_BP_C:ExecuteUbergraph_Platfrom_BP:0195
+[2020.02.02-18.51.34:078][214]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Mesh". Blueprint:  Platfrom_BP Function:  Execute Ubergraph Platfrom BP Graph:  EventGraph Node:  Branch
+[2020.02.02-18.51.34:101][216]LogScript: Warning: Accessed None trying to read property Mesh
+	Platfrom_BP_C /Game/level1/UEDPIE_0_level1_PT2.level1_PT2:PersistentLevel.Platfrom_BP3
+	Function /Game/level1/Platfrom_BP.Platfrom_BP_C:ExecuteUbergraph_Platfrom_BP:0195
+[2020.02.02-18.51.34:101][216]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Mesh". Blueprint:  Platfrom_BP Function:  Execute Ubergraph Platfrom BP Graph:  EventGraph Node:  Branch
+[2020.02.02-18.51.36:192][401]LogScript: Warning: Accessed None trying to read property Mesh
+	Platfrom_BP_C /Game/level1/UEDPIE_0_level1_PT2.level1_PT2:PersistentLevel.Platfrom_BP3
+	Function /Game/level1/Platfrom_BP.Platfrom_BP_C:ExecuteUbergraph_Platfrom_BP:0195
+[2020.02.02-18.51.36:192][401]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Mesh". Blueprint:  Platfrom_BP Function:  Execute Ubergraph Platfrom BP Graph:  EventGraph Node:  Branch
+[2020.02.02-18.51.36:674][443]LogScript: Warning: Accessed None trying to read property Mesh
+	Platfrom_BP_C /Game/level1/UEDPIE_0_level1_PT2.level1_PT2:PersistentLevel.Platfrom_BP2
+	Function /Game/level1/Platfrom_BP.Platfrom_BP_C:ExecuteUbergraph_Platfrom_BP:0195
+[2020.02.02-18.51.36:675][443]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Mesh". Blueprint:  Platfrom_BP Function:  Execute Ubergraph Platfrom BP Graph:  EventGraph Node:  Branch
+[2020.02.02-18.51.37:867][548]LogScript: Warning: Accessed None trying to read property Mesh
+	Platfrom_BP_C /Game/level1/UEDPIE_0_level1_PT2.level1_PT2:PersistentLevel.Platfrom_BP2
+	Function /Game/level1/Platfrom_BP.Platfrom_BP_C:ExecuteUbergraph_Platfrom_BP:0195
+[2020.02.02-18.51.37:868][548]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Mesh". Blueprint:  Platfrom_BP Function:  Execute Ubergraph Platfrom BP Graph:  EventGraph Node:  Branch
+[2020.02.02-18.51.37:976][558]LogScript: Warning: Accessed None trying to read property Mesh
+	Platfrom_BP_C /Game/level1/UEDPIE_0_level1_PT2.level1_PT2:PersistentLevel.Platfrom_BP6
+	Function /Game/level1/Platfrom_BP.Platfrom_BP_C:ExecuteUbergraph_Platfrom_BP:0195
+[2020.02.02-18.51.37:976][558]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Mesh". Blueprint:  Platfrom_BP Function:  Execute Ubergraph Platfrom BP Graph:  EventGraph Node:  Branch
+[2020.02.02-18.51.39:757][715]LogScript: Warning: Accessed None trying to read property Mesh
+	Platfrom_BP_C /Game/level1/UEDPIE_0_level1_PT2.level1_PT2:PersistentLevel.Platfrom_BP6
+	Function /Game/level1/Platfrom_BP.Platfrom_BP_C:ExecuteUbergraph_Platfrom_BP:0195
+[2020.02.02-18.51.39:757][715]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Mesh". Blueprint:  Platfrom_BP Function:  Execute Ubergraph Platfrom BP Graph:  EventGraph Node:  Branch
+[2020.02.02-18.51.39:975][734]LogScript: Warning: Accessed None trying to read property Mesh
+	Platfrom_BP_C /Game/level1/UEDPIE_0_level1_PT2.level1_PT2:PersistentLevel.Platfrom_BP8
+	Function /Game/level1/Platfrom_BP.Platfrom_BP_C:ExecuteUbergraph_Platfrom_BP:0195
+[2020.02.02-18.51.39:976][734]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Mesh". Blueprint:  Platfrom_BP Function:  Execute Ubergraph Platfrom BP Graph:  EventGraph Node:  Branch
+[2020.02.02-18.51.40:705][798]LogScript: Warning: Accessed None trying to read property Mesh
+	Platfrom_BP_C /Game/level1/UEDPIE_0_level1_PT2.level1_PT2:PersistentLevel.Platfrom_BP8
+	Function /Game/level1/Platfrom_BP.Platfrom_BP_C:ExecuteUbergraph_Platfrom_BP:0195
+[2020.02.02-18.51.40:706][798]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Mesh". Blueprint:  Platfrom_BP Function:  Execute Ubergraph Platfrom BP Graph:  EventGraph Node:  Branch
+[2020.02.02-18.51.40:955][820]LogScript: Warning: Accessed None trying to read property Mesh
+	Platfrom_BP_C /Game/level1/UEDPIE_0_level1_PT2.level1_PT2:PersistentLevel.Platfrom_BP7
+	Function /Game/level1/Platfrom_BP.Platfrom_BP_C:ExecuteUbergraph_Platfrom_BP:0195
+[2020.02.02-18.51.40:955][820]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Mesh". Blueprint:  Platfrom_BP Function:  Execute Ubergraph Platfrom BP Graph:  EventGraph Node:  Branch
+[2020.02.02-18.51.42:412][948]LogScript: Warning: Accessed None trying to read property Mesh
+	Platfrom_BP_C /Game/level1/UEDPIE_0_level1_PT2.level1_PT2:PersistentLevel.Platfrom_BP7
+	Function /Game/level1/Platfrom_BP.Platfrom_BP_C:ExecuteUbergraph_Platfrom_BP:0195
+[2020.02.02-18.51.42:413][948]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Mesh". Blueprint:  Platfrom_BP Function:  Execute Ubergraph Platfrom BP Graph:  EventGraph Node:  Branch
+[2020.02.02-18.51.44:087][ 95]LogScript: Warning: Accessed None trying to read property Mesh
+	Platfrom_BP_C /Game/level1/UEDPIE_0_level1_PT2.level1_PT2:PersistentLevel.Platfrom_BP8
+	Function /Game/level1/Platfrom_BP.Platfrom_BP_C:ExecuteUbergraph_Platfrom_BP:0195
+[2020.02.02-18.51.44:087][ 95]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Mesh". Blueprint:  Platfrom_BP Function:  Execute Ubergraph Platfrom BP Graph:  EventGraph Node:  Branch
+[2020.02.02-18.51.44:137][ 99]LogScript: Warning: Accessed None trying to read property Mesh
+	Platfrom_BP_C /Game/level1/UEDPIE_0_level1_PT2.level1_PT2:PersistentLevel.Platfrom_BP8
+	Function /Game/level1/Platfrom_BP.Platfrom_BP_C:ExecuteUbergraph_Platfrom_BP:0195
+[2020.02.02-18.51.44:137][ 99]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Mesh". Blueprint:  Platfrom_BP Function:  Execute Ubergraph Platfrom BP Graph:  EventGraph Node:  Branch
+[2020.02.02-18.51.44:385][121]LogScript: Warning: Accessed None trying to read property Mesh
+	Platfrom_BP_C /Game/level1/UEDPIE_0_level1_PT2.level1_PT2:PersistentLevel.Platfrom_BP2
+	Function /Game/level1/Platfrom_BP.Platfrom_BP_C:ExecuteUbergraph_Platfrom_BP:0195
+[2020.02.02-18.51.44:385][121]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Mesh". Blueprint:  Platfrom_BP Function:  Execute Ubergraph Platfrom BP Graph:  EventGraph Node:  Branch
+[2020.02.02-18.51.44:396][122]LogScript: Warning: Accessed None trying to read property Mesh
+	Platfrom_BP_C /Game/level1/UEDPIE_0_level1_PT2.level1_PT2:PersistentLevel.Platfrom_BP2
+	Function /Game/level1/Platfrom_BP.Platfrom_BP_C:ExecuteUbergraph_Platfrom_BP:0195
+[2020.02.02-18.51.44:396][122]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Mesh". Blueprint:  Platfrom_BP Function:  Execute Ubergraph Platfrom BP Graph:  EventGraph Node:  Branch
+[2020.02.02-18.51.44:604][141]LogScript: Warning: Accessed None trying to read property Mesh
+	Platfrom_BP_C /Game/level1/UEDPIE_0_level1_PT2.level1_PT2:PersistentLevel.Platfrom_BP_2
+	Function /Game/level1/Platfrom_BP.Platfrom_BP_C:ExecuteUbergraph_Platfrom_BP:0195
+[2020.02.02-18.51.44:604][141]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Mesh". Blueprint:  Platfrom_BP Function:  Execute Ubergraph Platfrom BP Graph:  EventGraph Node:  Branch
+[2020.02.02-18.51.44:615][142]LogScript: Warning: Accessed None trying to read property Mesh
+	Platfrom_BP_C /Game/level1/UEDPIE_0_level1_PT2.level1_PT2:PersistentLevel.Platfrom_BP_2
+	Function /Game/level1/Platfrom_BP.Platfrom_BP_C:ExecuteUbergraph_Platfrom_BP:0195
+[2020.02.02-18.51.44:615][142]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Mesh". Blueprint:  Platfrom_BP Function:  Execute Ubergraph Platfrom BP Graph:  EventGraph Node:  Branch
+[2020.02.02-18.51.52:685][852]LogScript: Warning: Accessed None trying to read property Mesh
+	Platfrom_BP_C /Game/level1/UEDPIE_0_level1_PT2.level1_PT2:PersistentLevel.Platfrom_BP_2
+	Function /Game/level1/Platfrom_BP.Platfrom_BP_C:ExecuteUbergraph_Platfrom_BP:0195
+[2020.02.02-18.51.52:685][852]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Mesh". Blueprint:  Platfrom_BP Function:  Execute Ubergraph Platfrom BP Graph:  EventGraph Node:  Branch
+[2020.02.02-18.51.53:872][956]LogScript: Warning: Accessed None trying to read property Mesh
+	Platfrom_BP_C /Game/level1/UEDPIE_0_level1_PT2.level1_PT2:PersistentLevel.Platfrom_BP_2
+	Function /Game/level1/Platfrom_BP.Platfrom_BP_C:ExecuteUbergraph_Platfrom_BP:0195
+[2020.02.02-18.51.53:872][956]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Mesh". Blueprint:  Platfrom_BP Function:  Execute Ubergraph Platfrom BP Graph:  EventGraph Node:  Branch
+[2020.02.02-18.51.56:375][178]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level1/level1_PT2.level1_PT2:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2' with GeneratedClass '/Game/level1/level1_PT2.level1_PT2_C' with ClassGeneratedBy '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2'
+[2020.02.02-18.51.56:375][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-18.51.56:421][178]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-18.51.56:421][178]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level1/level1_PT2.level1_PT2:PersistentLevel' has LevelScriptBlueprint '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2' with GeneratedClass '/Game/level1/level1_PT2.level1_PT2_C' with ClassGeneratedBy '/Game/level1/level1_PT2.level1_PT2:PersistentLevel.level1_PT2'
+[2020.02.02-18.51.56:471][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-18.51.56:477][178]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.02.02-18.51.56:492][178]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.02-18.51.56:579][179]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.02.02-18.51.59:714][370]LogSlate: Window 'Message Log' being destroyed
+[2020.02.02-18.51.59:737][370]LogSlate: Window 'Message Log' being destroyed
+[2020.02.02-18.52.07:823][902]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/Key.Key
+[2020.02.02-18.52.25:794][856]BlueprintLog: New page: Compile Key
+[2020.02.02-18.52.26:055][856]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2020.02.02-18.52.26:590][895]LogSavePackage: Moving '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Saved/Key32EBAED84392CDA4405E169B43DB08E4.tmp' to '../../../../../../Users/Graphic.SJH519-000W/Documents/GitHub/GGJ20-TheSalamis/SalamisGamejam/Content/2DSideScrollerBP/Blueprints/Key.uasset'
